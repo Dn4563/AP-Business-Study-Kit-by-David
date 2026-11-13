@@ -1,12 +1,8 @@
 import json, os, sys
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
-from lib import build
+from lib import build, TIPS
 from u1_mock import SM, QM
 from u1_sets import SS, QS, MATH
-TIPS = ["Read the question first, then the scenario, so you know what to look for.",
- "Several choices can be true. Pick the one the scenario supports BEST.",
- "Use the numbers: if a table is given, at least one question needs it.",
- "Watch for choices that are too extreme (\"always,\" \"guarantees\") or that answer a different question."]
 def sec(name, items, seed, sources, prefix, **kw):
     used = {q[0] for q in items if q[0]}
     return dict(name=name, mode=kw.pop("mode", "practice"), tips=TIPS, sources={k: v for k, v in sources.items() if k in used}, questions=build(prefix, items, seed), **kw)

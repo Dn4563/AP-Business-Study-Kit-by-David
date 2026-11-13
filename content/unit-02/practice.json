@@ -1,0 +1,1670 @@
+{
+ "sections": [
+  {
+   "name": "Set A: Customers and research (2.1-2.3)",
+   "mode": "practice",
+   "tips": [
+    "Read the question first, then the scenario, so you know what to look for.",
+    "Several choices can be true. Pick the one the scenario supports BEST.",
+    "Use the numbers: if a table is given, at least one question needs it.",
+    "Watch for choices that are too extreme (\"always,\" \"guarantees\") or that answer a different question."
+   ],
+   "sources": {
+    "P1": {
+     "title": "Two coffee shops' customers",
+     "attr": "Practice scenario: comparing customer data.",
+     "label": "Practice scenario written for this kit from your class materials; the company is made up.",
+     "paras": [
+      "A coffee company surveyed customers at two locations."
+     ],
+     "table": [
+      [
+       "",
+       "Downtown shop",
+       "Campus shop"
+      ],
+      [
+       "Most common age",
+       "30 to 45",
+       "18 to 22"
+      ],
+      [
+       "Top reason for visiting",
+       "Fast service before work",
+       "A place to study with friends"
+      ],
+      [
+       "Visits per week",
+       "4",
+       "2"
+      ],
+      [
+       "Average spend per visit",
+       "$6",
+       "$4"
+      ]
+     ]
+    },
+    "P2": {
+     "title": "FreshFold laundry pods",
+     "attr": "Practice scenario: a new product and its research.",
+     "label": "Practice scenario written for this kit from your class materials; the company is made up.",
+     "paras": [
+      "FreshFold wants to sell plant-based laundry pods. It reads a government report on household spending, interviews 12 parents about how they do laundry, and shows two package designs to website visitors to see which one sells more. It also wonders whether it can make pods that dissolve in cold water, since its factory has never made pods before."
+     ]
+    }
+   },
+   "questions": [
+    {
+     "id": "TA-1",
+     "type": "mcq",
+     "skill": "Data",
+     "topic": "2.1",
+     "stem": "Which difference between the shops is psychographic?",
+     "options": [
+      "The most common age of the customers who come into each of the two coffee shops",
+      "Visits per week",
+      "Average spend",
+      "Why customers visit"
+     ],
+     "ans": 3,
+     "exp": "Reasons and lifestyle are psychographic.",
+     "why": [
+      "Age is demographic.",
+      "Behavior data.",
+      "Behavior data.",
+      ""
+     ],
+     "src": "P1"
+    },
+    {
+     "id": "TA-2",
+     "type": "mcq",
+     "skill": "CLV",
+     "topic": "2.1",
+     "stem": "Which shop's typical customer likely has the higher lifetime value per year?",
+     "options": [
+      "Downtown",
+      "Campus, because students will keep coming to the shop for all four years of college",
+      "They're equal",
+      "Can't tell"
+     ],
+     "ans": 0,
+     "exp": "4 × $6 = $24 a week vs. 2 × $4 = $8.",
+     "why": [
+      "",
+      "Downtown: $24/week vs. $8/week.",
+      "No.",
+      "The table shows spending."
+     ],
+     "src": "P1"
+    },
+    {
+     "id": "TA-3",
+     "type": "mcq",
+     "skill": "Segmentation",
+     "topic": "2.1",
+     "stem": "What is the company doing by treating these as two groups?",
+     "options": [
+      "Targeting, because it has picked the downtown customers as the only group it wants to serve",
+      "A/B testing",
+      "Segmentation",
+      "Branding"
+     ],
+     "ans": 2,
+     "exp": "Dividing customers into similar groups is segmentation.",
+     "why": [
+      "It divided; it hasn't chosen yet.",
+      "No.",
+      "",
+      "No."
+     ],
+     "src": "P1"
+    },
+    {
+     "id": "TA-4",
+     "type": "mcq",
+     "skill": "Targeting",
+     "topic": "2.1",
+     "stem": "For campus, which promotion fits the data BEST?",
+     "options": [
+      "Faster drive-through lanes for people rushing to work every morning before nine o'clock",
+      "Higher prices",
+      "Luxury branding",
+      "Study-friendly seating and group deals"
+     ],
+     "ans": 3,
+     "exp": "Match the message to why the segment buys.",
+     "why": [
+      "That fits downtown.",
+      "Not supported.",
+      "Not supported.",
+      ""
+     ],
+     "src": "P1"
+    },
+    {
+     "id": "TA-5",
+     "type": "mcq",
+     "skill": "Research",
+     "topic": "2.3",
+     "stem": "The government report on household spending is:",
+     "options": [
+      "Primary research, because FreshFold is using it to answer a question about its own new product",
+      "Secondary research",
+      "Qualitative data",
+      "A/B testing"
+     ],
+     "ans": 1,
+     "exp": "Existing data is secondary.",
+     "why": [
+      "Someone else collected it.",
+      "",
+      "It's numbers.",
+      "No."
+     ],
+     "src": "P2"
+    },
+    {
+     "id": "TA-6",
+     "type": "mcq",
+     "skill": "Research",
+     "topic": "2.3",
+     "stem": "Interviewing 12 parents MAINLY gives FreshFold:",
+     "options": [
+      "A reliable percentage of all households that would buy the pods at a given price",
+      "Reasons behind laundry habits",
+      "Market size",
+      "Its CAC"
+     ],
+     "ans": 1,
+     "exp": "Interviews give qualitative why.",
+     "why": [
+      "Too few for a percentage.",
+      "",
+      "Secondary.",
+      "No."
+     ],
+     "src": "P2"
+    },
+    {
+     "id": "TA-7",
+     "type": "mcq",
+     "skill": "Research",
+     "topic": "2.3",
+     "stem": "Showing two package designs and comparing sales is:",
+     "options": [
+      "A focus group, because FreshFold is learning which design website visitors say they like best",
+      "Observation",
+      "An A/B test",
+      "Secondary research"
+     ],
+     "ans": 2,
+     "exp": "Two versions, real responses.",
+     "why": [
+      "It measures what they buy.",
+      "It controls the versions.",
+      "",
+      "New data."
+     ],
+     "src": "P2"
+    },
+    {
+     "id": "TA-8",
+     "type": "mcq",
+     "skill": "DFV",
+     "topic": "2.3",
+     "stem": "\"Can our factory make pods that dissolve in cold water?\" is a question about:",
+     "options": [
+      "Feasibility",
+      "Desirability, because customers will want pods that work in cold water to save on energy",
+      "Viability",
+      "Elasticity"
+     ],
+     "ans": 0,
+     "exp": "Resources, technology and expertise are feasibility.",
+     "why": [
+      "",
+      "The question is whether FreshFold can make it.",
+      "Not profit.",
+      "No."
+     ],
+     "src": "P2"
+    }
+   ]
+  },
+  {
+   "name": "Set B: Promotion (2.7)",
+   "mode": "practice",
+   "tips": [
+    "Read the question first, then the scenario, so you know what to look for.",
+    "Several choices can be true. Pick the one the scenario supports BEST.",
+    "Use the numbers: if a table is given, at least one question needs it.",
+    "Watch for choices that are too extreme (\"always,\" \"guarantees\") or that answer a different question."
+   ],
+   "sources": {
+    "P3": {
+     "title": "Velo e-bikes",
+     "attr": "Practice scenario: pricing and promotion.",
+     "label": "Practice scenario written for this kit from your class materials; the company is made up.",
+     "paras": [
+      "Velo sells a $2,800 electric bike. Riders can test-ride with a salesperson at weekend events. Velo also posts ads on social media and sponsors a city bike-to-work day that local news covers. In December, it offers $300 off for one week to clear last year's models."
+     ]
+    }
+   },
+   "questions": [
+    {
+     "id": "TB-1",
+     "type": "mcq",
+     "skill": "Promotion",
+     "topic": "2.7",
+     "stem": "Weekend test rides with a salesperson are:",
+     "options": [
+      "Sales promotion, because the test rides are free and only offered on a few weekends",
+      "Personal selling",
+      "PR",
+      "Direct marketing"
+     ],
+     "ans": 1,
+     "exp": "One-on-one demos for a big purchase.",
+     "why": [
+      "No price incentive; a salesperson demonstrates.",
+      "",
+      "It asks for a sale.",
+      "Not messages."
+     ],
+     "src": "P3"
+    },
+    {
+     "id": "TB-2",
+     "type": "mcq",
+     "skill": "Promotion",
+     "topic": "2.7",
+     "stem": "Why does personal selling fit Velo's bike?",
+     "options": [
+      "It's a routine purchase that customers make every week, so they need reminders to buy it",
+      "A law requires it",
+      "It's cheaper than ads",
+      "It's a consequential purchase"
+     ],
+     "ans": 3,
+     "exp": "Expensive, complex purchases need detail and demos.",
+     "why": [
+      "$2,800 isn't routine.",
+      "No.",
+      "Usually costlier.",
+      ""
+     ],
+     "src": "P3"
+    },
+    {
+     "id": "TB-3",
+     "type": "mcq",
+     "skill": "Promotion",
+     "topic": "2.7",
+     "stem": "Sponsoring bike-to-work day with news coverage is:",
+     "options": [
+      "Media advertising, because the news broadcast is shown on television to thousands of people",
+      "Sales promotion",
+      "Public relations",
+      "Personal selling"
+     ],
+     "ans": 2,
+     "exp": "Community events that build goodwill are PR.",
+     "why": [
+      "It's goodwill, not a paid ad.",
+      "No deal.",
+      "",
+      "No salesperson."
+     ],
+     "src": "P3"
+    },
+    {
+     "id": "TB-4",
+     "type": "mcq",
+     "skill": "Promotion",
+     "topic": "2.7",
+     "stem": "The one-week $300 discount is MAINLY meant to:",
+     "options": [
+      "Clear old inventory quickly",
+      "Build long-term loyalty with customers who will buy many more bikes from Velo over time",
+      "Raise the price",
+      "Get a license"
+     ],
+     "ans": 0,
+     "exp": "Short-term incentives drive quick decisions or clear stock.",
+     "why": [
+      "",
+      "Sales promotions aren't for loyalty.",
+      "It lowers it.",
+      "No."
+     ],
+     "src": "P3"
+    }
+   ]
+  },
+  {
+   "name": "Math drills: CAC, markup, margin, CTR, conversion, ROAS",
+   "mode": "practice",
+   "tips": [
+    "Read the question first, then the scenario, so you know what to look for.",
+    "Several choices can be true. Pick the one the scenario supports BEST.",
+    "Use the numbers: if a table is given, at least one question needs it.",
+    "Watch for choices that are too extreme (\"always,\" \"guarantees\") or that answer a different question."
+   ],
+   "sources": {},
+   "questions": [
+    {
+     "id": "MM-1",
+     "type": "mcq",
+     "skill": "Math",
+     "topic": "2.5",
+     "stem": "A lamp costs $50 and sells for $60. What are its markup and margin?",
+     "options": [
+      "16.7% markup and 20% margin, because the profit is ten dollars and margin is always larger",
+      "20% and 20%",
+      "10% and 10%",
+      "20% markup, 16.7% margin"
+     ],
+     "ans": 3,
+     "exp": "$10 ÷ $50 = 20%; $10 ÷ $60 = 16.7%.",
+     "why": [
+      "Reversed.",
+      "Different bases.",
+      "Dollars, not percent.",
+      ""
+     ]
+    },
+    {
+     "id": "MM-2",
+     "type": "mcq",
+     "skill": "Math",
+     "topic": "2.5",
+     "stem": "A backpack costs $40. The store wants a 50% markup. What should it charge?",
+     "options": [
+      "$80, because a fifty percent markup means doubling the amount that the backpack cost to make",
+      "$45",
+      "$60",
+      "$90"
+     ],
+     "ans": 2,
+     "exp": "$40 × 1.5 = $60.",
+     "why": [
+      "That's a 100% markup.",
+      "Math error.",
+      "",
+      "No."
+     ]
+    },
+    {
+     "id": "MM-3",
+     "type": "mcq",
+     "skill": "Math",
+     "topic": "2.5",
+     "stem": "A phone case sells for $25 and costs $15. What is the profit margin?",
+     "options": [
+      "67%, because the ten dollars of profit should be divided by the fifteen-dollar cost of the case",
+      "40%",
+      "10%",
+      "60%"
+     ],
+     "ans": 1,
+     "exp": "$10 ÷ $25 = 40%.",
+     "why": [
+      "That's the markup.",
+      "",
+      "Dollars, not percent.",
+      "Cost ÷ price."
+     ]
+    },
+    {
+     "id": "MM-4",
+     "type": "mcq",
+     "skill": "Math",
+     "topic": "2.1",
+     "stem": "A business spent $8,000 on online ads and $2,000 on social media, plus $1,500 training new employees. It gained 400 new customers. Using only acquisition costs, what is its CAC?",
+     "options": [
+      "$28.75, because all three of the amounts the business spent should be divided by the new customers",
+      "$25",
+      "$20",
+      "$10,000"
+     ],
+     "ans": 1,
+     "exp": "($8,000 + $2,000) ÷ 400 = $25 (your worksheet has no key: VERIFY).",
+     "why": [
+      "Training isn't an acquisition cost.",
+      "",
+      "Leaves out social media.",
+      "Total, not per customer."
+     ]
+    },
+    {
+     "id": "MM-5",
+     "type": "mcq",
+     "skill": "Math",
+     "topic": "2.7",
+     "stem": "An ad was shown 80,000 times and clicked 1,200 times. What is its CTR?",
+     "options": [
+      "15%, because twelve hundred clicks divided by eighty thousand impressions equals fifteen percent",
+      "0.15%",
+      "1.5%",
+      "66.7%"
+     ],
+     "ans": 2,
+     "exp": "1,200 ÷ 80,000 = 1.5%.",
+     "why": [
+      "Off by ten.",
+      "Off by ten.",
+      "",
+      "Divided the wrong way."
+     ]
+    },
+    {
+     "id": "MM-6",
+     "type": "mcq",
+     "skill": "Math",
+     "topic": "2.7",
+     "stem": "A site had 2,400 visitors and 96 bought. What is the conversion rate?",
+     "options": [
+      "4%",
+      "25%, because twenty-four hundred visitors divided by ninety-six buyers is about twenty-five",
+      "0.4%",
+      "40%"
+     ],
+     "ans": 0,
+     "exp": "96 ÷ 2,400 = 4%.",
+     "why": [
+      "",
+      "Divided the wrong way.",
+      "Off by ten.",
+      "Off by ten."
+     ]
+    },
+    {
+     "id": "MM-7",
+     "type": "mcq",
+     "skill": "Math",
+     "topic": "2.7",
+     "stem": "A $3,000 campaign brought $12,000 in sales. What is the ROAS?",
+     "options": [
+      "4",
+      "9, because twelve thousand dollars minus three thousand dollars leaves nine thousand dollars",
+      "0.25",
+      "15"
+     ],
+     "ans": 0,
+     "exp": "$12,000 ÷ $3,000 = 4.",
+     "why": [
+      "",
+      "ROAS divides.",
+      "Reversed.",
+      "Added."
+     ]
+    },
+    {
+     "id": "MM-8",
+     "type": "mcq",
+     "skill": "Math",
+     "topic": "2.1",
+     "stem": "Ad A cost $2,400 and brought 80 customers. Ad B cost $1,800 and brought 45. Which has the lower CAC?",
+     "options": [
+      "Ad B, because it cost six hundred dollars less to run than Ad A did over the same period",
+      "Equal",
+      "Ad B ($30)",
+      "Ad A ($30)"
+     ],
+     "ans": 3,
+     "exp": "A: $2,400 ÷ 80 = $30; B: $40.",
+     "why": [
+      "B: $1,800 ÷ 45 = $40.",
+      "$30 vs. $40.",
+      "B is $40.",
+      ""
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Mock test (40 questions)",
+   "mode": "exam",
+   "tips": [
+    "Read the question first, then the scenario, so you know what to look for.",
+    "Several choices can be true. Pick the one the scenario supports BEST.",
+    "Use the numbers: if a table is given, at least one question needs it.",
+    "Watch for choices that are too extreme (\"always,\" \"guarantees\") or that answer a different question."
+   ],
+   "sources": {
+    "N1": {
+     "title": "Peak Smoothies",
+     "attr": "Practice scenario: customer data at a smoothie chain.",
+     "label": "Practice scenario written for this kit from your class materials; the company is made up.",
+     "paras": [
+      "Peak Smoothies runs 12 shops near colleges. Its rewards app records every order. Managers learned that most app users are 18 to 24 and earn under $30,000 a year, and that in interviews they say they choose Peak because they can customize drinks and order ahead between classes. Last quarter Peak spent money to win new customers and launched a points program to keep them."
+     ],
+     "table": [
+      [
+       "Item",
+       "Last quarter"
+      ],
+      [
+       "Online ads",
+       "$9,000"
+      ],
+      [
+       "Campus event sponsorships",
+       "$3,000"
+      ],
+      [
+       "New store furniture",
+       "$5,000"
+      ],
+      [
+       "New app customers",
+       "600"
+      ],
+      [
+       "Average yearly spending, rewards member",
+       "$420"
+      ],
+      [
+       "Average yearly spending, non-member",
+       "$150"
+      ]
+     ]
+    },
+    "N2": {
+     "title": "The sneaker drop",
+     "attr": "Practice scenario: a product page built to persuade.",
+     "label": "Practice scenario written for this kit from your class materials; the company is made up.",
+     "paras": [
+      "A sneaker brand releases a limited shoe online at 10 a.m. Saturday. The product page shows a counter reading \"Only 212 pairs left,\" a banner saying \"Over 40,000 runners already own our shoes,\" and a quote from a well-known physical therapist praising the shoe's support. Members who signed up for early alerts last year get an email saying, \"You told us you'd be first in line. Here's your link.\"",
+      "Many buyers say they decided within minutes. Some later wrote that they were bored at home that morning and \"just clicked.\""
+     ]
+    },
+    "N3": {
+     "title": "BrightBite's research plan",
+     "attr": "Practice scenario: planning market research for a new snack.",
+     "label": "Practice scenario written for this kit from your class materials; the company is made up.",
+     "paras": [
+      "BrightBite wants to launch a high-protein chip for teen athletes. Its hypothesis: at least 25% of teen athletes would buy the chip at $3 a bag. The marketing team proposed the steps below. Separately, a database shows the four largest snack brands hold most of the market."
+     ],
+     "table": [
+      [
+       "Step",
+       "Plan"
+      ],
+      [
+       "1",
+       "Buy an industry report on the size of the protein-snack market"
+      ],
+      [
+       "2",
+       "Survey 1,000 high school athletes about price and flavor"
+      ],
+      [
+       "3",
+       "Hold 3 focus groups with 8 athletes each"
+      ],
+      [
+       "4",
+       "Sell two bag designs on its website and compare purchases"
+      ],
+      [
+       "5",
+       "Ask office staff, mostly ages 40 to 60, what flavors teens like"
+      ]
+     ]
+    },
+    "N4": {
+     "title": "TrailCam",
+     "attr": "Practice scenario: a product over time.",
+     "label": "Practice scenario written for this kit from your class materials; the company is made up.",
+     "paras": [
+      "TrailCam makes a small, rugged camera for hikers. It tested a hand-built version with 50 hikers in 2019, then launched nationally. The company has used the line \"Built for where you go\" since its founding. Its 2024 campaign line was \"Summer of the Summit.\""
+     ],
+     "table": [
+      [
+       "Year",
+       "Units sold",
+       "Competing brands"
+      ],
+      [
+       "2020",
+       "8,000",
+       "1"
+      ],
+      [
+       "2021",
+       "35,000",
+       "3"
+      ],
+      [
+       "2022",
+       "90,000",
+       "6"
+      ],
+      [
+       "2023",
+       "96,000",
+       "9"
+      ],
+      [
+       "2024",
+       "95,000",
+       "10"
+      ]
+     ]
+    },
+    "N5": {
+     "title": "Four ways to price a bike shop",
+     "attr": "Practice scenario: comparing pricing choices.",
+     "label": "Practice scenario written for this kit from your class materials; the company is made up.",
+     "paras": [
+      "Spoke & Gear sells bikes and repairs. The owner is reviewing four items."
+     ],
+     "table": [
+      [
+       "Item",
+       "Cost to shop",
+       "Price"
+      ],
+      [
+       "Basic helmet",
+       "$20",
+       "$25"
+      ],
+      [
+       "Custom carbon road bike",
+       "$2,400",
+       "$4,000"
+      ],
+      [
+       "Tune-up",
+       "$30",
+       "$45"
+      ],
+      [
+       "Bike + lock + lights package",
+       "$310",
+       "$349 (separately $389)"
+      ]
+     ]
+    },
+    "N6": {
+     "title": "ColdCase coolers",
+     "attr": "Practice scenario: pricing power under pressure.",
+     "label": "Practice scenario written for this kit from your class materials; the company is made up.",
+     "paras": [
+      "ColdCase sells a patented cooler that keeps ice for 10 days. Fans say no other cooler comes close, and sales held steady when ColdCase raised its price from $250 to $300 last year.",
+      "This spring, a rival released a nearly identical cooler for $150. At the same time, a heat wave knocked out power across a nearby region, and some ColdCase retailers there raised cooler prices to $750 for a week."
+     ]
+    },
+    "N7": {
+     "title": "Glow Lab skincare",
+     "attr": "Practice scenario: choosing channels.",
+     "label": "Practice scenario written for this kit from your class materials; the company is made up.",
+     "paras": [
+      "Glow Lab sells a skin cream on its own website and wants to grow fast. The table compares two options. Glow Lab is also developing a stronger cream with a prescription-strength ingredient."
+     ],
+     "table": [
+      [
+       "",
+       "Keep selling on own website",
+       "Sell through a national drugstore chain"
+      ],
+      [
+       "Stores reached",
+       "0 (online only)",
+       "4,000"
+      ],
+      [
+       "Glow Lab earns per jar",
+       "$22",
+       "$13"
+      ],
+      [
+       "Who controls price and display",
+       "Glow Lab",
+       "The drugstore"
+      ],
+      [
+       "Setup needed",
+       "Build national shipping and customer service",
+       "Use the chain's warehouses"
+      ]
+     ]
+    },
+    "N8": {
+     "title": "FitFuel's launch campaign",
+     "attr": "Practice scenario: measuring a promotion campaign.",
+     "label": "Practice scenario written for this kit from your class materials; the company is made up.",
+     "paras": [
+      "FitFuel launched a meal-prep delivery service with several promotion tools at once. It tracked each channel for one month."
+     ],
+     "table": [
+      [
+       "Tool",
+       "Cost",
+       "Impressions",
+       "Clicks",
+       "Orders",
+       "Revenue"
+      ],
+      [
+       "Social media ads",
+       "$4,000",
+       "400,000",
+       "8,000",
+       "400",
+       "$20,000"
+      ],
+      [
+       "Emails to past customers with a 20% code",
+       "$500",
+       "20,000",
+       "1,600",
+       "240",
+       "$9,600"
+      ],
+      [
+       "TV spot",
+       "$10,000",
+       "1,000,000",
+       "n/a",
+       "300",
+       "$12,000"
+      ]
+     ]
+    }
+   },
+   "questions": [
+    {
+     "id": "MX-1",
+     "type": "mcq",
+     "skill": "Data",
+     "topic": "2.1",
+     "stem": "Which piece of Peak's information is psychographic?",
+     "options": [
+      "Customers value customizing drinks",
+      "Most app users are between eighteen and twenty-four years old and earn under $30,000",
+      "The app records every order",
+      "600 new app customers"
+     ],
+     "ans": 0,
+     "exp": "Values and preferences explain why people buy.",
+     "why": [
+      "",
+      "Age and income are demographic.",
+      "That's a data source.",
+      "A count."
+     ],
+     "src": "N1"
+    },
+    {
+     "id": "MX-2",
+     "type": "mcq",
+     "skill": "CAC",
+     "topic": "2.1",
+     "stem": "Based on the table, what was Peak's customer acquisition cost?",
+     "options": [
+      "$28.33, because all three of the costs in the table should be divided by the 600 new customers",
+      "$15",
+      "$20",
+      "$12,000"
+     ],
+     "ans": 2,
+     "exp": "($9,000 + $3,000) ÷ 600 = $20.",
+     "why": [
+      "Furniture isn't an acquisition cost.",
+      "Leaves out sponsorships.",
+      "",
+      "That's total acquisition spending."
+     ],
+     "src": "N1"
+    },
+    {
+     "id": "MX-3",
+     "type": "mcq",
+     "skill": "CLV",
+     "topic": "2.1",
+     "stem": "What do the spending figures BEST suggest about the points program?",
+     "options": [
+      "It lowers acquisition cost, because rewards members spend almost three times as much per year",
+      "It raises lifetime value",
+      "It has no effect",
+      "It creates a data breach"
+     ],
+     "ans": 1,
+     "exp": "Members spend $420 a year vs. $150: higher lifetime value.",
+     "why": [
+      "Spending more per year raises CLV.",
+      "",
+      "Members spend much more.",
+      "No."
+     ],
+     "src": "N1"
+    },
+    {
+     "id": "MX-4",
+     "type": "mcq",
+     "skill": "Targeting",
+     "topic": "2.1",
+     "stem": "Which is the BEST target customer for Peak's next ad?",
+     "options": [
+      "Retirees who live far from campus, since they have the most free time to visit the smoothie shops",
+      "Everyone in the state",
+      "Office managers ordering for meetings",
+      "College students who order between classes"
+     ],
+     "ans": 3,
+     "exp": "Target the buyers most likely to purchase.",
+     "why": [
+      "Not Peak's buyers.",
+      "Wasted spending.",
+      "Not the data's group.",
+      ""
+     ],
+     "src": "N1"
+    },
+    {
+     "id": "MX-5",
+     "type": "mcq",
+     "skill": "Data risk",
+     "topic": "2.1",
+     "stem": "Peak's app stores card numbers. Which practice would MOST reduce its biggest data risk?",
+     "options": [
+      "Encrypting stored card data",
+      "Collecting even more personal data from each customer so that its rewards can be more personal",
+      "Selling the data",
+      "Ending rewards"
+     ],
+     "ans": 0,
+     "exp": "Poor security leads to breaches, fraud and identity theft.",
+     "why": [
+      "",
+      "Increases exposure.",
+      "Privacy risk.",
+      "Doesn't fix security."
+     ],
+     "src": "N1"
+    },
+    {
+     "id": "MX-6",
+     "type": "mcq",
+     "skill": "Cialdini",
+     "topic": "2.2",
+     "stem": "\"Only 212 pairs left\" uses which principle?",
+     "options": [
+      "Consensus, because it tells shoppers how many other runners have already bought the shoe",
+      "Authority",
+      "Scarcity",
+      "Reciprocity"
+     ],
+     "ans": 2,
+     "exp": "Limited supply raises perceived value.",
+     "why": [
+      "That's the 40,000 banner.",
+      "That's the therapist.",
+      "",
+      "No gift."
+     ],
+     "src": "N2"
+    },
+    {
+     "id": "MX-7",
+     "type": "mcq",
+     "skill": "Cialdini",
+     "topic": "2.2",
+     "stem": "The physical therapist's quote uses which principle?",
+     "options": [
+      "Liking, because shoppers are likely to feel positively toward a friendly health professional",
+      "Unity",
+      "Scarcity",
+      "Authority"
+     ],
+     "ans": 3,
+     "exp": "Trust in experts is authority.",
+     "why": [
+      "The power is expertise.",
+      "No shared identity.",
+      "Nothing limited.",
+      ""
+     ],
+     "src": "N2"
+    },
+    {
+     "id": "MX-8",
+     "type": "mcq",
+     "skill": "Cialdini",
+     "topic": "2.2",
+     "stem": "The email \"You told us you'd be first in line\" MOST directly uses:",
+     "options": [
+      "Reciprocity, because the brand is giving members a special link before everyone else gets one",
+      "Consensus",
+      "Consistency",
+      "Authority"
+     ],
+     "ans": 2,
+     "exp": "Reminding people of past commitments triggers consistency.",
+     "why": [
+      "It leans on their past commitment.",
+      "Not about others.",
+      "",
+      "No expert."
+     ],
+     "src": "N2"
+    },
+    {
+     "id": "MX-9",
+     "type": "mcq",
+     "skill": "Factors",
+     "topic": "2.2",
+     "stem": "\"I was bored at home that morning and just clicked\" describes which factor?",
+     "options": [
+      "Personal, because the buyer's age and income decide whether a shopper can afford the shoes",
+      "Situational",
+      "Social",
+      "Cultural"
+     ],
+     "ans": 1,
+     "exp": "Mood and timing are situational factors.",
+     "why": [
+      "Boredom is a temporary condition.",
+      "",
+      "No one influenced them.",
+      "No tradition."
+     ],
+     "src": "N2"
+    },
+    {
+     "id": "MX-10",
+     "type": "mcq",
+     "skill": "Behavior",
+     "topic": "2.2",
+     "stem": "Buyers deciding within minutes BEST shows:",
+     "options": [
+      "Impulse buying",
+      "Habit buying, because many of these buyers have purchased shoes from this brand in the past",
+      "Planned buying",
+      "A consequential purchase"
+     ],
+     "ans": 0,
+     "exp": "On-the-spot decisions are impulsive.",
+     "why": [
+      "",
+      "They decided on the spot.",
+      "Too quick.",
+      "Not carefully considered."
+     ],
+     "src": "N2"
+    },
+    {
+     "id": "MX-11",
+     "type": "mcq",
+     "skill": "Research",
+     "topic": "2.3",
+     "stem": "Step 1 (the industry report) is an example of:",
+     "options": [
+      "Primary research, because BrightBite will use the report's numbers to make its own decisions",
+      "A focus group",
+      "Secondary research",
+      "An A/B test"
+     ],
+     "ans": 2,
+     "exp": "Existing data from reports is secondary.",
+     "why": [
+      "Someone else collected it.",
+      "No.",
+      "",
+      "No."
+     ],
+     "src": "N3"
+    },
+    {
+     "id": "MX-12",
+     "type": "mcq",
+     "skill": "Methods",
+     "topic": "2.3",
+     "stem": "Which step BEST tests the hypothesis about paying $3?",
+     "options": [
+      "Step 3, because focus groups let athletes explain in depth why they would pay three dollars",
+      "Step 2, the survey of 1,000 athletes",
+      "Step 1",
+      "Step 5"
+     ],
+     "ans": 1,
+     "exp": "A large survey gives a percentage to compare with 25%.",
+     "why": [
+      "Too few people to estimate 25%.",
+      "",
+      "Not about price.",
+      "Wrong sample."
+     ],
+     "src": "N3"
+    },
+    {
+     "id": "MX-13",
+     "type": "mcq",
+     "skill": "Methods",
+     "topic": "2.3",
+     "stem": "What does Step 4 add that the survey can't?",
+     "options": [
+      "The reasons why athletes prefer one bag design over the other, explained in their own words",
+      "Market size",
+      "Lower costs",
+      "What people actually buy"
+     ],
+     "ans": 3,
+     "exp": "An A/B test measures real behavior.",
+     "why": [
+      "That's qualitative.",
+      "Step 1.",
+      "No.",
+      ""
+     ],
+     "src": "N3"
+    },
+    {
+     "id": "MX-14",
+     "type": "mcq",
+     "skill": "Bias",
+     "topic": "2.3",
+     "stem": "What is the BIGGEST problem with Step 5?",
+     "options": [
+      "The questions are leading, because staff will be asked which flavors they personally love the most",
+      "It's secondary research",
+      "It costs too much",
+      "The sample doesn't represent teen athletes"
+     ],
+     "ans": 3,
+     "exp": "Ask the people you're studying.",
+     "why": [
+      "The issue is who is asked.",
+      "It's primary.",
+      "Not the issue.",
+      ""
+     ],
+     "src": "N3"
+    },
+    {
+     "id": "MX-15",
+     "type": "mcq",
+     "skill": "Charts",
+     "topic": "2.3",
+     "stem": "Which chart BEST shows the four largest brands' share of the snack market?",
+     "options": [
+      "A line graph, because each brand's share of the market has been changing year after year",
+      "A stacked bar",
+      "A customer profile",
+      "A pie chart"
+     ],
+     "ans": 3,
+     "exp": "Pie charts show parts of a whole.",
+     "why": [
+      "The question is the current split.",
+      "Not needed.",
+      "Not a chart.",
+      ""
+     ],
+     "src": "N3"
+    },
+    {
+     "id": "MX-16",
+     "type": "mcq",
+     "skill": "Life cycle",
+     "topic": "2.4",
+     "stem": "Based on the table, which stage was TrailCam in during 2021–2022?",
+     "options": [
+      "Growth",
+      "Maturity, because by 2022 the company was selling ninety thousand cameras every single year",
+      "Introduction",
+      "Decline"
+     ],
+     "ans": 0,
+     "exp": "Accelerating sales and new rivals mark growth.",
+     "why": [
+      "",
+      "Sales were still accelerating.",
+      "Sales were taking off.",
+      "Rising."
+     ],
+     "src": "N4"
+    },
+    {
+     "id": "MX-17",
+     "type": "mcq",
+     "skill": "Life cycle",
+     "topic": "2.4",
+     "stem": "Which stage BEST describes 2023–2024?",
+     "options": [
+      "Decline, because TrailCam sold about one thousand fewer cameras in 2024 than it did in 2023",
+      "Maturity",
+      "Growth",
+      "Introduction"
+     ],
+     "ans": 1,
+     "exp": "Sales leveling off with many rivals is maturity.",
+     "why": [
+      "A tiny dip with flat sales is maturity.",
+      "",
+      "Sales stopped rising.",
+      "No."
+     ],
+     "src": "N4"
+    },
+    {
+     "id": "MX-18",
+     "type": "mcq",
+     "skill": "Strategy",
+     "topic": "2.4",
+     "stem": "Which move fits TrailCam's current stage BEST?",
+     "options": [
+      "Spend most of the budget on awareness ads, since many hikers still haven't heard of the camera",
+      "Discontinue the camera",
+      "Stop all marketing",
+      "Add features and reward loyal buyers"
+     ],
+     "ans": 3,
+     "exp": "In maturity, defend share with differentiation, loyalty and innovation.",
+     "why": [
+      "That's an introduction tactic.",
+      "Not declining.",
+      "Too extreme.",
+      ""
+     ],
+     "src": "N4"
+    },
+    {
+     "id": "MX-19",
+     "type": "mcq",
+     "skill": "Development",
+     "topic": "2.4",
+     "stem": "The 2019 test with 50 hikers was MAINLY used to:",
+     "options": [
+      "Check demand before launching",
+      "Build awareness among millions of hikers through news stories about the new camera",
+      "Set a tagline",
+      "Clear old stock"
+     ],
+     "ans": 0,
+     "exp": "Testing with real users before launch is validation.",
+     "why": [
+      "",
+      "That's PR.",
+      "Not the purpose.",
+      "No."
+     ],
+     "src": "N4"
+    },
+    {
+     "id": "MX-20",
+     "type": "mcq",
+     "skill": "Branding",
+     "topic": "2.4",
+     "stem": "\"Built for where you go\" (used since founding) is TrailCam's:",
+     "options": [
+      "Tagline",
+      "Slogan, because it is a short and catchy line that appears on many of TrailCam's ads",
+      "Value proposition",
+      "Positioning map"
+     ],
+     "ans": 0,
+     "exp": "Long-term, whole-brand lines are taglines; \"Summer of the Summit\" is a slogan.",
+     "why": [
+      "",
+      "It represents the brand long-term.",
+      "Not a full statement.",
+      "No."
+     ],
+     "src": "N4"
+    },
+    {
+     "id": "MX-21",
+     "type": "mcq",
+     "skill": "Markup",
+     "topic": "2.5",
+     "stem": "What is the markup on the basic helmet?",
+     "options": [
+      "25%",
+      "20%, because the five dollars of profit is divided by the twenty-five-dollar selling price",
+      "5%",
+      "80%"
+     ],
+     "ans": 0,
+     "exp": "$5 ÷ $20 = 25%.",
+     "why": [
+      "",
+      "That's the margin.",
+      "Dollars, not percent.",
+      "Wrong division."
+     ],
+     "src": "N5"
+    },
+    {
+     "id": "MX-22",
+     "type": "mcq",
+     "skill": "Margin",
+     "topic": "2.5",
+     "stem": "Which item has the HIGHEST profit margin?",
+     "options": [
+      "The custom carbon road bike",
+      "The tune-up, because the shop earns fifteen dollars on every tune-up and needs almost no parts",
+      "The basic helmet",
+      "The package"
+     ],
+     "ans": 0,
+     "exp": "Bike: $1,600 ÷ $4,000 = 40%. Tune-up: $15 ÷ $45 = 33%.",
+     "why": [
+      "",
+      "$15 ÷ $45 = 33%, below the bike's 40%.",
+      "20%.",
+      "About 11%."
+     ],
+     "src": "N5"
+    },
+    {
+     "id": "MX-23",
+     "type": "mcq",
+     "skill": "Strategy",
+     "topic": "2.5",
+     "stem": "The package priced at $349 instead of $389 is BEST described as:",
+     "options": [
+      "A loss leader, because the shop is losing money on the lights in order to sell the bike",
+      "Bundle pricing",
+      "Psychological pricing",
+      "Premium pricing"
+     ],
+     "ans": 1,
+     "exp": "Several items together for less than separately.",
+     "why": [
+      "It's still profitable; items sold together for less.",
+      "",
+      "The key is the package.",
+      "It's a discount."
+     ],
+     "src": "N5"
+    },
+    {
+     "id": "MX-24",
+     "type": "mcq",
+     "skill": "Strategy",
+     "topic": "2.5",
+     "stem": "The custom carbon bike's $4,000 price for a $2,400 cost MOST likely reflects:",
+     "options": [
+      "Cost-based pricing, because the shop first had to find out how much the custom bike cost",
+      "Value-based pricing",
+      "Penetration pricing",
+      "Competitive pricing"
+     ],
+     "ans": 1,
+     "exp": "Unique, high-quality items suit value-based pricing.",
+     "why": [
+      "Price reflects what riders think it's worth.",
+      "",
+      "Not low.",
+      "Custom, not matched."
+     ],
+     "src": "N5"
+    },
+    {
+     "id": "MX-25",
+     "type": "mcq",
+     "skill": "Price",
+     "topic": "2.5",
+     "stem": "If the owner priced the helmet at $18, what would happen?",
+     "options": [
+      "Each helmet would earn two dollars more, because a lower price attracts more customers",
+      "Each helmet would lose $2",
+      "It would break even",
+      "Nothing"
+     ],
+     "ans": 1,
+     "exp": "A price below per-unit cost brings no profit.",
+     "why": [
+      "Price below cost loses money.",
+      "",
+      "No.",
+      "It changes profit."
+     ],
+     "src": "N5"
+    },
+    {
+     "id": "MX-26",
+     "type": "mcq",
+     "skill": "Elasticity",
+     "topic": "2.5",
+     "stem": "Last year's price rise with steady sales suggests ColdCase's demand was:",
+     "options": [
+      "Elastic, because ColdCase's customers clearly noticed that the price had gone up by fifty dollars",
+      "Illegal",
+      "Inelastic",
+      "Falling"
+     ],
+     "ans": 2,
+     "exp": "Little change in buying after a price rise means inelastic demand.",
+     "why": [
+      "Sales held steady.",
+      "No.",
+      "",
+      "Steady."
+     ],
+     "src": "N6"
+    },
+    {
+     "id": "MX-27",
+     "type": "mcq",
+     "skill": "Pricing power",
+     "topic": "2.5",
+     "stem": "Why did ColdCase have high pricing power last year?",
+     "options": [
+      "Because coolers are a necessity that every household must buy at least once each summer",
+      "A law set its price",
+      "It had a unique, patented product",
+      "It was the cheapest"
+     ],
+     "ans": 2,
+     "exp": "Unique products with no close substitutes have more pricing power.",
+     "why": [
+      "Not the reason given.",
+      "No.",
+      "",
+      "It wasn't."
+     ],
+     "src": "N6"
+    },
+    {
+     "id": "MX-28",
+     "type": "mcq",
+     "skill": "Pricing power",
+     "topic": "2.5",
+     "stem": "What will the rival's $150 cooler MOST likely do?",
+     "options": [
+      "Make demand more elastic",
+      "Make ColdCase's demand even less elastic, since fans will see the cheap rival as lower quality",
+      "Have no effect",
+      "Make ColdCase a monopoly"
+     ],
+     "ans": 0,
+     "exp": "A cheaper, nearly identical substitute weakens pricing power.",
+     "why": [
+      "",
+      "A close substitute raises elasticity.",
+      "Substitutes matter.",
+      "No."
+     ],
+     "src": "N6"
+    },
+    {
+     "id": "MX-29",
+     "type": "mcq",
+     "skill": "Legal",
+     "topic": "2.5",
+     "stem": "The retailers charging $750 during the power outage is MOST likely:",
+     "options": [
+      "Dynamic pricing, because prices normally rise when demand goes up during busy times of the year",
+      "Penetration",
+      "Price gouging",
+      "Collusion"
+     ],
+     "ans": 2,
+     "exp": "Sharp increases during emergencies can be illegal gouging.",
+     "why": [
+      "Extreme emergency increases are gouging.",
+      "No.",
+      "",
+      "No agreement described."
+     ],
+     "src": "N6"
+    },
+    {
+     "id": "MX-30",
+     "type": "mcq",
+     "skill": "Legal",
+     "topic": "2.5",
+     "stem": "If ColdCase and the rival secretly agreed to both charge $300, that would be:",
+     "options": [
+      "Competitive pricing, because each company is setting its price based on what the other charges",
+      "Price discrimination",
+      "Collusion",
+      "Bundle pricing"
+     ],
+     "ans": 2,
+     "exp": "Agreeing on prices instead of competing is illegal collusion.",
+     "why": [
+      "A secret agreement isn't competing.",
+      "No groups.",
+      "",
+      "No."
+     ],
+     "src": "N6"
+    },
+    {
+     "id": "MX-31",
+     "type": "mcq",
+     "skill": "Channels",
+     "topic": "2.6",
+     "stem": "Selling through the drugstore chain would make Glow Lab's channel:",
+     "options": [
+      "Direct, because customers would still be buying Glow Lab's own cream in the drugstores",
+      "B2B only",
+      "Indirect",
+      "Brick-and-mortar only"
+     ],
+     "ans": 2,
+     "exp": "Selling through an intermediary is indirect.",
+     "why": [
+      "The drugstore is an intermediary.",
+      "Final customers are individuals.",
+      "",
+      "The question is the channel type."
+     ],
+     "src": "N7"
+    },
+    {
+     "id": "MX-32",
+     "type": "mcq",
+     "skill": "Trade-offs",
+     "topic": "2.6",
+     "stem": "Which statement BEST describes the drugstore option's trade-off?",
+     "options": [
+      "More control over price, but fewer stores, because the drugstore limits where the cream is sold",
+      "No trade-off",
+      "Lower reach",
+      "More reach, less money and control"
+     ],
+     "ans": 3,
+     "exp": "Indirect: reach vs. money per unit and control.",
+     "why": [
+      "Reversed.",
+      "There is one.",
+      "4,000 stores.",
+      ""
+     ],
+     "src": "N7"
+    },
+    {
+     "id": "MX-33",
+     "type": "mcq",
+     "skill": "Trade-offs",
+     "topic": "2.6",
+     "stem": "If Glow Lab stays direct and grows nationally, what is its biggest challenge?",
+     "options": [
+      "Losing control over how its cream is priced and displayed to customers in the stores",
+      "Building shipping and service itself",
+      "Shelf competition",
+      "A license"
+     ],
+     "ans": 1,
+     "exp": "Direct channels need their own logistics and service.",
+     "why": [
+      "That's the indirect drawback.",
+      "",
+      "No shelves.",
+      "Not for this cream."
+     ],
+     "src": "N7"
+    },
+    {
+     "id": "MX-34",
+     "type": "mcq",
+     "skill": "Legal",
+     "topic": "2.6",
+     "stem": "The prescription-strength cream MOST likely must be sold:",
+     "options": [
+      "Only on Glow Lab's website, since online sales give the company the most control over the price",
+      "Through licensed pharmacies",
+      "Anywhere it's cheapest",
+      "Through gyms"
+     ],
+     "ans": 1,
+     "exp": "Some products must use specific channels for health and safety.",
+     "why": [
+      "The law decides the channel.",
+      "",
+      "Laws limit channels.",
+      "No."
+     ],
+     "src": "N7"
+    },
+    {
+     "id": "MX-35",
+     "type": "mcq",
+     "skill": "Multichannel",
+     "topic": "2.6",
+     "stem": "Which plan would BEST balance reach and control for the current cream?",
+     "options": [
+      "Close the website and sell only in drugstores, because four thousand stores reach more people",
+      "Sell only by mail",
+      "Keep the website and add the drugstore",
+      "Stop selling"
+     ],
+     "ans": 2,
+     "exp": "Many firms mix channels to balance reach, cost and control.",
+     "why": [
+      "Gives up all control and data.",
+      "Less reach.",
+      "",
+      "No."
+     ],
+     "src": "N7"
+    },
+    {
+     "id": "MX-36",
+     "type": "mcq",
+     "skill": "CTR",
+     "topic": "2.7",
+     "stem": "What was the social ads' click-through rate?",
+     "options": [
+      "2%",
+      "0.1%, because the four hundred orders are divided by the four hundred thousand impressions",
+      "5%",
+      "20%"
+     ],
+     "ans": 0,
+     "exp": "8,000 ÷ 400,000 = 2%.",
+     "why": [
+      "",
+      "That's orders ÷ impressions; CTR uses clicks.",
+      "Orders ÷ clicks.",
+      "Divided wrong."
+     ],
+     "src": "N8"
+    },
+    {
+     "id": "MX-37",
+     "type": "mcq",
+     "skill": "Conversion",
+     "topic": "2.7",
+     "stem": "Of the people who clicked the emails, what percentage ordered?",
+     "options": [
+      "1.2%, because two hundred forty orders are divided by the twenty thousand emails that were sent",
+      "15%",
+      "8%",
+      "150%"
+     ],
+     "ans": 1,
+     "exp": "240 ÷ 1,600 = 15%.",
+     "why": [
+      "That's orders ÷ impressions; the question asks about people who clicked.",
+      "",
+      "Clicks ÷ impressions.",
+      "Divided wrong."
+     ],
+     "src": "N8"
+    },
+    {
+     "id": "MX-38",
+     "type": "mcq",
+     "skill": "ROAS",
+     "topic": "2.7",
+     "stem": "Which tool had the HIGHEST return on ad spend?",
+     "options": [
+      "The TV spot, because it reached one million viewers, more than any other tool in the campaign",
+      "The social ads",
+      "They're equal",
+      "The emails"
+     ],
+     "ans": 3,
+     "exp": "Email: $9,600 ÷ $500 = 19.2. Social: 5. TV: 1.2.",
+     "why": [
+      "Reach isn't return.",
+      "ROAS 5.",
+      "Not equal.",
+      ""
+     ],
+     "src": "N8"
+    },
+    {
+     "id": "MX-39",
+     "type": "mcq",
+     "skill": "Tools",
+     "topic": "2.7",
+     "stem": "The emails with a 20% code are BEST classified as:",
+     "options": [
+      "Public relations, because the emails help FitFuel build goodwill with its past customers",
+      "Personal selling",
+      "Media advertising only",
+      "Direct marketing and a sales promotion"
+     ],
+     "ans": 3,
+     "exp": "Tools overlap: a targeted email with a coupon is both.",
+     "why": [
+      "They push an immediate purchase.",
+      "No salesperson.",
+      "Targeted, not mass.",
+      ""
+     ],
+     "src": "N8"
+    },
+    {
+     "id": "MX-40",
+     "type": "mcq",
+     "skill": "Digital",
+     "topic": "2.7",
+     "stem": "Based on the data, what is the BEST next step for FitFuel?",
+     "options": [
+      "Spend more on TV, because television reached the largest number of people during the month",
+      "Stop measuring",
+      "Drop email",
+      "Shift some TV money to email and social"
+     ],
+     "ans": 3,
+     "exp": "Digital tools here are measurable and earn more per dollar.",
+     "why": [
+      "TV earned the least per dollar.",
+      "Data guide decisions.",
+      "Best ROAS.",
+      ""
+     ],
+     "src": "N8"
+    }
+   ],
+   "exam": "Mock test",
+   "examTips": [
+    "Built like your Unit 1 test: 40 multiple-choice questions, one scenario per page, 5 questions each. Your Unit 2 test format isn't known yet.",
+    "Turn the Timer on and leave Shuffle off. About one minute per question.",
+    "Many questions have two good answers: choose the one the scenario supports best."
+   ]
+  }
+ ]
+}

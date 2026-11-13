@@ -14,3 +14,8 @@ def build(prefix, items, seed):
         if s: q["src"] = s
         qs.append(q)
     L = "".join("ABCD"[q["ans"]] for q in qs); print(prefix, {c: L.count(c) for c in "ABCD"}); return qs
+
+TIPS = ["Read the question first, then the scenario, so you know what to look for.",
+ "Several choices can be true. Pick the one the scenario supports BEST.",
+ "Use the numbers: if a table is given, at least one question needs it.",
+ "Watch for choices that are too extreme (\"always,\" \"guarantees\") or that answer a different question."]

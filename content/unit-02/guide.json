@@ -1,0 +1,504 @@
+{
+ "flows": [
+  {
+   "id": "F1",
+   "title": "From data to a target customer",
+   "deck": 1,
+   "steps": [
+    "Collect customer data (digital, traditional, third-party)",
+    "Sort it: demographics (who) and psychographics (why)",
+    "Segment: divide customers into similar groups",
+    "Target: choose the group most likely to buy",
+    "Describe a sample buyer in a customer profile"
+   ]
+  },
+  {
+   "id": "F2",
+   "title": "The six stages of product development",
+   "deck": 4,
+   "steps": [
+    "Ideation: generate ideas",
+    "Validation: test demand, often with an MVP",
+    "Design: prototypes, features, cost estimates",
+    "Messaging: value proposition and positioning",
+    "Production: process, supply chain, small runs",
+    "Launch: orders, distribution, marketing to profitable segments"
+   ]
+  },
+  {
+   "id": "F3",
+   "title": "The product life cycle",
+   "deck": 4,
+   "steps": [
+    "Introduction: low sales; build awareness",
+    "Growth: sales speed up, rivals enter; differentiate and promote",
+    "Maturity: sales level off; protect share with loyalty and innovation",
+    "Decline: sales fall; cut costs, redesign or discontinue"
+   ]
+  },
+  {
+   "id": "F4",
+   "title": "A sales funnel (example from your slides)",
+   "deck": 7,
+   "steps": [
+    "Sees an Instagram ad (media advertising)",
+    "Reads a positive review (public relations)",
+    "Talks to a salesperson (personal selling)",
+    "Gets an email discount code (direct marketing + sales promotion)",
+    "Buys online"
+   ]
+  },
+  {
+   "id": "F5",
+   "title": "Why customer relationships pay off",
+   "deck": 1,
+   "steps": [
+    "Personal service, rewards, feedback surveys",
+    "Happier customers refer friends and buy again",
+    "Referrals lower customer acquisition cost (CAC)",
+    "Repeat purchases raise customer lifetime value (CLV)"
+   ]
+  }
+ ],
+ "tables": [
+  {
+   "title": "The 4 Ps",
+   "deck": 4,
+   "rows": [
+    [
+     "P",
+     "The decision",
+     "Example"
+    ],
+    [
+     "Product",
+     "Features, quality, how it solves the problem",
+     "Adding a waterproof case"
+    ],
+    [
+     "Price",
+     "What customers pay",
+     "Launching at $1.99 a month"
+    ],
+    [
+     "Place",
+     "Where and how customers get it",
+     "Selling through a delivery app"
+    ],
+    [
+     "Promotion",
+     "How you inform and persuade",
+     "Instagram ads, sponsorships"
+    ]
+   ]
+  },
+  {
+   "title": "Research methods",
+   "deck": 3,
+   "rows": [
+    [
+     "Method",
+     "Primary or secondary",
+     "Data",
+     "Best for"
+    ],
+    [
+     "Survey",
+     "Primary",
+     "Quantitative",
+     "Many people, same questions"
+    ],
+    [
+     "Focus group",
+     "Primary",
+     "Qualitative",
+     "Why, from a small engaged group"
+    ],
+    [
+     "Interview",
+     "Primary",
+     "Qualitative",
+     "Why, from individuals"
+    ],
+    [
+     "Experiment",
+     "Primary",
+     "What people do",
+     "Testing one change"
+    ],
+    [
+     "Observation",
+     "Primary",
+     "What people do",
+     "Natural behavior"
+    ],
+    [
+     "A/B test",
+     "Primary",
+     "What people do",
+     "Choosing between two versions"
+    ],
+    [
+     "Reports, census, databases",
+     "Secondary",
+     "Either",
+     "Market size, trends; cheap and fast"
+    ]
+   ]
+  },
+  {
+   "title": "Which chart?",
+   "deck": 3,
+   "rows": [
+    [
+     "Chart",
+     "Shows",
+     "Example"
+    ],
+    [
+     "Bar",
+     "Compare separate items",
+     "Revenue of 3 products; customers by store"
+    ],
+    [
+     "Stacked bar",
+     "Items and their subcategories",
+     "Quarterly sales of 3 products"
+    ],
+    [
+     "Line",
+     "Trend over time",
+     "Sales 2018 to 2023"
+    ],
+    [
+     "Pie",
+     "Parts of a whole",
+     "Market share; expenses by category"
+    ]
+   ]
+  },
+  {
+   "title": "Core pricing strategies",
+   "deck": 5,
+   "rows": [
+    [
+     "Strategy",
+     "Price is set by",
+     "Fits",
+     "Example"
+    ],
+    [
+     "Value-based",
+     "Value to the customer",
+     "Unique, high-quality products",
+     "AquaPure's patented filter"
+    ],
+    [
+     "Cost-based",
+     "Cost + markup",
+     "Costs easy to calculate",
+     "Contractors"
+    ],
+    [
+     "Competitive",
+     "Rivals' prices",
+     "Many sellers, similar products",
+     "Southwest matching fares"
+    ],
+    [
+     "Penetration",
+     "A low start to win share",
+     "Price-sensitive, competitive markets",
+     "Disney+ at launch"
+    ]
+   ]
+  },
+  {
+   "title": "Other pricing strategies",
+   "deck": 5,
+   "rows": [
+    [
+     "Strategy",
+     "Giveaway",
+     "Example"
+    ],
+    [
+     "Subscription",
+     "Recurring fee",
+     "$12 a month streaming"
+    ],
+    [
+     "Bundle",
+     "Package for less",
+     "Burger + fries + drink"
+    ],
+    [
+     "Premium",
+     "High price signals status",
+     "$8,000 watch"
+    ],
+    [
+     "Freemium",
+     "Free basic, paid extras",
+     "Free game, paid upgrades"
+    ],
+    [
+     "Psychological",
+     "Ends in .99",
+     "$29.99"
+    ],
+    [
+     "Dynamic",
+     "Changes with demand or time",
+     "Uber, holiday hotels"
+    ],
+    [
+     "Loss leader",
+     "One item below cost",
+     "Costco hot dog; milk"
+    ],
+    [
+     "Pay-what-you-want",
+     "Customer picks",
+     "Museum with a $1 minimum"
+    ]
+   ]
+  },
+  {
+   "title": "Channel types (your class drill)",
+   "deck": 6,
+   "rows": [
+    [
+     "Example",
+     "B2C or B2B",
+     "Direct or indirect"
+    ],
+    [
+     "Software sold to a small business on the website",
+     "B2B",
+     "Direct"
+    ],
+    [
+     "Cereal to a grocery store to shoppers",
+     "B2C",
+     "Indirect"
+    ],
+    [
+     "Desks to a school district through a distributor",
+     "B2B",
+     "Indirect"
+    ],
+    [
+     "Hoodies on the brand's own store",
+     "B2C",
+     "Direct"
+    ],
+    [
+     "Cars through dealers",
+     "B2C",
+     "Indirect"
+    ],
+    [
+     "Farm to restaurant",
+     "B2B",
+     "Direct"
+    ]
+   ]
+  },
+  {
+   "title": "Direct vs. indirect channels",
+   "deck": 6,
+   "rows": [
+    [
+     "",
+     "Direct",
+     "Indirect"
+    ],
+    [
+     "Advantages",
+     "Control over price, branding, experience; customer data",
+     "Lower cost; faster, wider reach; partners' networks"
+    ],
+    [
+     "Drawbacks",
+     "Costly to set up; limited reach; needs own logistics and service",
+     "Less control; less money per unit; fight for shelf space"
+    ],
+    [
+     "Example",
+     "Nike.com",
+     "Nike through Foot Locker"
+    ]
+   ]
+  },
+  {
+   "title": "The five promotion tools",
+   "deck": 7,
+   "rows": [
+    [
+     "Tool",
+     "What it is",
+     "Best for",
+     "Example"
+    ],
+    [
+     "Media advertising",
+     "Mass messages",
+     "Awareness; widely used products",
+     "TV, billboards, social ads"
+    ],
+    [
+     "Personal selling",
+     "One-on-one with a salesperson",
+     "Consequential purchases",
+     "SunCut's trade-show demos"
+    ],
+    [
+     "Sales promotion",
+     "Short-term incentives",
+     "Quick decisions; clearing stock",
+     "BOGO, coupons"
+    ],
+    [
+     "Direct marketing",
+     "Tailored messages to targets",
+     "Special offers; trackable",
+     "Emails, flyers, texts"
+    ],
+    [
+     "Public relations",
+     "Positive image, no sale asked",
+     "Trust and goodwill",
+     "Press releases, community events"
+    ]
+   ]
+  },
+  {
+   "title": "Cialdini's seven principles",
+   "deck": 2,
+   "rows": [
+    [
+     "Principle",
+     "People are swayed by…",
+     "Example"
+    ],
+    [
+     "Scarcity",
+     "Limited supply",
+     "\"Only 3 left!\""
+    ],
+    [
+     "Authority",
+     "Experts",
+     "\"Dentists recommend\""
+    ],
+    [
+     "Consensus",
+     "What others do",
+     "\"Best seller\""
+    ],
+    [
+     "Liking",
+     "People they like",
+     "A favorite creator"
+    ],
+    [
+     "Reciprocity",
+     "Returning a favor",
+     "Free sample"
+    ],
+    [
+     "Consistency",
+     "Past commitments",
+     "A signed pledge"
+    ],
+    [
+     "Unity",
+     "Shared identity",
+     "\"By runners, for runners\""
+    ]
+   ]
+  }
+ ],
+ "cheat": [
+  {
+   "title": "Formulas",
+   "kind": "list",
+   "items": [
+    "CAC = marketing, advertising and sales costs ÷ number of new customers.",
+    "Markup = (price − cost) ÷ cost × 100.",
+    "Profit margin = (price − cost) ÷ price × 100.",
+    "Selling price from a markup = cost × (1 + markup). Example: $24 × 1.25 = $30.",
+    "CTR = clicks ÷ impressions × 100.",
+    "Conversion rate = conversions ÷ visitors × 100.",
+    "ROAS = ad revenue ÷ ad cost."
+   ]
+  },
+  {
+   "title": "Pairs people mix up",
+   "kind": "table",
+   "rows": [
+    [
+     "This",
+     "vs. this"
+    ],
+    [
+     "Demographics: who (age, income)",
+     "Psychographics: why (values, lifestyle)"
+    ],
+    [
+     "Segmentation: slicing the pie",
+     "Targeting: picking a slice"
+    ],
+    [
+     "Quantitative: what, numbers",
+     "Qualitative: why, words"
+    ],
+    [
+     "Primary: you collect it",
+     "Secondary: someone else did"
+    ],
+    [
+     "Prototype: tests the product",
+     "MVP: tests the market"
+    ],
+    [
+     "Tagline: whole brand, long-term",
+     "Slogan: one campaign, can change"
+    ],
+    [
+     "Markup: ÷ cost",
+     "Margin: ÷ price"
+    ],
+    [
+     "Elastic: buyers react a lot",
+     "Inelastic: buyers barely react"
+    ],
+    [
+     "Direct: no middleman",
+     "Indirect: through intermediaries"
+    ],
+    [
+     "Sales promotion: act now",
+     "Public relations: goodwill, no sale asked"
+    ],
+    [
+     "Liking: someone you like",
+     "Unity: someone who is 'one of us'"
+    ]
+   ]
+  },
+  {
+   "title": "Test reminders",
+   "kind": "list",
+   "items": [
+    "Classify a channel by the FINAL customer: cereal → grocery store → shoppers is B2C.",
+    "Value-based pricing usually means HIGH prices, not cheap ones.",
+    "More substitutes → more elastic → less pricing power.",
+    "Maturity isn't dying: flat sales, defend share with innovation.",
+    "Tools overlap: an emailed coupon is direct marketing AND a sales promotion.",
+    "A company's price below per-unit cost earns no profit."
+   ]
+  }
+ ]
+}
