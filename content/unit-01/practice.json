@@ -1,0 +1,1829 @@
+{
+ "sections": [
+  {
+   "name": "Set A: Markets, PESTEL and new ideas (1.1-1.4)",
+   "mode": "practice",
+   "tips": [
+    "Read the question first, then the scenario, so you know what to look for.",
+    "Several choices can be true. Pick the one the scenario supports BEST.",
+    "Use the numbers: if a table is given, at least one question needs it.",
+    "Watch for choices that are too extreme (\"always,\" \"guarantees\") or that answer a different question."
+   ],
+   "sources": {
+    "A1": {
+     "title": "Pumpkin bread at the fall fair",
+     "attr": "Practice scenario: a market with a fixed number of sellers.",
+     "label": "Practice scenario written for this kit from your class materials; the company is made up.",
+     "paras": [
+      "Five bakeries sell pumpkin bread at a weekend fair. Each loaf is nearly the same. Over the morning, the bakeries tracked how many loaves people wanted at each price."
+     ],
+     "table": [
+      [
+       "Price per loaf",
+       "Loaves buyers want",
+       "Loaves bakeries offer"
+      ],
+      [
+       "$4",
+       "300",
+       "150"
+      ],
+      [
+       "$6",
+       "220",
+       "220"
+      ],
+      [
+       "$8",
+       "140",
+       "290"
+      ]
+     ]
+    },
+    "A2": {
+     "title": "Snack subscription box",
+     "attr": "Practice scenario: a new company.",
+     "label": "Practice scenario written for this kit from your class materials; the company is made up.",
+     "paras": [
+      "SnackDrop mails a monthly box of healthy snacks to college students. Most boxes are bought by parents as gifts. To test the idea, the founder first shipped 40 hand-packed boxes to students on one campus and asked what they liked. Students wanted fewer granola bars and more savory snacks, so the next boxes changed. Each box sells for $30 and costs $18 to fill and ship."
+     ]
+    },
+    "A3": {
+     "title": "Changes facing a bike-share company",
+     "attr": "Practice scenario: outside changes.",
+     "label": "Practice scenario written for this kit from your class materials; the company is made up.",
+     "paras": [
+      "CityCycle rents bikes and scooters by the minute in a large city. Its managers listed recent changes."
+     ],
+     "table": [
+      [
+       "Change",
+       "Notes"
+      ],
+      [
+       "City council votes to fund 40 miles of new bike lanes",
+       "Policy decision"
+      ],
+      [
+       "Gas prices rise sharply",
+       "Commuters look for cheaper travel"
+      ],
+      [
+       "Younger workers prefer not to own cars",
+       "Lifestyle trend"
+      ],
+      [
+       "New law requires helmets for scooter riders under 18",
+       "Must comply by spring"
+      ],
+      [
+       "CityCycle launches its own new app",
+       "Released last month"
+      ]
+     ]
+    }
+   },
+   "questions": [
+    {
+     "id": "SA-1",
+     "type": "mcq",
+     "skill": "Shortage",
+     "topic": "1.2",
+     "stem": "At $4 a loaf, what is happening in this market?",
+     "options": [
+      "A surplus, because bakeries are offering more loaves than buyers will take",
+      "A shortage, so prices will rise",
+      "Equilibrium, since some loaves are still selling",
+      "A surplus, so prices will fall"
+     ],
+     "ans": 1,
+     "exp": "300 wanted vs. 150 offered: buyers compete and price rises.",
+     "why": [
+      "At $4 buyers want 300 but only 150 are offered.",
+      "",
+      "Quantities aren't equal.",
+      "Reversed."
+     ],
+     "src": "A1"
+    },
+    {
+     "id": "SA-2",
+     "type": "mcq",
+     "skill": "Equilibrium",
+     "topic": "1.2",
+     "stem": "What is the equilibrium price at the fair?",
+     "options": [
+      "$8, because that is the price at which the bakeries would earn the most money",
+      "$6",
+      "$4",
+      "$5"
+     ],
+     "ans": 1,
+     "exp": "At $6, 220 wanted = 220 offered.",
+     "why": [
+      "At $8 there's a surplus of 150.",
+      "",
+      "Shortage.",
+      "No data; $6 is where they match."
+     ],
+     "src": "A1"
+    },
+    {
+     "id": "SA-3",
+     "type": "mcq",
+     "skill": "Market structure",
+     "topic": "1.2",
+     "stem": "Suppose 60 bakeries sold identical loaves. Which statement would BEST describe each bakery?",
+     "options": [
+      "It controls the market price because its bread is fresh and baked that day",
+      "It is a monopoly",
+      "It is a price taker",
+      "It is part of an oligopoly"
+     ],
+     "ans": 2,
+     "exp": "Many sellers of identical products = perfect competition; each must take the going price.",
+     "why": [
+      "Identical products give no pricing power.",
+      "Many sellers.",
+      "",
+      "Many small firms."
+     ],
+     "src": "A1"
+    },
+    {
+     "id": "SA-4",
+     "type": "mcq",
+     "skill": "Customers",
+     "topic": "1.1",
+     "stem": "In most SnackDrop sales, who is the customer?",
+     "options": [
+      "The parent who buys the box",
+      "The college student, because the student opens the box and eats the snacks inside",
+      "The snack makers",
+      "The founder"
+     ],
+     "ans": 0,
+     "exp": "The customer pays and decides.",
+     "why": [
+      "",
+      "That's the consumer.",
+      "Suppliers.",
+      "Owner."
+     ],
+     "src": "A2"
+    },
+    {
+     "id": "SA-5",
+     "type": "mcq",
+     "skill": "Value capture",
+     "topic": "1.1",
+     "stem": "How much value does SnackDrop capture per box?",
+     "options": [
+      "$30, which is the full amount that the parent pays SnackDrop for each box",
+      "$18",
+      "$12",
+      "$48"
+     ],
+     "ans": 2,
+     "exp": "$30 − $18 = $12.",
+     "why": [
+      "That's the price.",
+      "That's the cost.",
+      "",
+      "Price plus cost."
+     ],
+     "src": "A2"
+    },
+    {
+     "id": "SA-6",
+     "type": "mcq",
+     "skill": "MVP",
+     "topic": "1.4",
+     "stem": "The 40 hand-packed boxes are BEST described as:",
+     "options": [
+      "A minimum viable product",
+      "A minimum marketable product, since the founder sold them to real students on campus",
+      "Mass production",
+      "A value proposition"
+     ],
+     "ans": 0,
+     "exp": "A simple version built to test demand.",
+     "why": [
+      "",
+      "An MMP comes later, for a larger market.",
+      "Hand-packed, small run.",
+      "That's a statement."
+     ],
+     "src": "A2"
+    },
+    {
+     "id": "SA-7",
+     "type": "mcq",
+     "skill": "Iteration",
+     "topic": "1.4",
+     "stem": "Changing the snacks after student feedback shows:",
+     "options": [
+      "Limit pricing, because the founder is trying to keep rival snack boxes out of the market",
+      "Vertical integration",
+      "Product-market fit is proven",
+      "Build-measure-learn"
+     ],
+     "ans": 3,
+     "exp": "Launch, gather feedback, refine.",
+     "why": [
+      "Not about price.",
+      "No.",
+      "One test doesn't prove it.",
+      ""
+     ],
+     "src": "A2"
+    },
+    {
+     "id": "SA-8",
+     "type": "mcq",
+     "skill": "PESTEL",
+     "topic": "1.3",
+     "stem": "The council's vote to fund bike lanes is BEST classified as:",
+     "options": [
+      "Environmental, because more people riding bikes would help reduce air pollution",
+      "Legal",
+      "Political",
+      "Social"
+     ],
+     "ans": 2,
+     "exp": "Government spending priorities are political.",
+     "why": [
+      "The change is a government policy decision.",
+      "Not a law CityCycle must obey.",
+      "",
+      "Not a lifestyle trend."
+     ],
+     "src": "A3"
+    },
+    {
+     "id": "SA-9",
+     "type": "mcq",
+     "skill": "PESTEL",
+     "topic": "1.3",
+     "stem": "Which change is NOT a PESTEL factor for CityCycle?",
+     "options": [
+      "CityCycle's own new app",
+      "The helmet law, because CityCycle has to change its rules to comply by spring",
+      "Rising gas prices",
+      "Younger workers avoiding cars"
+     ],
+     "ans": 0,
+     "exp": "A firm's own launch is an internal decision.",
+     "why": [
+      "",
+      "That's external and legal.",
+      "Economic.",
+      "Social."
+     ],
+     "src": "A3"
+    },
+    {
+     "id": "SA-10",
+     "type": "mcq",
+     "skill": "PESTEL",
+     "topic": "1.3",
+     "stem": "Which change is a threat rather than an opportunity for CityCycle?",
+     "options": [
+      "Rising gas prices, because they increase the cost of fuel for everyone in the city",
+      "The helmet law for riders under 18",
+      "New bike lanes",
+      "Fewer young car owners"
+     ],
+     "ans": 1,
+     "exp": "It adds compliance costs and may cut young riders.",
+     "why": [
+      "They push commuters toward bikes.",
+      "",
+      "Opportunity.",
+      "Opportunity."
+     ],
+     "src": "A3"
+    },
+    {
+     "id": "SA-11",
+     "type": "mcq",
+     "skill": "PESTEL",
+     "topic": "1.3",
+     "stem": "Rising gas prices are BEST classified as:",
+     "options": [
+      "Environmental, because burning gasoline releases pollution into the city's air",
+      "Political",
+      "Technological",
+      "Economic"
+     ],
+     "ans": 3,
+     "exp": "Prices and spending power are economic.",
+     "why": [
+      "The change is about prices.",
+      "Not a policy.",
+      "No.",
+      ""
+     ],
+     "src": "A3"
+    }
+   ]
+  },
+  {
+   "name": "Set B: Structures, ethics and supply chains (1.5-1.8)",
+   "mode": "practice",
+   "tips": [
+    "Read the question first, then the scenario, so you know what to look for.",
+    "Several choices can be true. Pick the one the scenario supports BEST.",
+    "Use the numbers: if a table is given, at least one question needs it.",
+    "Watch for choices that are too extreme (\"always,\" \"guarantees\") or that answer a different question."
+   ],
+   "sources": {
+    "B1": {
+     "title": "Two founders, one decision",
+     "attr": "Practice scenario: choosing a structure.",
+     "label": "Practice scenario written for this kit from your class materials; the company is made up.",
+     "paras": [
+      "Maya and Jordan plan to open a rock-climbing gym. They need $1.2 million for walls, equipment and a building lease. Climbing gyms face the risk of injury lawsuits. Neither founder wants personal savings or a house put at risk, and they want to keep running the business themselves without a board of directors."
+     ]
+    },
+    "B2": {
+     "title": "A promise on the box",
+     "attr": "Practice scenario: ethics at a food company.",
+     "label": "Practice scenario written for this kit from your class materials; the company is made up.",
+     "paras": [
+      "Harvest Bar's slogan is \"Honest food, nothing hidden.\" A supplier offers a cheaper sweetener that would lower costs by 12%, but the label would have to list it, and many customers avoid it. A manager suggests buying it and keeping the old label for six months until the boxes run out. Store managers earn bonuses only when costs fall."
+     ]
+    },
+    "B3": {
+     "title": "Two ways to make a guitar",
+     "attr": "Practice scenario: comparing production methods.",
+     "label": "Practice scenario written for this kit from your class materials; the company is made up.",
+     "paras": [
+      "Two companies make acoustic guitars."
+     ],
+     "table": [
+      [
+       "",
+       "Oakline Guitars",
+       "StrumCo"
+      ],
+      [
+       "Guitars per year",
+       "300",
+       "120,000"
+      ],
+      [
+       "How they're made",
+       "Skilled builders by hand; each one different",
+       "Assembly lines and machines"
+      ],
+      [
+       "Average cost per guitar",
+       "$1,400",
+       "$95"
+      ],
+      [
+       "Average price",
+       "$3,200",
+       "$180"
+      ]
+     ]
+    }
+   },
+   "questions": [
+    {
+     "id": "SB-1",
+     "type": "mcq",
+     "skill": "Structures",
+     "topic": "1.7",
+     "stem": "Which structure BEST fits Maya and Jordan's goals?",
+     "options": [
+      "A partnership, because there are exactly two founders who want to share decisions",
+      "An LLC",
+      "A C-corporation",
+      "A sole proprietorship"
+     ],
+     "ans": 1,
+     "exp": "Limited liability plus flexible management without a board.",
+     "why": [
+      "Partners are usually personally liable.",
+      "",
+      "They want no board.",
+      "Two owners and unlimited liability."
+     ],
+     "src": "B1"
+    },
+    {
+     "id": "SB-2",
+     "type": "mcq",
+     "skill": "Liability",
+     "topic": "1.7",
+     "stem": "Why does the risk of lawsuits matter MOST in their decision?",
+     "options": [
+      "Lawsuits are a PESTEL factor, so the founders need to list them in a PESTEL analysis",
+      "It raises startup costs",
+      "Unlimited liability would put their homes at risk",
+      "It changes their mission"
+     ],
+     "ans": 2,
+     "exp": "Liability determines whether personal assets can be taken.",
+     "why": [
+      "That doesn't answer the structure question.",
+      "Not the main issue.",
+      "",
+      "Unrelated."
+     ],
+     "src": "B1"
+    },
+    {
+     "id": "SB-3",
+     "type": "mcq",
+     "skill": "Corporation",
+     "topic": "1.7",
+     "stem": "Why might they choose a corporation later?",
+     "options": [
+      "To avoid all rules and paperwork, since corporations face the least regulation",
+      "To keep full control",
+      "To raise more money by selling stock",
+      "To avoid any taxes"
+     ],
+     "ans": 2,
+     "exp": "Corporations have the greatest access to funding.",
+     "why": [
+      "Corporations face the most rules.",
+      "A board oversees it.",
+      "",
+      "C-corps face double taxation."
+     ],
+     "src": "B1"
+    },
+    {
+     "id": "SB-4",
+     "type": "mcq",
+     "skill": "Ethics",
+     "topic": "1.6",
+     "stem": "Keeping the old label after switching sweeteners would be unethical MAINLY because it:",
+     "options": [
+      "Lowers costs by 12%, which reduces the quality of the bars that customers buy",
+      "Changes a supplier",
+      "Breaks a trademark",
+      "Conceals information from customers"
+     ],
+     "ans": 3,
+     "exp": "Concealing data is unethical behavior.",
+     "why": [
+      "Lower costs alone aren't unethical.",
+      "Normal business.",
+      "Not stated.",
+      ""
+     ],
+     "src": "B2"
+    },
+    {
+     "id": "SB-5",
+     "type": "mcq",
+     "skill": "Frameworks",
+     "topic": "1.6",
+     "stem": "Which framework points MOST directly against the manager's idea?",
+     "options": [
+      "Strategic alignment",
+      "Net benefit, because only the money saved by the company matters in this decision",
+      "Limit pricing",
+      "Economies of scale"
+     ],
+     "ans": 0,
+     "exp": "\"Honest food, nothing hidden\" conflicts with hiding the change.",
+     "why": [
+      "",
+      "Net benefit weighs everyone, not just savings.",
+      "Not an ethics framework.",
+      "Not ethics."
+     ],
+     "src": "B2"
+    },
+    {
+     "id": "SB-6",
+     "type": "mcq",
+     "skill": "Incentives",
+     "topic": "1.6",
+     "stem": "What would MOST reduce pressure to hide changes like this?",
+     "options": [
+      "A larger bonus for managers who find the biggest cost savings each quarter",
+      "Bonuses that don't reward cost cuts alone",
+      "A new slogan",
+      "Fewer suppliers"
+     ],
+     "ans": 1,
+     "exp": "Poor incentive structures push people toward unethical choices.",
+     "why": [
+      "Increases the pressure.",
+      "",
+      "Doesn't change behavior.",
+      "Unrelated."
+     ],
+     "src": "B2"
+    },
+    {
+     "id": "SB-7",
+     "type": "mcq",
+     "skill": "Production",
+     "topic": "1.8",
+     "stem": "Oakline Guitars uses which kind of production?",
+     "options": [
+      "Artisan production",
+      "Mass production, since its guitars sell for a much higher price than StrumCo's",
+      "Outsourcing",
+      "Vertical integration"
+     ],
+     "ans": 0,
+     "exp": "Skilled labor, unique items, higher cost per unit.",
+     "why": [
+      "",
+      "Price doesn't define it; hand-built small runs do.",
+      "Not stated.",
+      "Not stated."
+     ],
+     "src": "B3"
+    },
+    {
+     "id": "SB-8",
+     "type": "mcq",
+     "skill": "Economies of scale",
+     "topic": "1.8",
+     "stem": "Why is StrumCo's cost per guitar so much lower?",
+     "options": [
+      "Economies of scale",
+      "Its builders are more skilled than Oakline's builders and work much more carefully",
+      "A patent",
+      "Limit pricing"
+     ],
+     "ans": 0,
+     "exp": "Fixed costs spread over 120,000 guitars.",
+     "why": [
+      "",
+      "Machines, not skill, cut its cost.",
+      "Not stated.",
+      "That's about price, not cost."
+     ],
+     "src": "B3"
+    },
+    {
+     "id": "SB-9",
+     "type": "mcq",
+     "skill": "Strategy",
+     "topic": "1.8",
+     "stem": "Which supply chain strategy does Oakline follow?",
+     "options": [
+      "Low-price leadership, because it makes far fewer guitars and has lower total costs",
+      "Mass production",
+      "Restrictive distribution",
+      "High-quality differentiation"
+     ],
+     "ans": 3,
+     "exp": "Premium craft and precision.",
+     "why": [
+      "It charges premium prices.",
+      "No.",
+      "Not stated.",
+      ""
+     ],
+     "src": "B3"
+    }
+   ]
+  },
+  {
+   "name": "Math drills: profit, value capture, market share",
+   "mode": "practice",
+   "tips": [
+    "Read the question first, then the scenario, so you know what to look for.",
+    "Several choices can be true. Pick the one the scenario supports BEST.",
+    "Use the numbers: if a table is given, at least one question needs it.",
+    "Watch for choices that are too extreme (\"always,\" \"guarantees\") or that answer a different question."
+   ],
+   "sources": {},
+   "questions": [
+    {
+     "id": "MD-1",
+     "type": "mcq",
+     "skill": "Math",
+     "topic": "1.1",
+     "stem": "A food truck's revenue last week was $5,600. Its costs were $2,100 for food, $1,500 for wages and $900 for fuel and fees. What was its profit?",
+     "options": [
+      "$4,500, the total amount the food truck spent on food, wages, fuel and fees",
+      "$1,100",
+      "$3,500",
+      "$2,600"
+     ],
+     "ans": 1,
+     "exp": "$5,600 − ($2,100 + $1,500 + $900) = $1,100.",
+     "why": [
+      "That's total cost.",
+      "",
+      "Subtracts only food.",
+      "Leaves out the wages."
+     ]
+    },
+    {
+     "id": "MD-2",
+     "type": "mcq",
+     "skill": "Math",
+     "topic": "1.1",
+     "stem": "A shop had revenue of $8,000 and total costs of $9,250. What is its result?",
+     "options": [
+      "A loss of $1,250",
+      "A profit of $1,250, because revenue and costs are both reported for the same month",
+      "A profit of $17,250",
+      "A loss of $9,250"
+     ],
+     "ans": 0,
+     "exp": "$8,000 − $9,250 = −$1,250.",
+     "why": [
+      "",
+      "Costs are greater than revenue.",
+      "Added them.",
+      "That's total cost."
+     ]
+    },
+    {
+     "id": "MD-3",
+     "type": "mcq",
+     "skill": "Math",
+     "topic": "1.1",
+     "stem": "A phone case costs $4 to make and sells for $15. How much value is captured per case?",
+     "options": [
+      "$15, because that is the full price the customer pays for each phone case",
+      "$19",
+      "$4",
+      "$11"
+     ],
+     "ans": 3,
+     "exp": "$15 − $4 = $11.",
+     "why": [
+      "That's the price.",
+      "Added.",
+      "That's the cost.",
+      ""
+     ]
+    },
+    {
+     "id": "MD-4",
+     "type": "mcq",
+     "skill": "Math",
+     "topic": "1.2",
+     "stem": "A market sells 2,000,000 sneakers a year. One brand sells 500,000. What is its market share?",
+     "options": [
+      "40%, because it sells the most sneakers of any single brand in this market",
+      "25%",
+      "4%",
+      "50%"
+     ],
+     "ans": 1,
+     "exp": "500,000 ÷ 2,000,000 = 25%.",
+     "why": [
+      "Not supported by the math.",
+      "",
+      "Divided wrong.",
+      "Off by double."
+     ]
+    },
+    {
+     "id": "MD-5",
+     "type": "mcq",
+     "skill": "Math",
+     "topic": "1.2",
+     "stem": "Brand X sells 30,000 units in a market of 120,000. Next year the market grows to 150,000 and Brand X still sells 30,000. Its share:",
+     "options": [
+      "Stays at 25%, because Brand X sold exactly the same number of units both years",
+      "Rises to 30%",
+      "Falls from 25% to 20%",
+      "Falls to 15%"
+     ],
+     "ans": 2,
+     "exp": "30,000 ÷ 120,000 = 25%; 30,000 ÷ 150,000 = 20%.",
+     "why": [
+      "The total grew.",
+      "Wrong direction.",
+      "",
+      "Math error."
+     ]
+    },
+    {
+     "id": "MD-6",
+     "type": "mcq",
+     "skill": "Math",
+     "topic": "1.4",
+     "stem": "Your study guide's product-market fit test: at least 40% of surveyed users would be very disappointed without the product. Of 350 users, 126 say so. Does it pass?",
+     "options": [
+      "No, it's 36%",
+      "Yes, because more than one hundred of the users surveyed said they would be disappointed",
+      "Yes, it's 46%",
+      "No, it's 26%"
+     ],
+     "ans": 0,
+     "exp": "126 ÷ 350 = 36%, below 40%.",
+     "why": [
+      "",
+      "The test is a percentage.",
+      "Math error.",
+      "Math error."
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Mock test (40 questions)",
+   "mode": "exam",
+   "tips": [
+    "Read the question first, then the scenario, so you know what to look for.",
+    "Several choices can be true. Pick the one the scenario supports BEST.",
+    "Use the numbers: if a table is given, at least one question needs it.",
+    "Watch for choices that are too extreme (\"always,\" \"guarantees\") or that answer a different question."
+   ],
+   "sources": {
+    "M1": {
+     "title": "Trailhead Tutoring",
+     "attr": "Practice scenario: a tutoring startup.",
+     "label": "Practice scenario written for this kit from your class materials; the company is made up.",
+     "paras": [
+      "Trailhead Tutoring matches high school students with college tutors for online test prep. Parents sign up and pay a monthly fee; students choose their tutors and attend the sessions. The founder tells employees that the company's long-term goal is \"to become the most trusted name in test prep in the region.\" On its website, the company explains: \"We connect students with trained college tutors through live online sessions that fit busy schedules.\"",
+      "A recent survey found that 82% of students said Trailhead saved them time compared with driving to a tutoring center. Last month the company reported the following results."
+     ],
+     "table": [
+      [
+       "Item",
+       "Amount"
+      ],
+      [
+       "Subscription revenue",
+       "$24,000"
+      ],
+      [
+       "Tutor pay",
+       "$13,500"
+      ],
+      [
+       "Software and website",
+       "$3,000"
+      ],
+      [
+       "Advertising",
+       "$2,500"
+      ],
+      [
+       "Other expenses",
+       "$1,000"
+      ]
+     ]
+    },
+    "M2": {
+     "title": "The home-battery market",
+     "attr": "Practice scenario: an industry data set.",
+     "label": "Practice scenario written for this kit from your class materials; the company is made up.",
+     "paras": [
+      "Home batteries store solar power for use at night. Building a battery factory and getting safety approval costs hundreds of millions of dollars. VoltHome holds a patent on a fast-charging design that no rival can legally copy until 2031, and it has signed an exclusive contract with the country's largest supplier of a key chemical. VoltHome's battery sells for $9,000, compared with an industry average of $7,500."
+     ],
+     "table": [
+      [
+       "Company",
+       "Units sold (thousands)",
+       "Market share"
+      ],
+      [
+       "VoltHome",
+       "180",
+       "36%"
+      ],
+      [
+       "PowerNest",
+       "150",
+       "30%"
+      ],
+      [
+       "SunVault",
+       "100",
+       "20%"
+      ],
+      [
+       "Others",
+       "70",
+       "14%"
+      ]
+     ]
+    },
+    "M3": {
+     "title": "Bright Juice expansion report",
+     "attr": "Practice scenario: a PESTEL review before expanding.",
+     "label": "Practice scenario written for this kit from your class materials; the company is made up.",
+     "paras": [
+      "Bright Juice runs 40 fresh-juice bars and is deciding whether to open 15 locations in a neighboring state. Managers reviewed the developments below. Bright Juice also recently trained all of its staff on a new ordering system it designed itself."
+     ],
+     "table": [
+      [
+       "Development",
+       "Expected impact"
+      ],
+      [
+       "The state plans a tax on sugary drinks",
+       "Higher prices for some menu items"
+      ],
+      [
+       "Interest rates have risen sharply",
+       "Higher cost of borrowing to build stores"
+      ],
+      [
+       "More young adults want low-sugar, plant-based drinks",
+       "Higher demand"
+      ],
+      [
+       "A popular delivery app is expanding across the state",
+       "More ways to reach customers"
+      ],
+      [
+       "A new law requires calorie labels on all menus",
+       "Higher compliance costs"
+      ]
+     ]
+    },
+    "M4": {
+     "title": "Kit Kart",
+     "attr": "Practice scenario: testing a business idea.",
+     "label": "Practice scenario written for this kit from your class materials; the company is made up.",
+     "paras": [
+      "Dev noticed that families at youth soccer tournaments struggle to carry chairs, coolers and gear between fields. He imagines a foldable wagon with a built-in cooler. His business hypothesis: at least 30% of surveyed parents will pay $120 for it. He surveyed parents at three tournaments and built five working wagons for families to try for a weekend. Families said the wagon was helpful but the handle was too short, so he redesigned it before ordering any production run."
+     ],
+     "table": [
+      [
+       "Survey result",
+       "Parents"
+      ],
+      [
+       "Parents surveyed",
+       "250"
+      ],
+      [
+       "Interested in the wagon",
+       "190"
+      ],
+      [
+       "Would pay $120",
+       "55"
+      ],
+      [
+       "Would pay $80",
+       "140"
+      ]
+     ]
+    },
+    "M5": {
+     "title": "ClearView Labs",
+     "attr": "Practice scenario: a business decision with competing responsibilities.",
+     "label": "Practice scenario written for this kit from your class materials; the company is made up.",
+     "paras": [
+      "ClearView Labs makes a home air-quality monitor. Final tests show that about 4% of units sometimes report pollution levels slightly higher than the real level. The error poses no safety risk, and engineers believe a software update can fix it within two months.",
+      "Delaying the launch would cost about $5 million in lost holiday sales and could let a rival launch first. Launching on time would meet investor expectations. The sales team receives large bonuses based only on how many units ship this quarter, and some sales managers are pushing to launch without telling customers about the issue. Executives are weighing the interests of customers, employees, investors and retailers."
+     ]
+    },
+    "M6": {
+     "title": "Rivera Roasters",
+     "attr": "Practice scenario: a growing business.",
+     "label": "Practice scenario written for this kit from your class materials; the company is made up.",
+     "paras": [
+      "Ana Rivera started a coffee-roasting business on her own, selling bags at farmers markets. As sales grew, her friend Ben joined as a co-owner; Ana manages roasting and supplies, while Ben handles café clients and the website. They hired an outside firm to do their taxes and payroll.",
+      "Now a grocery chain wants to stock their coffee in 200 stores. The contract includes large penalties if deliveries are late. To fill the order, the owners would need to buy a $600,000 roaster and hire 20 employees. They are considering changing their business structure."
+     ]
+    },
+    "M7": {
+     "title": "GreenLeaf Phone Cases",
+     "attr": "Practice scenario: a supply chain disruption.",
+     "label": "Practice scenario written for this kit from your class materials; the company is made up.",
+     "paras": [
+      "GreenLeaf makes phone cases from recycled plastic. It buys recycled pellets from a supplier overseas, molds the cases in its own factory, ships them to a national distributor, and the distributor delivers them to electronics stores. This month, a typhoon closed the supplier's port for three weeks. GreenLeaf's factory has only one week of pellets on hand."
+     ],
+     "table": [
+      [
+       "Stage",
+       "Business",
+       "Status"
+      ],
+      [
+       "Supplier",
+       "Overseas pellet maker",
+       "Port closed 3 weeks"
+      ],
+      [
+       "Manufacturer",
+       "GreenLeaf factory",
+       "1 week of materials left"
+      ],
+      [
+       "Distributor",
+       "National distributor",
+       "Normal"
+      ],
+      [
+       "Retailers",
+       "Electronics stores",
+       "Normal; holiday demand rising"
+      ]
+     ]
+    },
+    "M8": {
+     "title": "Stride Shoes",
+     "attr": "Practice scenario: values and competencies.",
+     "label": "Practice scenario written for this kit from your class materials; the company is made up.",
+     "paras": [
+      "Stride Shoes sells running shoes made from recycled materials and donates part of its profits to youth sports programs. Its engineers are known for designing unusually lightweight soles, and customers rate this as the main reason they choose Stride over cheaper brands. A large retailer offers to sell Stride's shoes nationwide if Stride switches to cheaper, non-recycled materials to lower the price. The founders turn down the offer because it conflicts with their commitment to sustainability."
+     ]
+    }
+   },
+   "questions": [
+    {
+     "id": "MK-1",
+     "type": "mcq",
+     "skill": "Customers",
+     "topic": "1.1",
+     "stem": "Who is Trailhead Tutoring's customer?",
+     "options": [
+      "The students, because they choose their tutors and attend every tutoring session",
+      "The college tutors",
+      "The software company",
+      "The parents who pay the fee"
+     ],
+     "ans": 3,
+     "exp": "The customer pays and decides; the student is the consumer.",
+     "why": [
+      "Students use the service: they are consumers.",
+      "They work for the company.",
+      "A supplier.",
+      ""
+     ],
+     "src": "M1"
+    },
+    {
+     "id": "MK-2",
+     "type": "mcq",
+     "skill": "Value",
+     "topic": "1.1",
+     "stem": "Which piece of evidence best shows value creation?",
+     "options": [
+      "The company collected $24,000 in subscription revenue from parents last month",
+      "The founder's long-term goal",
+      "82% of students say it saves them time",
+      "Advertising cost $2,500"
+     ],
+     "ans": 2,
+     "exp": "Benefits to customers are value creation.",
+     "why": [
+      "Revenue is value capture.",
+      "That's a vision.",
+      "",
+      "A cost."
+     ],
+     "src": "M1"
+    },
+    {
+     "id": "MK-3",
+     "type": "mcq",
+     "skill": "Profit",
+     "topic": "1.1",
+     "stem": "Based on the table, what was Trailhead's profit last month?",
+     "options": [
+      "$24,000, which is the total amount the company collected from parents this month",
+      "$4,000",
+      "$10,500",
+      "$20,000"
+     ],
+     "ans": 1,
+     "exp": "$24,000 − ($13,500 + $3,000 + $2,500 + $1,000) = $4,000.",
+     "why": [
+      "That's revenue.",
+      "",
+      "That subtracts only tutor pay.",
+      "That's total costs."
+     ],
+     "src": "M1"
+    },
+    {
+     "id": "MK-4",
+     "type": "mcq",
+     "skill": "Vision",
+     "topic": "1.5",
+     "stem": "\"To become the most trusted name in test prep in the region\" is best described as Trailhead's:",
+     "options": [
+      "Mission statement, since it tells employees what the company does for parents",
+      "Value proposition",
+      "Vision statement",
+      "Core competency"
+     ],
+     "ans": 2,
+     "exp": "Vision: where the business aspires to go.",
+     "why": [
+      "It states where the company wants to go.",
+      "Not why to choose a product.",
+      "",
+      "Not a skill."
+     ],
+     "src": "M1"
+    },
+    {
+     "id": "MK-5",
+     "type": "mcq",
+     "skill": "Mission",
+     "topic": "1.5",
+     "stem": "Which proposal would MOST support Trailhead's vision?",
+     "options": [
+      "Cut prices sharply and hire any available tutor to grow as quickly as possible",
+      "Train tutors well and expand carefully",
+      "Stop surveying students",
+      "Raise prices without changes"
+     ],
+     "ans": 1,
+     "exp": "Becoming the most trusted name depends on quality.",
+     "why": [
+      "Speed and low prices can hurt trust.",
+      "",
+      "Feedback builds trust.",
+      "Doesn't build trust."
+     ],
+     "src": "M1"
+    },
+    {
+     "id": "MK-6",
+     "type": "mcq",
+     "skill": "Market structure",
+     "topic": "1.2",
+     "stem": "Based on the information, the home-battery market is BEST described as:",
+     "options": [
+      "Monopolistic competition, since each company's battery is a little bit different",
+      "An oligopoly",
+      "Perfect competition",
+      "A monopoly"
+     ],
+     "ans": 1,
+     "exp": "Three firms hold 86% of sales, and entry costs hundreds of millions.",
+     "why": [
+      "A few firms dominate behind high barriers.",
+      "",
+      "Few firms, high barriers.",
+      "Several firms."
+     ],
+     "src": "M2"
+    },
+    {
+     "id": "MK-7",
+     "type": "mcq",
+     "skill": "Barriers",
+     "topic": "1.2",
+     "stem": "Which barrier to entry protects VoltHome specifically, rather than every firm in the market?",
+     "options": [
+      "Its patent and exclusive supplier contract",
+      "The huge cost of building a factory and getting the batteries approved for safety",
+      "Its 36% market share",
+      "Its price"
+     ],
+     "ans": 0,
+     "exp": "The patent and exclusive contract belong to VoltHome alone.",
+     "why": [
+      "",
+      "That barrier protects all existing firms.",
+      "A result, not a barrier.",
+      "Not a barrier."
+     ],
+     "src": "M2"
+    },
+    {
+     "id": "MK-8",
+     "type": "mcq",
+     "skill": "Competitive advantage",
+     "topic": "1.2",
+     "stem": "Why can VoltHome charge $1,500 more than the industry average?",
+     "options": [
+      "Prices in every market are set by the company with the largest market share",
+      "Buyers prefer high prices",
+      "The government sets its price",
+      "Its patented design is differentiated"
+     ],
+     "ans": 3,
+     "exp": "A unique, protected feature gives pricing power.",
+     "why": [
+      "Not how prices are set.",
+      "No.",
+      "Not stated.",
+      ""
+     ],
+     "src": "M2"
+    },
+    {
+     "id": "MK-9",
+     "type": "mcq",
+     "skill": "Market share",
+     "topic": "1.2",
+     "stem": "If total sales grow by 20% next year but VoltHome still sells 180,000 units, what happens to its market share?",
+     "options": [
+      "It falls",
+      "It rises, because VoltHome is selling in a market that is growing quickly",
+      "It stays at 36%",
+      "It doubles"
+     ],
+     "ans": 0,
+     "exp": "Same sales in a bigger market means a smaller share.",
+     "why": [
+      "",
+      "Its sales stay flat while the market grows.",
+      "The total grew.",
+      "No."
+     ],
+     "src": "M2"
+    },
+    {
+     "id": "MK-10",
+     "type": "mcq",
+     "skill": "Patent",
+     "topic": "1.2",
+     "stem": "What is MOST likely to happen to VoltHome after 2031?",
+     "options": [
+      "VoltHome will become a monopoly, since its patent gives it permanent control of batteries",
+      "Rivals may copy its fast-charging design",
+      "Its costs will vanish",
+      "Demand will end"
+     ],
+     "ans": 1,
+     "exp": "Patents give temporary protection.",
+     "why": [
+      "Patents expire.",
+      "",
+      "Unrelated.",
+      "Not supported."
+     ],
+     "src": "M2"
+    },
+    {
+     "id": "MK-11",
+     "type": "mcq",
+     "skill": "PESTEL",
+     "topic": "1.3",
+     "stem": "Which development is NOT part of a PESTEL analysis?",
+     "options": [
+      "A popular delivery app expanding across the neighboring state",
+      "Bright Juice training staff on its own ordering system",
+      "Rising interest rates",
+      "A calorie-label law"
+     ],
+     "ans": 1,
+     "exp": "A company's own decisions are internal.",
+     "why": [
+      "That's an external technological factor.",
+      "",
+      "Economic.",
+      "Legal."
+     ],
+     "src": "M3"
+    },
+    {
+     "id": "MK-12",
+     "type": "mcq",
+     "skill": "PESTEL",
+     "topic": "1.3",
+     "stem": "The planned tax on sugary drinks is BEST classified as:",
+     "options": [
+      "An economic factor, because it raises the prices that customers pay for drinks",
+      "A social factor",
+      "A political factor",
+      "An environmental factor"
+     ],
+     "ans": 2,
+     "exp": "Taxes are government policy decisions.",
+     "why": [
+      "It's a government policy choice.",
+      "Not a trend.",
+      "",
+      "Unrelated."
+     ],
+     "src": "M3"
+    },
+    {
+     "id": "MK-13",
+     "type": "mcq",
+     "skill": "PESTEL",
+     "topic": "1.3",
+     "stem": "Which combination would MOST encourage Bright Juice to expand?",
+     "options": [
+      "The sugar tax and the calorie-label law, which affect every juice company equally",
+      "Higher interest rates and the sugar tax",
+      "The low-sugar trend and the delivery app",
+      "The calorie law and higher rates"
+     ],
+     "ans": 2,
+     "exp": "A social trend raising demand plus a new channel to customers are opportunities.",
+     "why": [
+      "Both raise costs.",
+      "Both obstacles.",
+      "",
+      "Both obstacles."
+     ],
+     "src": "M3"
+    },
+    {
+     "id": "MK-14",
+     "type": "mcq",
+     "skill": "PESTEL",
+     "topic": "1.3",
+     "stem": "Which development is MOST likely the biggest immediate obstacle to building 15 new stores?",
+     "options": [
+      "The low-sugar trend, which might reduce how much juice customers want to buy",
+      "The delivery app",
+      "Staff training",
+      "Higher interest rates"
+     ],
+     "ans": 3,
+     "exp": "Building stores requires borrowing, which now costs more.",
+     "why": [
+      "It raises demand.",
+      "An opportunity.",
+      "Internal.",
+      ""
+     ],
+     "src": "M3"
+    },
+    {
+     "id": "MK-15",
+     "type": "mcq",
+     "skill": "PESTEL",
+     "topic": "1.3",
+     "stem": "Which pairing is correct?",
+     "options": [
+      "Delivery app: social, because people are changing how they like to order food",
+      "Low-sugar trend: economic",
+      "Interest rates: political",
+      "Calorie-label law: legal"
+     ],
+     "ans": 3,
+     "exp": "A specific law a business must follow is legal.",
+     "why": [
+      "The platform itself is technological.",
+      "Social.",
+      "Economic.",
+      ""
+     ],
+     "src": "M3"
+    },
+    {
+     "id": "MK-16",
+     "type": "mcq",
+     "skill": "Idea generation",
+     "topic": "1.4",
+     "stem": "How did Dev most likely find the problem?",
+     "options": [
+      "By studying a government report on the size of the youth soccer market",
+      "By copying a rival",
+      "By observing families at tournaments",
+      "By building a factory"
+     ],
+     "ans": 2,
+     "exp": "Observation is a source of business ideas.",
+     "why": [
+      "That's secondary research, not how he found it.",
+      "Not stated.",
+      "",
+      "No."
+     ],
+     "src": "M4"
+    },
+    {
+     "id": "MK-17",
+     "type": "mcq",
+     "skill": "Hypothesis",
+     "topic": "1.4",
+     "stem": "Based on the survey, what should Dev conclude about his hypothesis?",
+     "options": [
+      "It is not supported at $120",
+      "It is supported, because 190 of the 250 parents said they were interested in the wagon",
+      "He should raise the price",
+      "He needs no more research"
+     ],
+     "ans": 0,
+     "exp": "55 ÷ 250 = 22%, below the 30% benchmark.",
+     "why": [
+      "",
+      "Interest isn't willingness to pay $120.",
+      "Data don't support that.",
+      "Results suggest revising."
+     ],
+     "src": "M4"
+    },
+    {
+     "id": "MK-18",
+     "type": "mcq",
+     "skill": "MVP",
+     "topic": "1.4",
+     "stem": "Building five working wagons for families to try was MAINLY meant to:",
+     "options": [
+      "Stop sporting goods companies from copying the wagon before it reaches the stores",
+      "Set the final price",
+      "Cut production costs",
+      "Test whether it meets families' needs"
+     ],
+     "ans": 3,
+     "exp": "Testing working versions with users is validation.",
+     "why": [
+      "Not the purpose.",
+      "Not mainly.",
+      "Not mainly.",
+      ""
+     ],
+     "src": "M4"
+    },
+    {
+     "id": "MK-19",
+     "type": "mcq",
+     "skill": "Iteration",
+     "topic": "1.4",
+     "stem": "Redesigning the handle after feedback is an example of:",
+     "options": [
+      "Iteration",
+      "Mass production, because Dev is getting ready to manufacture many wagons",
+      "Limit pricing",
+      "Vertical integration"
+     ],
+     "ans": 0,
+     "exp": "Improving based on feedback is iteration.",
+     "why": [
+      "",
+      "Not yet producing.",
+      "Unrelated.",
+      "Unrelated."
+     ],
+     "src": "M4"
+    },
+    {
+     "id": "MK-20",
+     "type": "mcq",
+     "skill": "Evidence",
+     "topic": "1.4",
+     "stem": "Which additional information would MOST help Dev judge whether the survey is reliable?",
+     "options": [
+      "Whether rival companies have started selling wagons with built-in coolers",
+      "Whether he can make enough wagons",
+      "Whether these parents represent his target customers",
+      "Whether he likes the design"
+     ],
+     "ans": 2,
+     "exp": "A survey is reliable only if the sample represents the target market.",
+     "why": [
+      "That's about competition.",
+      "Feasibility, not reliability.",
+      "",
+      "Opinion."
+     ],
+     "src": "M4"
+    },
+    {
+     "id": "MK-21",
+     "type": "mcq",
+     "skill": "Ethics",
+     "topic": "1.6",
+     "stem": "Which statement BEST describes ClearView's situation?",
+     "options": [
+      "An ethical dilemma with competing responsibilities",
+      "A conflict between two market segments that want different monitor features",
+      "A pricing decision",
+      "A supply chain risk"
+     ],
+     "ans": 0,
+     "exp": "Customers, investors and employees pull in different directions.",
+     "why": [
+      "",
+      "Not about segments.",
+      "Not about price.",
+      "Not the main issue."
+     ],
+     "src": "M5"
+    },
+    {
+     "id": "MK-22",
+     "type": "mcq",
+     "skill": "Incentives",
+     "topic": "1.6",
+     "stem": "Which factor is MOST likely pushing some managers toward an unethical choice?",
+     "options": [
+      "Bonuses based only on units shipped",
+      "The engineers' estimate that a software update can fix the problem in two months",
+      "The 4% error rate",
+      "Retailers' interests"
+     ],
+     "ans": 0,
+     "exp": "Poor incentive structures push people toward unethical choices.",
+     "why": [
+      "",
+      "That's information, not pressure.",
+      "A fact.",
+      "Not stated as pressure."
+     ],
+     "src": "M5"
+    },
+    {
+     "id": "MK-23",
+     "type": "mcq",
+     "skill": "Stakeholders",
+     "topic": "1.6",
+     "stem": "If ClearView launches without telling customers, who is MOST directly affected first?",
+     "options": [
+      "Investors, who expect the company to meet its sales targets this quarter",
+      "Retailers",
+      "Engineers",
+      "Customers using the monitors"
+     ],
+     "ans": 3,
+     "exp": "Customers, external stakeholders, feel it first.",
+     "why": [
+      "Not first.",
+      "Less directly.",
+      "Less directly.",
+      ""
+     ],
+     "src": "M5"
+    },
+    {
+     "id": "MK-24",
+     "type": "mcq",
+     "skill": "Frameworks",
+     "topic": "1.6",
+     "stem": "Which approach would BEST help executives decide?",
+     "options": [
+      "Choose whatever gives investors the largest return in the short run",
+      "Choose the most total benefit and least total harm",
+      "Choose what most managers want",
+      "Choose the fewest schedule changes"
+     ],
+     "ans": 1,
+     "exp": "The net benefit framework weighs all stakeholders.",
+     "why": [
+      "Ignores other stakeholders.",
+      "",
+      "Popularity isn't a framework.",
+      "Not ethical reasoning."
+     ],
+     "src": "M5"
+    },
+    {
+     "id": "MK-25",
+     "type": "mcq",
+     "skill": "Accountability",
+     "topic": "1.6",
+     "stem": "Which change would MOST directly discourage unethical choices in the future?",
+     "options": [
+      "Increase the bonus for shipping units so that the sales team works even harder",
+      "Remove the engineers",
+      "Reward honest reporting, not just units shipped",
+      "Delay all launches forever"
+     ],
+     "ans": 2,
+     "exp": "Fixing incentives addresses the root cause.",
+     "why": [
+      "Worsens the pressure.",
+      "No.",
+      "",
+      "Too extreme."
+     ],
+     "src": "M5"
+    },
+    {
+     "id": "MK-26",
+     "type": "mcq",
+     "skill": "Structures",
+     "topic": "1.7",
+     "stem": "When Ana sold coffee by herself at farmers markets, her business was a:",
+     "options": [
+      "Sole proprietorship",
+      "Limited liability company, since she was the only person responsible for it",
+      "Corporation",
+      "Partnership"
+     ],
+     "ans": 0,
+     "exp": "One owner with no legal separation.",
+     "why": [
+      "",
+      "Nothing suggests she formed an LLC.",
+      "No shareholders.",
+      "One owner."
+     ],
+     "src": "M6"
+    },
+    {
+     "id": "MK-27",
+     "type": "mcq",
+     "skill": "Structures",
+     "topic": "1.7",
+     "stem": "Which factor BEST justifies changing from a partnership to an LLC now?",
+     "options": [
+      "More personal financial risk from the contract",
+      "The owners want to hire twenty employees and buy a large new roasting machine",
+      "They outsource taxes",
+      "They sell at farmers markets"
+     ],
+     "ans": 0,
+     "exp": "Penalties and big purchases raise risk; an LLC limits liability.",
+     "why": [
+      "",
+      "Any structure can hire and buy.",
+      "Unrelated.",
+      "Unrelated."
+     ],
+     "src": "M6"
+    },
+    {
+     "id": "MK-28",
+     "type": "mcq",
+     "skill": "Outsourcing",
+     "topic": "1.7",
+     "stem": "Why did the owners MOST likely hire an outside firm for taxes and payroll?",
+     "options": [
+      "To gain control of every stage of the coffee supply chain from farm to store",
+      "To let specialists handle those tasks",
+      "To find new customers",
+      "To differentiate the coffee"
+     ],
+     "ans": 1,
+     "exp": "Outsourcing taps specialized skills.",
+     "why": [
+      "That's vertical integration.",
+      "",
+      "Marketing.",
+      "Unrelated."
+     ],
+     "src": "M6"
+    },
+    {
+     "id": "MK-29",
+     "type": "mcq",
+     "skill": "Departments",
+     "topic": "1.7",
+     "stem": "Ben's role most closely matches which department?",
+     "options": [
+      "Operations, because Ben works with cafés every day to make sure they are happy",
+      "Sales and marketing",
+      "Accounting",
+      "Human resources"
+     ],
+     "ans": 1,
+     "exp": "Clients and the website are sales and marketing.",
+     "why": [
+      "He wins and keeps clients.",
+      "",
+      "Not records.",
+      "Not hiring."
+     ],
+     "src": "M6"
+    },
+    {
+     "id": "MK-30",
+     "type": "mcq",
+     "skill": "Corporation",
+     "topic": "1.7",
+     "stem": "If the owners formed a corporation instead, what trade-off would they MOST likely face?",
+     "options": [
+      "Lower startup costs, but losing the protection their personal assets now have",
+      "Total control, but full liability",
+      "More funding, but less control",
+      "No employees, but faster growth"
+     ],
+     "ans": 2,
+     "exp": "Corporations sell stock but owners cede control to a board.",
+     "why": [
+      "Reversed.",
+      "That's a sole proprietorship.",
+      "",
+      "Unrelated."
+     ],
+     "src": "M6"
+    },
+    {
+     "id": "MK-31",
+     "type": "mcq",
+     "skill": "Supply chain",
+     "topic": "1.8",
+     "stem": "Which stage of GreenLeaf's supply chain has been disrupted?",
+     "options": [
+      "The retailers, because holiday demand for phone cases is rising in the stores",
+      "The distributor",
+      "The manufacturer",
+      "The supplier"
+     ],
+     "ans": 3,
+     "exp": "The supplier's port is closed.",
+     "why": [
+      "Retailers are normal.",
+      "Normal.",
+      "Affected later.",
+      ""
+     ],
+     "src": "M7"
+    },
+    {
+     "id": "MK-32",
+     "type": "mcq",
+     "skill": "Risk",
+     "topic": "1.8",
+     "stem": "The typhoon is BEST classified as which supply chain risk?",
+     "options": [
+      "A production error inside GreenLeaf's own factory during the molding process",
+      "A natural disaster",
+      "Political instability",
+      "Collusion"
+     ],
+     "ans": 1,
+     "exp": "Natural disasters are supply chain risks.",
+     "why": [
+      "The cause is outside.",
+      "",
+      "Not political.",
+      "Unrelated."
+     ],
+     "src": "M7"
+    },
+    {
+     "id": "MK-33",
+     "type": "mcq",
+     "skill": "Stockout",
+     "topic": "1.8",
+     "stem": "If the port stays closed, what problem is MOST likely within a few weeks?",
+     "options": [
+      "A surplus of phone cases at the stores, since the factory will keep producing",
+      "Stockouts at stores",
+      "Lower holiday demand",
+      "Higher-quality cases"
+     ],
+     "ans": 1,
+     "exp": "With one week of pellets and three weeks closed, shelves run out.",
+     "why": [
+      "The factory runs out of materials.",
+      "",
+      "Demand is rising.",
+      "Unrelated."
+     ],
+     "src": "M7"
+    },
+    {
+     "id": "MK-34",
+     "type": "mcq",
+     "skill": "Strategy",
+     "topic": "1.8",
+     "stem": "Which action would BEST reduce this kind of risk in the future?",
+     "options": [
+      "Keep more materials on hand or add a second supplier",
+      "Close the factory and stop making phone cases until the shipping port reopens",
+      "Raise prices only",
+      "Stop using distributors"
+     ],
+     "ans": 0,
+     "exp": "Extra inventory or backup suppliers make chains resilient.",
+     "why": [
+      "",
+      "That doesn't reduce future risk.",
+      "Doesn't fix supply.",
+      "Unrelated."
+     ],
+     "src": "M7"
+    },
+    {
+     "id": "MK-35",
+     "type": "mcq",
+     "skill": "Supply chain",
+     "topic": "1.8",
+     "stem": "What is the distributor's role in GreenLeaf's chain?",
+     "options": [
+      "Making recycled pellets and shipping them to GreenLeaf's factory overseas",
+      "Molding the cases",
+      "Moving cases from the factory to stores",
+      "Selling to shoppers"
+     ],
+     "ans": 2,
+     "exp": "Distributors move finished goods to retailers.",
+     "why": [
+      "That's the supplier.",
+      "Manufacturer.",
+      "",
+      "Retailers."
+     ],
+     "src": "M7"
+    },
+    {
+     "id": "MK-36",
+     "type": "mcq",
+     "skill": "Competencies",
+     "topic": "1.5",
+     "stem": "Stride's engineers' skill at designing lightweight soles is BEST described as:",
+     "options": [
+      "A core value, because the company believes strongly in making lightweight shoes",
+      "A PESTEL factor",
+      "A barrier to entry",
+      "A core competency"
+     ],
+     "ans": 3,
+     "exp": "Capabilities that beat rivals are core competencies.",
+     "why": [
+      "It's a skill, not a belief.",
+      "Internal.",
+      "Not stated as one.",
+      ""
+     ],
+     "src": "M8"
+    },
+    {
+     "id": "MK-37",
+     "type": "mcq",
+     "skill": "Values",
+     "topic": "1.5",
+     "stem": "Turning down the retailer's offer shows Stride is guided MAINLY by:",
+     "options": [
+      "Its core competencies, because it is very good at designing lightweight shoes",
+      "A legal requirement",
+      "Its core values",
+      "Its market share goals"
+     ],
+     "ans": 2,
+     "exp": "Rejecting profit that conflicts with beliefs shows core values.",
+     "why": [
+      "The reason is a belief in sustainability.",
+      "No law stated.",
+      "",
+      "It gave up sales."
+     ],
+     "src": "M8"
+    },
+    {
+     "id": "MK-38",
+     "type": "mcq",
+     "skill": "Organizations",
+     "topic": "1.5",
+     "stem": "Stride is BEST classified as which kind of organization?",
+     "options": [
+      "A nonprofit, because it gives part of its profits to youth sports programs",
+      "A government agency",
+      "A monopoly",
+      "A social enterprise"
+     ],
+     "ans": 3,
+     "exp": "Profit plus a social or environmental goal.",
+     "why": [
+      "It still earns profit.",
+      "No.",
+      "Has rivals.",
+      ""
+     ],
+     "src": "M8"
+    },
+    {
+     "id": "MK-39",
+     "type": "mcq",
+     "skill": "Competitive advantage",
+     "topic": "1.2",
+     "stem": "Based on the scenario, Stride's main competitive advantage comes from:",
+     "options": [
+      "Differentiated, lightweight shoes",
+      "Charging the lowest prices in the market, which attracts price-sensitive runners",
+      "A patent",
+      "Government protection"
+     ],
+     "ans": 0,
+     "exp": "Customers choose Stride for its unique soles.",
+     "why": [
+      "",
+      "Customers pass up cheaper brands.",
+      "Not mentioned.",
+      "Not mentioned."
+     ],
+     "src": "M8"
+    },
+    {
+     "id": "MK-40",
+     "type": "mcq",
+     "skill": "Supply chain",
+     "topic": "1.8",
+     "stem": "Stride's choice of recycled materials over cheaper ones BEST reflects which supply chain strategy?",
+     "options": [
+      "Low-price leadership, since recycled materials always cost less than new ones",
+      "Mass production",
+      "Limit pricing",
+      "High-quality differentiation"
+     ],
+     "ans": 3,
+     "exp": "Premium inputs that set the product apart.",
+     "why": [
+      "It chose the costlier option.",
+      "Not stated.",
+      "Unrelated.",
+      ""
+     ],
+     "src": "M8"
+    }
+   ],
+   "exam": "Mock test",
+   "examTips": [
+    "Like the real Unit 1 test: 40 multiple-choice questions, one scenario per page, 5 questions each.",
+    "Turn the Timer on and leave Shuffle off. About one minute per question.",
+    "Many questions have two good answers: choose the one the scenario supports best."
+   ]
+  }
+ ]
+}

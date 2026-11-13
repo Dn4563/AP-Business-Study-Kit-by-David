@@ -1,0 +1,5322 @@
+{
+ "Business": [
+  {
+   "q": "Which of these is NOT a business?",
+   "right": "A family cooking dinner for itself at home",
+   "wrong": [
+    [
+     "A teenager who sells custom phone cases to classmates through an online store",
+     "Selling goods for money makes it a business."
+    ],
+    [
+     "A barber who cuts hair for pay",
+     "Selling a service makes it a business."
+    ],
+    [
+     "An app that sells movie tickets",
+     "Online businesses count too."
+    ]
+   ],
+   "exp": "A business produces and distributes goods or services for customers; cooking for yourself isn't selling anything."
+  },
+  {
+   "q": "A company sells only through its website to customers in 40 countries. What does this show?",
+   "right": "Businesses can be virtual and global",
+   "wrong": [
+    [
+     "It isn't really a business because it doesn't have a physical store location",
+     "Businesses can operate virtually."
+    ],
+    [
+     "It must be a nonprofit",
+     "Nothing suggests that."
+    ],
+    [
+     "It sells only services",
+     "Not stated."
+    ]
+   ],
+   "exp": "Businesses can serve customers face to face or virtually, locally or globally."
+  }
+ ],
+ "Goods": [
+  {
+   "q": "A concert venue sells T-shirts and also charges for coat check. Which is the good?",
+   "right": "The T-shirt",
+   "wrong": [
+    [
+     "The coat check, because customers get their coats back in their hands",
+     "Coat check is work done for you: a service."
+    ],
+    [
+     "Both are goods",
+     "Coat check is a service."
+    ],
+    [
+     "Neither is a good",
+     "The T-shirt is tangible."
+    ]
+   ],
+   "exp": "Goods are tangible things you can own."
+  },
+  {
+   "q": "A ski resort rents helmets and sells lessons. Which statement is correct?",
+   "right": "The helmet is a good; the lesson is a service",
+   "wrong": [
+    [
+     "Both are services, since customers don't keep the helmet after renting it",
+     "The helmet is still a tangible item."
+    ],
+    [
+     "The lesson is a good",
+     "A lesson is work done for you."
+    ],
+    [
+     "Neither has value",
+     "Both have value."
+    ]
+   ],
+   "exp": "Goods are tangible items; services are work performed for pay."
+  }
+ ],
+ "Services": [
+  {
+   "q": "Which of these is a service?",
+   "right": "Preparing someone's taxes",
+   "wrong": [
+    [
+     "A box of cereal sold at a grocery store to a family with young children",
+     "Cereal is a tangible good."
+    ],
+    [
+     "A smartphone",
+     "A good."
+    ],
+    [
+     "A pair of sneakers",
+     "A good."
+    ]
+   ],
+   "exp": "Services are work performed for payment."
+  },
+  {
+   "q": "A homeowner hires a company to clean the air conditioner and buys a filter from it. Which is the service?",
+   "right": "The cleaning",
+   "wrong": [
+    [
+     "The filter, because the homeowner needs it to keep the system working well",
+     "The filter is tangible: a good."
+    ],
+    [
+     "Both are services",
+     "The filter is a good."
+    ],
+    [
+     "Neither is a service",
+     "The cleaning is work done for pay."
+    ]
+   ],
+   "exp": "Cleaning is work performed for payment; the filter is a good."
+  }
+ ],
+ "Profit": [
+  {
+   "q": "A bakery earns $18,000 in revenue and pays $17,000 in total costs. What is its profit?",
+   "right": "$1,000",
+   "wrong": [
+    [
+     "$18,000, since that is all of the money the bakery collected from its customers",
+     "That's revenue, not profit."
+    ],
+    [
+     "$17,000",
+     "That's total costs."
+    ],
+    [
+     "$35,000",
+     "Subtract, don't add."
+    ]
+   ],
+   "exp": "Profit = revenue − costs = $18,000 − $17,000."
+  },
+  {
+   "q": "A business has $1.2 million in revenue and $1.35 million in costs. Which statement is correct?",
+   "right": "It has revenue but a $150,000 loss",
+   "wrong": [
+    [
+     "It earned $150,000 in profit, since the gap between revenue and costs is positive",
+     "Costs are higher, so it's a loss."
+    ],
+    [
+     "It has no revenue",
+     "It has $1.2 million in revenue."
+    ],
+    [
+     "It can't be creating value",
+     "It can still create value for customers."
+    ]
+   ],
+   "exp": "When costs exceed revenue, there is a loss, not a profit."
+  }
+ ],
+ "Customer": [
+  {
+   "q": "A school district signs a contract to buy lunches; students choose whether to eat them. Who is the customer?",
+   "right": "The school district",
+   "wrong": [
+    [
+     "The students, because they are the ones who decide each day whether to eat the meals",
+     "They're the consumers: the users."
+    ],
+    [
+     "The delivery drivers",
+     "They don't buy anything."
+    ],
+    [
+     "The food suppliers",
+     "They sell to the company."
+    ]
+   ],
+   "exp": "The customer pays and makes the buying decision."
+  },
+  {
+   "q": "A parent buys a meal subscription for a college student, who picks and eats the meals. Which role does the parent play?",
+   "right": "Customer",
+   "wrong": [
+    [
+     "Consumer, since the parent is the one spending money on the meal subscription",
+     "The consumer is the one who uses it."
+    ],
+    [
+     "Supplier",
+     "The parent isn't selling."
+    ],
+    [
+     "Competitor",
+     "Not a business role here."
+    ]
+   ],
+   "exp": "The parent pays: customer. The student uses: consumer."
+  }
+ ],
+ "Consumer": [
+  {
+   "q": "A delivery company buys e-bikes for its couriers to ride. Who is the consumer?",
+   "right": "The couriers who ride the bikes",
+   "wrong": [
+    [
+     "The delivery company, because it paid for the bikes and signed the purchase contract",
+     "That's the customer."
+    ],
+    [
+     "The bike maker",
+     "That's the seller."
+    ],
+    [
+     "The battery supplier",
+     "That's a supplier."
+    ]
+   ],
+   "exp": "The consumer is the person who uses the product."
+  },
+  {
+   "q": "A museum buys audio guides that visitors use on tours. Which is correct?",
+   "right": "The museum is the customer; visitors are consumers",
+   "wrong": [
+    [
+     "The visitors are the customers, because they physically hold the devices on tours",
+     "They use them but didn't buy them."
+    ],
+    [
+     "The supplier is the consumer",
+     "The supplier sells them."
+    ],
+    [
+     "The museum is the consumer",
+     "The museum paid but doesn't use them."
+    ]
+   ],
+   "exp": "Customer pays; consumer uses."
+  }
+ ],
+ "Need": [
+  {
+   "q": "Which purchase is best classified as a need?",
+   "right": "Basic groceries for the week",
+   "wrong": [
+    [
+     "Premium imported chocolates bought for the family to enjoy after dinner",
+     "Enjoyment items are wants."
+    ],
+    [
+     "A luxury watch",
+     "A want."
+    ],
+    [
+     "A convertible for weekends",
+     "A want."
+    ]
+   ],
+   "exp": "Needs are essential for survival: food, water, shelter, basic healthcare."
+  },
+  {
+   "q": "A person with no place to live rents a small apartment. How is the apartment classified?",
+   "right": "A need",
+   "wrong": [
+    [
+     "A want, because the person could choose a nicer apartment in a better area instead",
+     "Shelter itself is essential."
+    ],
+    [
+     "A service",
+     "Rent is for housing, a need."
+    ],
+    [
+     "A profit",
+     "Not a business term here."
+    ]
+   ],
+   "exp": "Shelter is a need."
+  }
+ ],
+ "Want": [
+  {
+   "q": "A commuter who already owns a reliable watch buys a luxury watch for prestige. What is the luxury watch?",
+   "right": "A want",
+   "wrong": [
+    [
+     "A need, because everyone has to know the time to get to work on schedule",
+     "He already has a working watch."
+    ],
+    [
+     "A service",
+     "It's a good."
+    ],
+    [
+     "Value capture",
+     "That's a business term."
+    ]
+   ],
+   "exp": "Wants improve quality of life but aren't necessary."
+  },
+  {
+   "q": "Why would a business care whether its product meets a need or a want?",
+   "right": "It shapes how the product is designed and marketed",
+   "wrong": [
+    [
+     "Because businesses are not allowed by law to sell anything that is only a want",
+     "Wants are sold all the time."
+    ],
+    [
+     "Needs never sell",
+     "They do."
+    ],
+    [
+     "It decides the business structure",
+     "Unrelated."
+    ]
+   ],
+   "exp": "Businesses consider customers' problems, needs and wants when designing and marketing products."
+  }
+ ],
+ "Problem-solution fit": [
+  {
+   "q": "Photographers say late payments waste time. A startup's reminder tool takes so long to set up that they stop using it. What does this show?",
+   "right": "The problem is real but the fit is weak",
+   "wrong": [
+    [
+     "The startup has shown strong problem-solution fit because the problem it found is real",
+     "A real problem isn't enough; the solution must work."
+    ],
+    [
+     "The problem was disproved",
+     "It's still valid."
+    ],
+    [
+     "The startup captured value",
+     "Nothing was sold."
+    ]
+   ],
+   "exp": "Problem-solution fit needs a real problem AND a solution that effectively solves it."
+  },
+  {
+   "q": "Which evidence best shows problem-solution fit?",
+   "right": "Customers keep using it because it solves their problem",
+   "wrong": [
+    [
+     "Managers believe customers might dislike the problem the product is meant to solve",
+     "A belief isn't evidence."
+    ],
+    [
+     "The company advertised the product",
+     "Advertising isn't evidence."
+    ],
+    [
+     "The company raised the price",
+     "Price isn't evidence of fit."
+    ]
+   ],
+   "exp": "Repeated use because it works is strong evidence of fit."
+  }
+ ],
+ "Value creation": [
+  {
+   "q": "A hotel turns unused lobby space into work pods, saving travelers' time. What is the time saved?",
+   "right": "Value creation",
+   "wrong": [
+    [
+     "Value capture, since the hotel benefits when guests use the new work pods",
+     "Capture is the money the hotel earns."
+    ],
+    [
+     "Profit",
+     "No revenue is mentioned."
+    ],
+    [
+     "A barrier to entry",
+     "Unrelated."
+    ]
+   ],
+   "exp": "Benefits to customers are value creation."
+  },
+  {
+   "q": "A free app saves students hours each week but earns no money. Which is true?",
+   "right": "It creates value but captures little",
+   "wrong": [
+    [
+     "It cannot create any value because it doesn't charge its users anything",
+     "Customers still benefit."
+    ],
+    [
+     "Its users' time savings are its profit",
+     "Customer benefits aren't company profit."
+    ],
+    [
+     "It has captured value",
+     "No revenue means little capture."
+    ]
+   ],
+   "exp": "Value creation can happen without value capture."
+  }
+ ],
+ "Value capture": [
+  {
+   "q": "An e-bike costs $800 to make and sells for $1,800. How much value does the company capture per bike?",
+   "right": "$1,000",
+   "wrong": [
+    [
+     "$1,800, which is the full price that customers pay for each of the bikes",
+     "Subtract the cost."
+    ],
+    [
+     "$800",
+     "That's the cost."
+    ],
+    [
+     "$2,600",
+     "Subtract, don't add."
+    ]
+   ],
+   "exp": "Price − cost = $1,800 − $800 = $1,000."
+  },
+  {
+   "q": "A note app is popular for free; it then charges for a pro tier. What does charging represent?",
+   "right": "Value capture",
+   "wrong": [
+    [
+     "Value creation, because users who pay for the pro tier get more storage space",
+     "The charge is the business taking value."
+    ],
+    [
+     "Problem-solution fit",
+     "That's about solving the problem."
+    ],
+    [
+     "A need",
+     "Not a business strategy."
+    ]
+   ],
+   "exp": "Charging for value delivered is value capture."
+  }
+ ],
+ "Value proposition": [
+  {
+   "q": "\"Cut picking errors and find inventory faster with real-time shelf tracking.\" What is this?",
+   "right": "A value proposition",
+   "wrong": [
+    [
+     "A mission statement, since it explains what the company does for its customers",
+     "A mission statement describes the company, not why to choose a product."
+    ],
+    [
+     "Value capture",
+     "No price is involved."
+    ],
+    [
+     "Profit",
+     "No numbers."
+    ]
+   ],
+   "exp": "It says how the product solves a problem and why to choose it."
+  },
+  {
+   "q": "How does a value proposition differ from problem-solution fit?",
+   "right": "One communicates the value; the other is whether it works",
+   "wrong": [
+    [
+     "A value proposition measures profit, while problem-solution fit measures revenue",
+     "Neither is a financial measure."
+    ],
+    [
+     "They are the same",
+     "They differ."
+    ],
+    [
+     "A value proposition identifies the consumer",
+     "Not its job."
+    ]
+   ],
+   "exp": "A value proposition explains why to choose a product; problem-solution fit is whether it actually solves the problem."
+  }
+ ],
+ "Product-market fit": [
+  {
+   "q": "A survey finds 48% of users would be \"very disappointed\" if an app disappeared. By your study guide's test, what does this suggest?",
+   "right": "Product-market fit",
+   "wrong": [
+    [
+     "Product failure, because more than half of the users would not be disappointed at all",
+     "The guide's benchmark is 40%."
+    ],
+    [
+     "A need, not a want",
+     "Not the test here."
+    ],
+    [
+     "A barrier to entry",
+     "Unrelated."
+    ]
+   ],
+   "exp": "Your study guide: at least 40% \"very disappointed\" signals product-market fit."
+  },
+  {
+   "q": "Which is the best evidence that a product has product-market fit, not just problem-solution fit?",
+   "right": "Enough customers buy it to make the business viable",
+   "wrong": [
+    [
+     "The product solves the problem it was designed for in early lab tests by engineers",
+     "That's problem-solution fit at most."
+    ],
+    [
+     "The founder likes the product",
+     "Opinion isn't evidence."
+    ],
+    [
+     "The product has many features",
+     "Features aren't demand."
+    ]
+   ],
+   "exp": "Product-market fit means enough demand for the business to be viable."
+  }
+ ],
+ "Build-measure-learn": [
+  {
+   "q": "A shoe startup launches a small online store, studies what customers order and return, then changes its selection. Which cycle is this?",
+   "right": "Build-measure-learn",
+   "wrong": [
+    [
+     "The product life cycle, which follows sales through introduction, growth and decline",
+     "That's about sales stages, not testing."
+    ],
+    [
+     "Vertical integration",
+     "Unrelated."
+    ],
+    [
+     "Collusion",
+     "Unrelated."
+    ]
+   ],
+   "exp": "Launch, gather feedback, refine: build-measure-learn (like Zappos)."
+  },
+  {
+   "q": "Why do businesses use build-measure-learn instead of perfecting a product first?",
+   "right": "Feedback shows what to fix before investing more",
+   "wrong": [
+    [
+     "It guarantees that the product will be profitable from the very first day",
+     "Nothing guarantees profit."
+    ],
+    [
+     "It avoids talking to customers",
+     "It depends on customer feedback."
+    ],
+    [
+     "It replaces the need for a product",
+     "There's still a product."
+    ]
+   ],
+   "exp": "Launching, measuring and learning lets a business improve with real feedback."
+  }
+ ],
+ "Minimum viable product (MVP)": [
+  {
+   "q": "A software company releases a stripped-down app with only its core feature to test demand. What is it?",
+   "right": "An MVP",
+   "wrong": [
+    [
+     "A minimum marketable product, since it is ready to sell to a large group of customers",
+     "An MMP has grown beyond the test version."
+    ],
+    [
+     "A trademark",
+     "That protects a brand."
+    ],
+    [
+     "A generic product",
+     "Unrelated."
+    ]
+   ],
+   "exp": "An MVP is the simplest working version used to test demand."
+  },
+  {
+   "q": "A startup tests its MVP and customers keep asking for one missing feature. What should it most likely do?",
+   "right": "Use the feedback to improve the product",
+   "wrong": [
+    [
+     "Stop testing, because an MVP is meant to be the final version of the product",
+     "An MVP is for learning."
+    ],
+    [
+     "Ignore the feedback",
+     "Feedback is the point."
+    ],
+    [
+     "Sell the company",
+     "Not supported."
+    ]
+   ],
+   "exp": "MVPs exist to gather feedback and improve."
+  }
+ ],
+ "Minimum marketable product (MMP)": [
+  {
+   "q": "An app has moved past its first test version and is ready for a larger customer group. What is it now?",
+   "right": "An MMP",
+   "wrong": [
+    [
+     "An MVP, because every product stays an MVP until the company earns its first profit",
+     "It has evolved beyond the MVP."
+    ],
+    [
+     "A prototype",
+     "It's beyond testing."
+    ],
+    [
+     "A commodity",
+     "Unrelated."
+    ]
+   ],
+   "exp": "MMP: evolved beyond the MVP and ready for a larger segment."
+  },
+  {
+   "q": "Put these in order: MMP, MVP, idea.",
+   "right": "Idea → MVP → MMP",
+   "wrong": [
+    [
+     "MMP → MVP → idea, starting from the most complete version and working backward",
+     "Reversed."
+    ],
+    [
+     "MVP → idea → MMP",
+     "The idea comes first."
+    ],
+    [
+     "Idea → MMP → MVP",
+     "The MVP comes before the MMP."
+    ]
+   ],
+   "exp": "A product starts as an idea, is tested as an MVP, then grows into an MMP."
+  }
+ ],
+ "Business Canvas": [
+  {
+   "q": "Why does your teacher say the six Business Canvas lenses matter beyond the class project?",
+   "right": "They are how you analyze case studies on the exam",
+   "wrong": [
+    [
+     "They are the six PESTEL factors that every business must track in its environment",
+     "PESTEL is different."
+    ],
+    [
+     "They are the six departments of every corporation",
+     "Departments are different."
+    ],
+    [
+     "They are only for nonprofits",
+     "They apply to any business."
+    ]
+   ],
+   "exp": "The six lenses are the same strategic lenses used for case studies."
+  },
+  {
+   "q": "Which list names the six lenses?",
+   "right": "Customer, Product, Market, Finance, Operations, Organization",
+   "wrong": [
+    [
+     "Political, Economic, Social, Technological, Environmental, Legal",
+     "That's PESTEL."
+    ],
+    [
+     "Product, Price, Place, Promotion, People, Profit",
+     "Mixes the 4 Ps."
+    ],
+    [
+     "Sales, R&D, Operations, Accounting, Finance, HR",
+     "Those are departments."
+    ]
+   ],
+   "exp": "Customer, Product, Market, Finance, Operations, Organization."
+  }
+ ],
+ "Customer lens": [
+  {
+   "q": "A pet-care company decides whether to serve frequent travelers or owners of elderly pets. Which lens?",
+   "right": "Customer",
+   "wrong": [
+    [
+     "Market, because it is studying the different groups of people who own pets",
+     "Market is about competitors and alternatives."
+    ],
+    [
+     "Product",
+     "Not deciding features yet."
+    ],
+    [
+     "Finance",
+     "No money decisions."
+    ]
+   ],
+   "exp": "Choosing who to serve is the Customer lens."
+  },
+  {
+   "q": "A company studies whether students or working adults are more frustrated by a scheduling problem. Which lens?",
+   "right": "Customer",
+   "wrong": [
+    [
+     "Product, because the company will eventually build a scheduling product for them",
+     "This step is about who has the problem."
+    ],
+    [
+     "Operations",
+     "Not about production."
+    ],
+    [
+     "Organization",
+     "Not about staff."
+    ]
+   ],
+   "exp": "Who has the problem is the Customer lens."
+  }
+ ],
+ "Product lens": [
+  {
+   "q": "After choosing its customers, a company decides between video check-ins and GPS walk reports. Which lens?",
+   "right": "Product",
+   "wrong": [
+    [
+     "Customer, because the features are chosen to please the customers it selected",
+     "Choosing features is the Product lens."
+    ],
+    [
+     "Market",
+     "Not about rivals."
+    ],
+    [
+     "Finance",
+     "Not about money."
+    ]
+   ],
+   "exp": "Deciding features and how they create value is the Product lens."
+  },
+  {
+   "q": "A restaurant considers adding mobile ordering to improve its service. Which lens?",
+   "right": "Product",
+   "wrong": [
+    [
+     "Operations, because mobile ordering changes how the kitchen receives each order",
+     "The focus is improving what customers get."
+    ],
+    [
+     "Finance",
+     "Not about costs here."
+    ],
+    [
+     "Market",
+     "Not about rivals."
+    ]
+   ],
+   "exp": "Improving the offering is the Product lens."
+  }
+ ],
+ "Market lens": [
+  {
+   "q": "A company compares kennels, pet sitters and other apps that customers might use instead. Which lens?",
+   "right": "Market",
+   "wrong": [
+    [
+     "Customer, because the company is looking at what its customers do today",
+     "Comparing alternatives is the Market lens."
+    ],
+    [
+     "Operations",
+     "Not about production."
+    ],
+    [
+     "Organization",
+     "Not about staff."
+    ]
+   ],
+   "exp": "The competitive environment and alternatives are the Market lens."
+  },
+  {
+   "q": "Managers ask how crowded the field of educational apps is. Which lens?",
+   "right": "Market",
+   "wrong": [
+    [
+     "Product, because the company needs to decide what features its own app should have",
+     "That's a different question."
+    ],
+    [
+     "Finance",
+     "Not about money."
+    ],
+    [
+     "Customer",
+     "Not about who the customer is."
+    ]
+   ],
+   "exp": "Competition is the Market lens."
+  }
+ ],
+ "Finance lens": [
+  {
+   "q": "A retailer estimates sales, rent and payroll for a second location. Which lens?",
+   "right": "Finance",
+   "wrong": [
+    [
+     "Operations, because opening a store changes how products get to the customers",
+     "The question is whether it can be profitable."
+    ],
+    [
+     "Market",
+     "Not about rivals."
+    ],
+    [
+     "Customer",
+     "Not about who buys."
+    ]
+   ],
+   "exp": "Revenue and costs are the Finance lens."
+  },
+  {
+   "q": "Management sets profit-margin goals and adjusts prices to meet them. Which lens?",
+   "right": "Finance",
+   "wrong": [
+    [
+     "Product, since prices are part of what the customer sees when they buy",
+     "Profit goals are Finance."
+    ],
+    [
+     "Organization",
+     "Not about staff."
+    ],
+    [
+     "Customer",
+     "Not about who buys."
+    ]
+   ],
+   "exp": "Managing revenue, costs and profit is Finance."
+  }
+ ],
+ "Operations lens": [
+  {
+   "q": "A furniture maker maps each step from design approval to delivery to remove bottlenecks. Which lens?",
+   "right": "Operations",
+   "wrong": [
+    [
+     "Organization, because the company is deciding which team handles each part of the work",
+     "This is about the production process."
+    ],
+    [
+     "Market",
+     "Not about rivals."
+    ],
+    [
+     "Finance",
+     "Not about money."
+    ]
+   ],
+   "exp": "How a product is produced and delivered is Operations."
+  },
+  {
+   "q": "A small company plans how to handle extra holiday orders. Which lens?",
+   "right": "Operations",
+   "wrong": [
+    [
+     "Finance, because extra holiday orders will bring in more revenue for the company",
+     "Handling orders is a process question."
+    ],
+    [
+     "Customer",
+     "Not about who buys."
+    ],
+    [
+     "Product",
+     "Not about features."
+    ]
+   ],
+   "exp": "Producing and delivering is Operations."
+  }
+ ],
+ "Organization lens": [
+  {
+   "q": "A consulting firm grows to 150 people and decides who reports to whom. Which lens?",
+   "right": "Organization",
+   "wrong": [
+    [
+     "Operations, because the firm needs to decide how the work gets done each day",
+     "Reporting structure is Organization."
+    ],
+    [
+     "Market",
+     "Not about rivals."
+    ],
+    [
+     "Finance",
+     "Not about money."
+    ]
+   ],
+   "exp": "People, structure and roles are the Organization lens."
+  },
+  {
+   "q": "A business considers hiring a regional manager to oversee several stores. Which lens?",
+   "right": "Organization",
+   "wrong": [
+    [
+     "Customer, because a regional manager would help keep customers happy in each store",
+     "Hiring and structure are Organization."
+    ],
+    [
+     "Product",
+     "Not about features."
+    ],
+    [
+     "Finance",
+     "Not about money."
+    ]
+   ],
+   "exp": "Roles and structure are Organization."
+  }
+ ],
+ "Market": [
+  {
+   "q": "Which of these is NOT a market?",
+   "right": "A household where parents assign chores",
+   "wrong": [
+    [
+     "An app store where developers sell games to people with smartphones around the world",
+     "A virtual marketplace is a market."
+    ],
+    [
+     "A farmers market",
+     "Buyers and sellers meet there."
+    ],
+    [
+     "eBay",
+     "An online marketplace."
+    ]
+   ],
+   "exp": "A market is any physical or virtual space where buyers and sellers exchange."
+  },
+  {
+   "q": "An online platform lets students buy and sell used textbooks. What makes it a market?",
+   "right": "Buyers and sellers interact to exchange",
+   "wrong": [
+    [
+     "It is owned by a corporation that sells shares of stock to investors",
+     "Ownership doesn't make a market."
+    ],
+    [
+     "It has a physical location",
+     "Markets can be virtual."
+    ],
+    [
+     "Prices are set by the government",
+     "Not required, and not true here."
+    ]
+   ],
+   "exp": "Interaction of buyers and sellers is what makes a market."
+  }
+ ],
+ "Voluntary exchange": [
+  {
+   "q": "A shopper pays $40 for a backpack she values more than $40; the seller would rather have the $40. What is this?",
+   "right": "Voluntary exchange",
+   "wrong": [
+    [
+     "Collusion, since both the buyer and the seller agreed on the price ahead of time",
+     "Collusion is between competing sellers."
+    ],
+    [
+     "A shortage",
+     "Nothing is scarce."
+    ],
+    [
+     "Price gouging",
+     "No emergency."
+    ]
+   ],
+   "exp": "Both sides trade willingly because each expects to be better off."
+  },
+  {
+   "q": "Which situation is NOT voluntary exchange?",
+   "right": "A law requires every household to buy a service",
+   "wrong": [
+    [
+     "A customer buys coffee because she'd rather have the coffee than keep her $5",
+     "Both sides choose to trade."
+    ],
+    [
+     "A store sells shoes to a willing buyer",
+     "Both choose."
+    ],
+    [
+     "A student sells an old bike to a friend",
+     "Both choose."
+    ]
+   ],
+   "exp": "Being forced to buy isn't voluntary."
+  }
+ ],
+ "Equilibrium price": [
+  {
+   "q": "At $90, buyers want 5,000 sneakers and sellers offer 5,000. What is $90?",
+   "right": "The equilibrium price",
+   "wrong": [
+    [
+     "A surplus price, because sellers are producing more sneakers than buyers want",
+     "Quantities are equal."
+    ],
+    [
+     "A shortage price",
+     "Quantities are equal."
+    ],
+    [
+     "A limit price",
+     "That's a barrier strategy."
+    ]
+   ],
+   "exp": "Where quantity demanded equals quantity supplied is equilibrium."
+  },
+  {
+   "q": "Who sets the price in a competitive market?",
+   "right": "Buyers and sellers together",
+   "wrong": [
+    [
+     "The seller alone, based on how much profit it wants to earn on each sale",
+     "Sellers can't ignore buyers."
+    ],
+    [
+     "The government",
+     "Not in a competitive market."
+    ],
+    [
+     "The largest buyer",
+     "No single buyer sets it."
+    ]
+   ],
+   "exp": "In competitive markets, the interaction of buyers and sellers sets the price."
+  }
+ ],
+ "Shortage": [
+  {
+   "q": "At the current price, fans want 1,800 concert tickets but only 1,200 are offered. What is likely?",
+   "right": "A shortage pushes the price up",
+   "wrong": [
+    [
+     "A surplus pushes the price down as sellers compete for the buyers that remain",
+     "Buyers want more than is offered."
+    ],
+    [
+     "The market is at equilibrium",
+     "The quantities differ."
+    ],
+    [
+     "Sellers leave the market",
+     "Not likely."
+    ]
+   ],
+   "exp": "Quantity demanded > supplied is a shortage; buyers compete and the price rises."
+  },
+  {
+   "q": "Fresh strawberries sell out faster than shipments arrive. What do stores face?",
+   "right": "A shortage",
+   "wrong": [
+    [
+     "A surplus, because the farm keeps harvesting more strawberries than usual",
+     "Shelves are empty."
+    ],
+    [
+     "Equilibrium",
+     "Demand exceeds supply."
+    ],
+    [
+     "Collusion",
+     "Unrelated."
+    ]
+   ],
+   "exp": "Buyers want more than is available."
+  }
+ ],
+ "Surplus": [
+  {
+   "q": "At $90, buyers want 5,000 pairs of sneakers but sellers offer 7,500. What happens?",
+   "right": "A surplus; the price falls",
+   "wrong": [
+    [
+     "A shortage; the price rises because buyers compete for the limited sneakers",
+     "Sellers offer more than buyers want."
+    ],
+    [
+     "Nothing changes",
+     "The market isn't at equilibrium."
+    ],
+    [
+     "The government sets a new price",
+     "Not in a competitive market."
+    ]
+   ],
+   "exp": "Quantity supplied > demanded is a surplus; sellers compete and the price falls."
+  },
+  {
+   "q": "As the price falls during a surplus, what happens?",
+   "right": "Buyers want more and sellers offer less",
+   "wrong": [
+    [
+     "Buyers want less and sellers offer more, making the surplus even bigger",
+     "Reversed."
+    ],
+    [
+     "Both want more",
+     "Sellers offer less at a lower price."
+    ],
+    [
+     "Nothing changes",
+     "Quantities adjust."
+    ]
+   ],
+   "exp": "A falling price raises quantity demanded and lowers quantity supplied until the surplus disappears."
+  }
+ ],
+ "Competitive advantage": [
+  {
+   "q": "A local coffee shop adds mobile ordering, faster service and rewards while rivals sell similar coffee at similar prices. What is it doing?",
+   "right": "Building a competitive advantage through experience",
+   "wrong": [
+    [
+     "Creating a legal barrier to entry that stops new coffee shops from opening nearby",
+     "No legal barrier is described."
+    ],
+    [
+     "Becoming a price taker",
+     "It isn't competing on price."
+    ],
+    [
+     "Eliminating voluntary exchange",
+     "Customers still choose."
+    ]
+   ],
+   "exp": "Differentiating the customer experience is a source of competitive advantage."
+  },
+  {
+   "q": "72% of a smartwatch maker's buyers say they chose it for exclusive features, and only 14% for price. What is its main advantage?",
+   "right": "Unique features customers will pay more for",
+   "wrong": [
+    [
+     "Lower production costs than every rival, which lets it sell at the lowest price",
+     "Price isn't why most people buy."
+    ],
+    [
+     "Its location",
+     "Not mentioned."
+    ],
+    [
+     "Government protection",
+     "Not mentioned."
+    ]
+   ],
+   "exp": "Its advantage is differentiation through features."
+  }
+ ],
+ "Commodities": [
+  {
+   "q": "A tomato farmer sells tomatoes nearly identical to hundreds of other farms. What is the best path to an advantage?",
+   "right": "Producing efficiently at lower cost",
+   "wrong": [
+    [
+     "Charging much more, since customers can't find tomatoes anywhere else in town",
+     "There are many substitutes."
+    ],
+    [
+     "Controlling the market price",
+     "Commodity sellers can't."
+    ],
+    [
+     "Running national TV ads about its tomatoes' brand",
+     "Branding works poorly for identical products."
+    ]
+   ],
+   "exp": "With commodities, efficiency and low cost are the main advantage."
+  },
+  {
+   "q": "Which product is the best example of a commodity?",
+   "right": "Wheat",
+   "wrong": [
+    [
+     "A smartphone with a patented camera that no other brand is allowed to use",
+     "That's differentiated."
+    ],
+    [
+     "A designer handbag",
+     "Differentiated."
+    ],
+    [
+     "A restaurant meal",
+     "Differentiated."
+    ]
+   ],
+   "exp": "Commodities are nearly identical regardless of seller."
+  }
+ ],
+ "Differentiated products": [
+  {
+   "q": "Gyms in a city compete on equipment, classes, atmosphere and trainers. What are they selling?",
+   "right": "Differentiated products",
+   "wrong": [
+    [
+     "Commodities, because every gym basically offers a place to exercise and lift weights",
+     "They compete on differences."
+    ],
+    [
+     "Monopoly services",
+     "There are many gyms."
+    ],
+    [
+     "Public goods",
+     "Unrelated."
+    ]
+   ],
+   "exp": "Products with features that set them apart are differentiated."
+  },
+  {
+   "q": "Why can a lighting company with a patented \"Smart-Dim\" feature charge $500 for a unit that costs $150 to make?",
+   "right": "Its product is highly differentiated",
+   "wrong": [
+    [
+     "Its customers are consumers who don't care how much they pay for their lighting",
+     "The developers are customers who do care."
+    ],
+    [
+     "Prices in competitive markets equal production costs",
+     "Not true."
+    ],
+    [
+     "Voluntary exchange benefits only the seller",
+     "Both sides benefit."
+    ]
+   ],
+   "exp": "A unique product reduces the pull of rival products."
+  }
+ ],
+ "Low-cost strategy": [
+  {
+   "q": "Walmart and Costco often compete by doing what?",
+   "right": "Lowering costs and offering lower prices",
+   "wrong": [
+    [
+     "Offering the most exclusive luxury products in the market at premium prices",
+     "That's the opposite."
+    ],
+    [
+     "Avoiding competition",
+     "They compete."
+    ],
+    [
+     "Selling only online",
+     "Not their strategy."
+    ]
+   ],
+   "exp": "Your notes list Walmart and Costco as low-cost competitors."
+  },
+  {
+   "q": "Which business is most likely to rely on a low-cost strategy?",
+   "right": "A corn farm",
+   "wrong": [
+    [
+     "A luxury watchmaker that hand-assembles each watch for collectors",
+     "That's high-quality differentiation."
+    ],
+    [
+     "A custom jeweler",
+     "Differentiated."
+    ],
+    [
+     "A patented drug maker",
+     "Protected by a patent."
+    ]
+   ],
+   "exp": "Identical products push firms toward low-cost competition."
+  }
+ ],
+ "Market share": [
+  {
+   "q": "ActiveTech sells 8.0 million watches in a market of 20 million. What is its market share?",
+   "right": "40%",
+   "wrong": [
+    [
+     "8%, since ActiveTech sold eight million of the watches during the year",
+     "Divide by the total."
+    ],
+    [
+     "20%",
+     "That's not its share."
+    ],
+    [
+     "60%",
+     "That's everyone else."
+    ]
+   ],
+   "exp": "8.0 ÷ 20 = 40%."
+  },
+  {
+   "q": "Total smartwatch sales rise 8% next year but Pulse sells the same 3.6 million watches. What happens to Pulse's market share?",
+   "right": "It falls",
+   "wrong": [
+    [
+     "It rises, because the whole market for smartwatches is growing larger",
+     "Pulse's slice stays the same size while the pie grows."
+    ],
+    [
+     "It stays the same",
+     "The total grew."
+    ],
+    [
+     "It doubles",
+     "Not supported."
+    ]
+   ],
+   "exp": "Same sales in a bigger market means a smaller share."
+  }
+ ],
+ "Barriers to entry": [
+  {
+   "q": "Two of three new smartwatch startups quit after failing to raise enough money for product development. What is discouraging entry?",
+   "right": "The high cost of developing comparable technology",
+   "wrong": [
+    [
+     "Strong demand for smartwatches, which is expected to grow next year",
+     "Growing demand attracts entry."
+    ],
+    [
+     "Customers having many brands to choose from",
+     "That's not what stopped them."
+    ],
+    [
+     "Low prices",
+     "Not the reason given."
+    ]
+   ],
+   "exp": "Large development costs are a barrier to entry."
+  },
+  {
+   "q": "Why do barriers to entry help existing firms?",
+   "right": "They keep new competitors out",
+   "wrong": [
+    [
+     "They force existing firms to lower prices to match every new competitor that arrives",
+     "They keep competitors out."
+    ],
+    [
+     "They guarantee customers will buy",
+     "Nothing guarantees that."
+    ],
+    [
+     "They lower production costs",
+     "Not their purpose."
+    ]
+   ],
+   "exp": "Barriers protect existing firms from new rivals."
+  }
+ ],
+ "High startup costs": [
+  {
+   "q": "A new airline must spend billions on planes, gates and safety approvals before its first flight. What is this?",
+   "right": "A barrier to entry",
+   "wrong": [
+    [
+     "Product differentiation, because every airline offers a different flying experience",
+     "The point is the cost of entering."
+    ],
+    [
+     "Voluntary exchange",
+     "Unrelated."
+    ],
+    [
+     "Equilibrium",
+     "Unrelated."
+    ]
+   ],
+   "exp": "Huge upfront costs are a barrier to entry."
+  },
+  {
+   "q": "Which industry most likely has the highest startup-cost barrier?",
+   "right": "Building a new airline",
+   "wrong": [
+    [
+     "Opening a dog-walking service in a neighborhood with lots of dog owners",
+     "Low startup cost."
+    ],
+    [
+     "Tutoring",
+     "Low startup cost."
+    ],
+    [
+     "Selling crafts online",
+     "Low startup cost."
+    ]
+   ],
+   "exp": "Airlines require billions before carrying a passenger."
+  }
+ ],
+ "Control of resources": [
+  {
+   "q": "A company signs exclusive contracts with every major supplier of a special glass. A startup can't find glass. What blocks the startup?",
+   "right": "A barrier from control of resources",
+   "wrong": [
+    [
+     "Lack of problem-solution fit, since the startup's lights don't solve any problem",
+     "The problem is supply access."
+    ],
+    [
+     "A government regulation",
+     "No law is involved."
+    ],
+    [
+     "Its decision to differentiate",
+     "That's not what blocks it."
+    ]
+   ],
+   "exp": "Locking up key suppliers is a barrier to entry."
+  },
+  {
+   "q": "FreshLock signs an exclusive deal with the only domestic supplier of a special seal material. What does this create?",
+   "right": "A barrier to entry",
+   "wrong": [
+    [
+     "A shortage of food-storage containers that raises prices across the whole industry",
+     "The point is blocking rivals."
+    ],
+    [
+     "A patent",
+     "A patent is separate."
+    ],
+    [
+     "Voluntary exchange",
+     "Unrelated."
+    ]
+   ],
+   "exp": "Controlling a key input keeps rivals out."
+  }
+ ],
+ "Patent": [
+  {
+   "q": "A drug company receives a patent on a new medicine. What does it most directly do?",
+   "right": "Stops rivals from making it for a time",
+   "wrong": [
+    [
+     "Guarantees that patients and doctors will choose the drug over all alternatives",
+     "Demand isn't guaranteed."
+    ],
+    [
+     "Eliminates production costs",
+     "Costs remain."
+    ],
+    [
+     "Makes the drug a commodity",
+     "The opposite."
+    ]
+   ],
+   "exp": "A patent gives temporary exclusive rights to an invention."
+  },
+  {
+   "q": "If a water-filter startup gets a patent before launch, what is most likely in the first few years?",
+   "right": "Temporary protection from copies",
+   "wrong": [
+    [
+     "It becomes the only company allowed to sell any household water product at all",
+     "A patent covers its own invention only."
+    ],
+    [
+     "It can charge any price without affecting demand",
+     "Demand still responds."
+    ],
+    [
+     "It never needs to improve the product",
+     "Innovation still matters."
+    ]
+   ],
+   "exp": "Patents protect the specific invention for a limited time."
+  }
+ ],
+ "Trademark": [
+  {
+   "q": "A company registers its sunburst logo with the government. What protection is this?",
+   "right": "A trademark",
+   "wrong": [
+    [
+     "A patent, since the logo was invented by the company's own design team",
+     "Patents protect inventions."
+    ],
+    [
+     "A copyright",
+     "Copyright protects creative works like books."
+    ],
+    [
+     "An exclusive agreement",
+     "That's a supplier contract."
+    ]
+   ],
+   "exp": "Trademarks protect brand names and logos."
+  },
+  {
+   "q": "Why might a rival be stopped from using a nearly identical swoosh logo?",
+   "right": "The original logo is trademarked",
+   "wrong": [
+    [
+     "The original company owns a patent on athletic shoes as an invention",
+     "Logos are trademarks."
+    ],
+    [
+     "Copying logos is collusion",
+     "Collusion is price agreements."
+    ],
+    [
+     "It's a natural monopoly",
+     "Unrelated."
+    ]
+   ],
+   "exp": "Trademark law protects brand marks."
+  }
+ ],
+ "Copyright": [
+  {
+   "q": "A game studio's code and music are protected from copying. Which protection covers creative works like these?",
+   "right": "Copyright",
+   "wrong": [
+    [
+     "Patent, because video games are new inventions that took years to develop",
+     "Patents cover inventions; creative works are copyrighted."
+    ],
+    [
+     "Trademark",
+     "That's for brand marks."
+    ],
+    [
+     "A license",
+     "That's government permission to sell."
+    ]
+   ],
+   "exp": "Copyright protects creative works."
+  },
+  {
+   "q": "Which of these is protected by copyright, not a patent?",
+   "right": "A novel",
+   "wrong": [
+    [
+     "A new kind of engine invented by a car company's engineering team",
+     "That's a patent."
+    ],
+    [
+     "A medicine formula",
+     "Patent."
+    ],
+    [
+     "A brand logo",
+     "Trademark."
+    ]
+   ],
+   "exp": "Creative works are copyrighted."
+  }
+ ],
+ "Limit pricing": [
+  {
+   "q": "A dominant firm keeps prices low enough that no newcomer could earn a profit. What is this?",
+   "right": "Limit pricing",
+   "wrong": [
+    [
+     "Penetration pricing, since the firm is keeping its prices low to win market share",
+     "Penetration is a newcomer's low entry price."
+    ],
+    [
+     "Collusion",
+     "No agreement between rivals."
+    ],
+    [
+     "Price gouging",
+     "That's high prices in emergencies."
+    ]
+   ],
+   "exp": "Low prices that block profitable entry are limit pricing."
+  },
+  {
+   "q": "Why is limit pricing listed as a barrier to entry?",
+   "right": "Newcomers can't enter profitably",
+   "wrong": [
+    [
+     "It forces the government to give the company a patent on its low prices",
+     "Prices aren't patented."
+    ],
+    [
+     "It raises prices",
+     "It keeps them low."
+    ],
+    [
+     "It creates shortages",
+     "Not its effect."
+    ]
+   ],
+   "exp": "Very low prices make entry unprofitable."
+  }
+ ],
+ "Vertical integration": [
+  {
+   "q": "Apple designs its chips, software and phones and runs its own stores. What is this?",
+   "right": "Vertical integration",
+   "wrong": [
+    [
+     "Outsourcing, because Apple hires other firms to handle each part of the process",
+     "Apple controls the stages itself."
+    ],
+    [
+     "Collusion",
+     "Unrelated."
+    ],
+    [
+     "A monopoly",
+     "Apple has rivals."
+    ]
+   ],
+   "exp": "Controlling several stages of production and distribution is vertical integration."
+  },
+  {
+   "q": "A coffee chain buys its own farms and roasting plants. What advantage might this give?",
+   "right": "More control over supply and quality",
+   "wrong": [
+    [
+     "It removes all competition from the coffee market for the next ten years",
+     "Too extreme."
+    ],
+    [
+     "It turns coffee into a commodity",
+     "Not the effect."
+    ],
+    [
+     "It ends voluntary exchange",
+     "Unrelated."
+    ]
+   ],
+   "exp": "Owning more stages gives control over supply, quality and costs."
+  }
+ ],
+ "Perfect competition": [
+  {
+   "q": "Hundreds of farms sell identical wheat, have no control over price and can enter easily. Which structure?",
+   "right": "Perfect competition",
+   "wrong": [
+    [
+     "Oligopoly, because wheat farms often sell to a few very large food companies",
+     "There are hundreds of sellers."
+    ],
+    [
+     "Monopoly",
+     "Many sellers."
+    ],
+    [
+     "Monopolistic competition",
+     "Products are identical."
+    ]
+   ],
+   "exp": "Many firms, identical products, no price control: perfect competition."
+  },
+  {
+   "q": "Why is cost efficiency most important in perfect competition?",
+   "right": "Firms can't raise prices, so they must cut costs",
+   "wrong": [
+    [
+     "Firms can charge whatever they like because their product is unique",
+     "Products are identical."
+    ],
+    [
+     "Advertising works best there",
+     "Identical products gain little."
+    ],
+    [
+     "The government sets profits",
+     "Not true."
+    ]
+   ],
+   "exp": "Price takers compete on cost."
+  }
+ ],
+ "Monopolistic competition": [
+  {
+   "q": "Many restaurants compete with different menus, atmospheres and service. Which structure?",
+   "right": "Monopolistic competition",
+   "wrong": [
+    [
+     "Perfect competition, since there are so many restaurants that no one controls price",
+     "Products are differentiated."
+    ],
+    [
+     "Oligopoly",
+     "Many firms, not a few."
+    ],
+    [
+     "Monopoly",
+     "Many firms."
+    ]
+   ],
+   "exp": "Many firms with differentiated products: monopolistic competition."
+  },
+  {
+   "q": "Which is a correct pairing?",
+   "right": "Monopolistic competition: many firms, differentiated products",
+   "wrong": [
+    [
+     "Oligopoly: many small firms selling identical products with no barriers",
+     "That's perfect competition."
+    ],
+    [
+     "Monopoly: many firms",
+     "One firm."
+    ],
+    [
+     "Perfect competition: one firm",
+     "Many firms."
+    ]
+   ],
+   "exp": "Many firms selling differentiated products."
+  }
+ ],
+ "Oligopoly": [
+  {
+   "q": "Four airlines carry nearly all passengers, and starting an airline costs billions. Which structure?",
+   "right": "Oligopoly",
+   "wrong": [
+    [
+     "Monopolistic competition, because each airline offers a slightly different experience",
+     "A few dominant firms with high barriers is oligopoly."
+    ],
+    [
+     "Perfect competition",
+     "Few firms."
+    ],
+    [
+     "Monopoly",
+     "More than one firm."
+    ]
+   ],
+   "exp": "A few large firms and high barriers: oligopoly."
+  },
+  {
+   "q": "Which feature best separates an oligopoly from monopolistic competition?",
+   "right": "A few large firms dominate behind high barriers",
+   "wrong": [
+    [
+     "Firms in the market sell products to consumers and try to earn a profit",
+     "True of both."
+    ],
+    [
+     "Firms advertise",
+     "Both advertise."
+    ],
+    [
+     "Products are sold online",
+     "Unrelated."
+    ]
+   ],
+   "exp": "Few dominant firms and significant barriers mark an oligopoly."
+  }
+ ],
+ "Monopoly": [
+  {
+   "q": "A city lets one company provide water because building rival pipe systems would be wasteful. Which structure?",
+   "right": "Monopoly",
+   "wrong": [
+    [
+     "Oligopoly, since a few water companies often serve the larger cities nearby",
+     "Only one firm is allowed here."
+    ],
+    [
+     "Perfect competition",
+     "One firm."
+    ],
+    [
+     "Monopolistic competition",
+     "One firm."
+    ]
+   ],
+   "exp": "One firm with no close substitutes: monopoly (a local utility)."
+  },
+  {
+   "q": "If new firms were allowed to enter a monopoly market, what would most likely happen?",
+   "right": "Prices and the monopolist's profits would fall",
+   "wrong": [
+    [
+     "Prices would rise because the new firms would add to the total costs of the market",
+     "Competition pushes prices down."
+    ],
+    [
+     "Nothing would change",
+     "Competition changes things."
+    ],
+    [
+     "The monopolist's profits would rise",
+     "They'd fall."
+    ]
+   ],
+   "exp": "More competition lowers prices and profits."
+  }
+ ],
+ "Price taker": [
+  {
+   "q": "A wheat farmer sets a price above the market price. What happens to her sales?",
+   "right": "They drop to zero",
+   "wrong": [
+    [
+     "They rise, because a higher price makes buyers think the wheat is better quality",
+     "The wheat is identical."
+    ],
+    [
+     "They stay the same",
+     "Buyers switch."
+    ],
+    [
+     "They double",
+     "No."
+    ]
+   ],
+   "exp": "Buyers get identical wheat elsewhere at the market price."
+  },
+  {
+   "q": "Which firm is most likely a price taker?",
+   "right": "One of hundreds of corn farms",
+   "wrong": [
+    [
+     "The only electric company in a city, which is allowed to serve every household",
+     "A monopoly sets its price."
+    ],
+    [
+     "A patented drug maker",
+     "It has pricing power."
+    ],
+    [
+     "A luxury brand",
+     "It has pricing power."
+    ]
+   ],
+   "exp": "Firms in perfect competition are price takers."
+  }
+ ],
+ "Collusion": [
+  {
+   "q": "Several airlines secretly agree to charge the same high fare. What is this?",
+   "right": "Collusion",
+   "wrong": [
+    [
+     "Competitive pricing, since all of the airlines ended up charging the same fare",
+     "They agreed instead of competing."
+    ],
+    [
+     "Price gouging",
+     "No emergency."
+    ],
+    [
+     "Penetration pricing",
+     "Not a low entry price."
+    ]
+   ],
+   "exp": "Agreeing on prices instead of competing is collusion."
+  },
+  {
+   "q": "Why is collusion hard to keep up in a market with many firms?",
+   "right": "Each firm can gain by cheating with lower prices",
+   "wrong": [
+    [
+     "The government requires all firms in a market to charge exactly the same price",
+     "Not true."
+    ],
+    [
+     "Customers prefer higher prices",
+     "No."
+    ],
+    [
+     "Barriers are too high",
+     "Competitive markets have low barriers."
+    ]
+   ],
+   "exp": "With many firms and low barriers, coordination is hard and cheating pays."
+  }
+ ],
+ "Business environment": [
+  {
+   "q": "Which of these is part of a business's environment rather than its own decision?",
+   "right": "A rise in interest rates",
+   "wrong": [
+    [
+     "The company's decision to hire an experienced regional manager for new stores",
+     "That's an internal choice."
+    ],
+    [
+     "A new product the company designs",
+     "Internal."
+    ],
+    [
+     "The company's mission statement",
+     "Internal."
+    ]
+   ],
+   "exp": "The business environment is external factors a business can't control."
+  },
+  {
+   "q": "Why do businesses watch their environment closely?",
+   "right": "To spot opportunities and risks early",
+   "wrong": [
+    [
+     "To control the factors so that competitors cannot use them to their advantage",
+     "Businesses can't control them."
+    ],
+    [
+     "To avoid making any decisions",
+     "They still decide."
+    ],
+    [
+     "To set the market price",
+     "They can't alone."
+    ]
+   ],
+   "exp": "Recognizing changes helps businesses foresee opportunities, anticipate risks and decide where to operate."
+  }
+ ],
+ "PESTEL": [
+  {
+   "q": "What is the main purpose of a PESTEL analysis?",
+   "right": "To judge how outside changes may affect decisions",
+   "wrong": [
+    [
+     "To identify the internal strengths that set the company apart from its competitors",
+     "That's core competencies."
+    ],
+    [
+     "To predict which strategy will be most profitable",
+     "Too strong; it informs, doesn't predict."
+    ],
+    [
+     "To decide whether to rewrite the mission statement",
+     "Not its purpose."
+    ]
+   ],
+   "exp": "PESTEL helps managers evaluate how external changes may affect future decisions."
+  },
+  {
+   "q": "A restaurant chain lists: a minimum-wage increase, a high-protein diet trend, a new delivery app and a stricter labeling law. What is it doing?",
+   "right": "A PESTEL analysis",
+   "wrong": [
+    [
+     "A market research survey that collects opinions from the restaurant's own customers",
+     "These are external factors, not survey results."
+    ],
+    [
+     "A Business Canvas",
+     "Not the six lenses."
+    ],
+    [
+     "A sales funnel",
+     "Unrelated."
+    ]
+   ],
+   "exp": "Sorting outside changes is PESTEL."
+  }
+ ],
+ "Viability": [
+  {
+   "q": "Which question is about a business's viability?",
+   "right": "Can it keep operating successfully over time?",
+   "wrong": [
+    [
+     "Which department should be in charge of hiring the new employees next year?",
+     "That's HR."
+    ],
+    [
+     "What color should the logo be?",
+     "Branding."
+    ],
+    [
+     "Who is the consumer?",
+     "Not viability."
+    ]
+   ],
+   "exp": "Viability is the ability to operate successfully and sustainably."
+  },
+  {
+   "q": "A region's PESTEL factors fit a farm-to-table restaurant: health-conscious residents, local farms, friendly rules. What does this most improve?",
+   "right": "The restaurant's viability there",
+   "wrong": [
+    [
+     "The restaurant's legal liability, since owners become personally responsible for debts",
+     "Unrelated."
+    ],
+    [
+     "Its market share elsewhere",
+     "Not supported."
+    ],
+    [
+     "Its patent protection",
+     "Unrelated."
+    ]
+   ],
+   "exp": "Businesses enter markets where PESTEL factors align with their model."
+  }
+ ],
+ "Internal vs. external": [
+  {
+   "q": "A restaurant chain develops a food-prep system that cuts waste by 15%. Which statement is true?",
+   "right": "It is not part of a PESTEL analysis",
+   "wrong": [
+    [
+     "It is a technological PESTEL factor, since it is new technology that changes costs",
+     "It's the company's own innovation, not an outside force."
+    ],
+    [
+     "It is an economic factor",
+     "Not external."
+    ],
+    [
+     "It is a legal factor",
+     "Not a law."
+    ]
+   ],
+   "exp": "PESTEL covers external forces; a firm's own invention is internal."
+  },
+  {
+   "q": "Tesla develops better battery cells. Why isn't this a technological PESTEL factor for Tesla?",
+   "right": "It's Tesla's own innovation, not an outside force",
+   "wrong": [
+    [
+     "Because batteries are an environmental factor, since they affect carbon emissions",
+     "That's not why."
+    ],
+    [
+     "Because PESTEL ignores technology",
+     "Technology is the T."
+    ],
+    [
+     "Because it's a legal factor",
+     "No law involved."
+    ]
+   ],
+   "exp": "PESTEL technology means outside tech changes, not a firm's own R&D."
+  }
+ ],
+ "Opportunity or threat": [
+  {
+   "q": "Automation robots become available to restaurants. For a small restaurant, this is best described as:",
+   "right": "Both an opportunity and a risk",
+   "wrong": [
+    [
+     "Only a threat, because robots always cost more than workers in every situation",
+     "It can lower labor costs too."
+    ],
+    [
+     "Only an opportunity",
+     "High upfront costs are a risk."
+    ],
+    [
+     "Not a PESTEL factor",
+     "It's external technology."
+    ]
+   ],
+   "exp": "Automation can cut labor costs but has high upfront costs that favor big firms."
+  },
+  {
+   "q": "Interest rates rise from 4% to 7% just as an e-bike company plans to borrow $120 million. This factor is mainly:",
+   "right": "An economic threat",
+   "wrong": [
+    [
+     "A social opportunity, since people will want more e-bikes as interest rates rise",
+     "Interest rates are economic and raise borrowing costs."
+    ],
+    [
+     "A legal threat",
+     "Not a law."
+    ],
+    [
+     "A technological opportunity",
+     "Not technology."
+    ]
+   ],
+   "exp": "Higher interest rates raise borrowing costs, an economic obstacle."
+  }
+ ],
+ "Political factors": [
+  {
+   "q": "A government offers a tax credit to anyone who installs solar panels. Which PESTEL factor?",
+   "right": "Political",
+   "wrong": [
+    [
+     "Economic, because the tax credit puts more money back into homeowners' pockets",
+     "It's a government policy choice."
+    ],
+    [
+     "Social",
+     "Not a cultural trend."
+    ],
+    [
+     "Technological",
+     "Solar is tech, but the credit is policy."
+    ]
+   ],
+   "exp": "Government policies and subsidies are political factors."
+  },
+  {
+   "q": "Several states approve tax credits for electric-bike purchases. What effect is most likely?",
+   "right": "Demand for e-bikes increases",
+   "wrong": [
+    [
+     "Borrowing costs rise for e-bike makers, making it harder to build new factories",
+     "That's interest rates."
+    ],
+    [
+     "Compliance costs rise",
+     "That's new rules."
+    ],
+    [
+     "Demand falls",
+     "Credits encourage buying."
+    ]
+   ],
+   "exp": "A political incentive raises demand."
+  }
+ ],
+ "Tariff": [
+  {
+   "q": "The U.S. adds a tax on imported steel. What is this, and who is most hurt?",
+   "right": "A tariff; firms that buy imported steel",
+   "wrong": [
+    [
+     "A subsidy; foreign steel makers who sell to American companies",
+     "A tax isn't a subsidy."
+    ],
+    [
+     "A tariff; American consumers who don't buy steel",
+     "Firms using imported steel pay more."
+    ],
+    [
+     "A recession; all businesses",
+     "Not a recession."
+    ]
+   ],
+   "exp": "A tariff is a tax on imports; buyers of imports pay more."
+  },
+  {
+   "q": "Which PESTEL category does a tariff belong to?",
+   "right": "Political",
+   "wrong": [
+    [
+     "Economic, since a tariff changes the price that businesses pay for imported goods",
+     "It's a government trade policy."
+    ],
+    [
+     "Legal",
+     "It's a policy decision."
+    ],
+    [
+     "Environmental",
+     "Unrelated."
+    ]
+   ],
+   "exp": "Trade policies like tariffs are political factors."
+  }
+ ],
+ "Economic factors": [
+  {
+   "q": "Why might a business find a market unattractive during high inflation?",
+   "right": "Customers can afford to buy less",
+   "wrong": [
+    [
+     "Inflation leads directly to stricter employment laws that protect workers",
+     "That would be legal."
+    ],
+    [
+     "Inflation slows automation",
+     "Not the point."
+    ],
+    [
+     "Inflation limits renewable energy",
+     "Unrelated."
+    ]
+   ],
+   "exp": "Economic factors like inflation reduce spending power."
+  },
+  {
+   "q": "An ice cream shop sees sales drop as household incomes fall. Which factor?",
+   "right": "Economic",
+   "wrong": [
+    [
+     "Social, because people are changing their eating habits toward healthier desserts",
+     "Falling income is economic."
+    ],
+    [
+     "Environmental",
+     "Not weather."
+    ],
+    [
+     "Legal",
+     "No law."
+    ]
+   ],
+   "exp": "Income and spending are economic factors."
+  }
+ ],
+ "Recession": [
+  {
+   "q": "During a recession, which business is most likely to see sales fall?",
+   "right": "A luxury vacation company",
+   "wrong": [
+    [
+     "A grocery store selling basic foods that families must buy every single week",
+     "Necessities hold up better."
+    ],
+    [
+     "A pharmacy",
+     "Necessities."
+    ],
+    [
+     "A discount store",
+     "Often gains customers."
+    ]
+   ],
+   "exp": "In a decline, people cut wants like luxury travel first."
+  },
+  {
+   "q": "Economic activity declines for several months. What is this called?",
+   "right": "A recession",
+   "wrong": [
+    [
+     "Inflation, which means that the prices of most goods are rising quickly",
+     "Inflation is rising prices."
+    ],
+    [
+     "A tariff",
+     "A tax on imports."
+    ],
+    [
+     "A surplus",
+     "A market condition."
+    ]
+   ],
+   "exp": "A recession is a decline in economic activity."
+  }
+ ],
+ "Social factors": [
+  {
+   "q": "Consumers increasingly prefer environmentally friendly transportation. Your practice test labels this which way for an e-bike maker?",
+   "right": "A trend that increases demand",
+   "wrong": [
+    [
+     "A legal requirement that forces all consumers to buy electric bicycles instead of cars",
+     "It's a preference, not a law."
+    ],
+    [
+     "An internal strength",
+     "It's external."
+    ],
+    [
+     "A cost increase",
+     "It raises demand."
+    ]
+   ],
+   "exp": "Changing consumer preferences increase demand."
+  },
+  {
+   "q": "Consumers are buying more high-protein, low-carb meals. Which PESTEL factor is this?",
+   "right": "Social",
+   "wrong": [
+    [
+     "Economic, because people are spending more money on food in restaurants",
+     "It's a lifestyle trend."
+    ],
+    [
+     "Technological",
+     "Not technology."
+    ],
+    [
+     "Legal",
+     "Not a law."
+    ]
+   ],
+   "exp": "Lifestyle and health trends are social factors."
+  }
+ ],
+ "Demographics": [
+  {
+   "q": "A region's population is getting older. For a company making mobility scooters, this is:",
+   "right": "A demographic opportunity",
+   "wrong": [
+    [
+     "A legal threat, because older customers are protected by consumer protection laws",
+     "Age trends are demographic."
+    ],
+    [
+     "An internal strength",
+     "External."
+    ],
+    [
+     "A technological factor",
+     "Not technology."
+    ]
+   ],
+   "exp": "Age is a demographic characteristic, a social factor."
+  },
+  {
+   "q": "Which is a demographic characteristic?",
+   "right": "Age",
+   "wrong": [
+    [
+     "Interest in outdoor yoga, which a company might learn from social media posts",
+     "That's psychographic."
+    ],
+    [
+     "Brand loyalty",
+     "Behavior, not demographic."
+    ],
+    [
+     "Values",
+     "Psychographic."
+    ]
+   ],
+   "exp": "Demographics are statistical traits: age, income, education, location."
+  }
+ ],
+ "Technological factors": [
+  {
+   "q": "A new food-delivery platform expands throughout a region. For a restaurant chain this is:",
+   "right": "A technological factor",
+   "wrong": [
+    [
+     "A social factor, because people are changing how they like to eat their meals",
+     "The platform itself is technology."
+    ],
+    [
+     "An internal decision",
+     "It's external."
+    ],
+    [
+     "A legal factor",
+     "Not a law."
+    ]
+   ],
+   "exp": "New digital platforms available to firms are technological factors."
+  },
+  {
+   "q": "Which pair is one social and one technological factor?",
+   "right": "Interest in high-protein meals; a new delivery platform",
+   "wrong": [
+    [
+     "A higher minimum wage and a stricter food-labeling law passed by the state",
+     "Those are political/economic and legal."
+    ],
+    [
+     "A new prep system and a new manager",
+     "Both internal."
+    ],
+    [
+     "A delivery platform and a prep system",
+     "The prep system is internal."
+    ]
+   ],
+   "exp": "Diet trends are social; a new outside platform is technological."
+  }
+ ],
+ "Automation": [
+  {
+   "q": "A burger robot can flip patties with little human labor. Which term describes this?",
+   "right": "Automation",
+   "wrong": [
+    [
+     "Outsourcing, because the restaurant hires another company to do the cooking",
+     "No outside firm does the work."
+    ],
+    [
+     "Vertical integration",
+     "Unrelated."
+    ],
+    [
+     "Artisan production",
+     "The opposite."
+    ]
+   ],
+   "exp": "Automation uses technology to do tasks with minimal labor."
+  },
+  {
+   "q": "Why can automation give large firms an advantage over small ones?",
+   "right": "Large firms can afford the high upfront cost",
+   "wrong": [
+    [
+     "Small firms are not allowed by law to buy automated equipment for their kitchens",
+     "No such law."
+    ],
+    [
+     "Automation raises labor costs",
+     "It lowers them."
+    ],
+    [
+     "Automation only works in big buildings",
+     "Not the reason."
+    ]
+   ],
+   "exp": "High upfront costs are easier for big firms."
+  }
+ ],
+ "Environmental factors": [
+  {
+   "q": "A heat wave boosts ice cream sales. Which factor is this?",
+   "right": "Environmental",
+   "wrong": [
+    [
+     "Economic, because the shop earns more revenue when the weather is hot",
+     "Weather is environmental."
+    ],
+    [
+     "Social",
+     "Not a cultural trend."
+    ],
+    [
+     "Political",
+     "Not government."
+    ]
+   ],
+   "exp": "Climate and weather are environmental factors."
+  },
+  {
+   "q": "Severe flooding closes highways between farm warehouses and distributors. Which factor is this?",
+   "right": "Environmental",
+   "wrong": [
+    [
+     "Political, because the government decides when to close and reopen the highways",
+     "The cause is a natural disaster."
+    ],
+    [
+     "Legal",
+     "No law."
+    ],
+    [
+     "Technological",
+     "Not technology."
+    ]
+   ],
+   "exp": "Natural disasters are environmental factors."
+  }
+ ],
+ "Legal factors": [
+  {
+   "q": "New federal rules require battery recycling programs next year. For an e-bike maker this is:",
+   "right": "A legal factor that raises costs",
+   "wrong": [
+    [
+     "A social factor that increases demand, because customers like recycling programs",
+     "It's a law that adds compliance costs."
+    ],
+    [
+     "An economic opportunity",
+     "It adds costs."
+    ],
+    [
+     "An internal decision",
+     "External."
+    ]
+   ],
+   "exp": "Laws a business must follow are legal factors."
+  },
+  {
+   "q": "Several states pass strict labeling laws for meat-alternative products. How does this affect the maker?",
+   "right": "It raises operating costs",
+   "wrong": [
+    [
+     "It speeds up product innovation, since companies must invent new kinds of labels",
+     "Not the main effect."
+    ],
+    [
+     "It increases population growth",
+     "Unrelated."
+    ],
+    [
+     "It promotes renewable packaging",
+     "Not stated."
+    ]
+   ],
+   "exp": "Legal factors like labeling rules raise costs and can make a market less attractive."
+  }
+ ],
+ "Political vs. legal": [
+  {
+   "q": "Which is a POLITICAL factor rather than a legal one?",
+   "right": "A government's new policy to subsidize clean energy",
+   "wrong": [
+    [
+     "A state law requiring restaurants to post calorie counts on every menu item",
+     "That's a specific law: legal."
+    ],
+    [
+     "A labeling requirement",
+     "Legal."
+    ],
+    [
+     "Health and safety rules",
+     "Legal."
+    ]
+   ],
+   "exp": "Policy priorities are political; specific laws are legal."
+  },
+  {
+   "q": "A new law requires food handlers to follow strict sanitation steps. Which factor?",
+   "right": "Legal",
+   "wrong": [
+    [
+     "Political, because the law was passed by elected officials in the government",
+     "The law a business must follow is legal."
+    ],
+    [
+     "Social",
+     "Not a trend."
+    ],
+    [
+     "Economic",
+     "Not the economy."
+    ]
+   ],
+   "exp": "Specific laws and regulations are legal factors."
+  }
+ ],
+ "Entrepreneur": [
+  {
+   "q": "Maya leaves a job to start a mobile pet-grooming business with her own savings. What makes her an entrepreneur?",
+   "right": "She bears the risk of a new business",
+   "wrong": [
+    [
+     "She works for a large corporation that pays her a steady salary and benefits",
+     "She left that to take a risk."
+    ],
+    [
+     "She owns a pet",
+     "Not the point."
+    ],
+    [
+     "She's a customer",
+     "She's the seller."
+    ]
+   ],
+   "exp": "An entrepreneur bears the risk of bringing a new product or service to market."
+  },
+  {
+   "q": "Which person is best described as an entrepreneur?",
+   "right": "A student who starts a bike-repair service",
+   "wrong": [
+    [
+     "An employee who receives a bonus for meeting this year's sales target at work",
+     "No business risk."
+    ],
+    [
+     "A customer buying a bike",
+     "A buyer."
+    ],
+    [
+     "A government inspector",
+     "Not starting a business."
+    ]
+   ],
+   "exp": "Starting a new business and bearing its risk."
+  }
+ ],
+ "Entrepreneur motivations": [
+  {
+   "q": "Jordan loves fixing bikes and sees students struggling to get repairs. Which motivations fit?",
+   "right": "Passion and problem-solving",
+   "wrong": [
+    [
+     "Only profit, since entrepreneurs never start businesses for any other reason",
+     "Your guide lists three motivations."
+    ],
+    [
+     "Avoiding risk",
+     "Starting a business is risky."
+    ],
+    [
+     "Government requirements",
+     "Not a motivation."
+    ]
+   ],
+   "exp": "Motivations include profit, problem-solving and passion."
+  },
+  {
+   "q": "Which is NOT one of the three motivations in your study guide?",
+   "right": "Guaranteed income",
+   "wrong": [
+    [
+     "Solving a problem that customers have and are frustrated by every day",
+     "That's problem-solving."
+    ],
+    [
+     "Profit",
+     "Listed."
+    ],
+    [
+     "Passion",
+     "Listed."
+    ]
+   ],
+   "exp": "Profit, problem-solving and passion; nothing is guaranteed."
+  }
+ ],
+ "Idea generation": [
+  {
+   "q": "Lena watches families struggling to carry gear at tournaments and interviews parents. What is she doing?",
+   "right": "Generating ideas by observing and interviewing",
+   "wrong": [
+    [
+     "Building a minimum viable product to test whether parents will buy her backpack",
+     "That comes later."
+    ],
+    [
+     "Setting prices",
+     "Not yet."
+    ],
+    [
+     "Writing a mission statement",
+     "Not this step."
+    ]
+   ],
+   "exp": "Ideas come from observing, interviewing and surveying."
+  },
+  {
+   "q": "Which method fits idea generation in your study guide?",
+   "right": "Surveying potential customers",
+   "wrong": [
+    [
+     "Signing an exclusive agreement with the only supplier of a special material",
+     "That's a barrier."
+    ],
+    [
+     "Filing for a patent",
+     "Protects an idea already found."
+    ],
+    [
+     "Hiring an accountant",
+     "Unrelated."
+    ]
+   ],
+   "exp": "Observe, interview, survey."
+  }
+ ],
+ "Design thinking": [
+  {
+   "q": "Which order matches design thinking in your study guide?",
+   "right": "Validate, develop the solution, build an MVP",
+   "wrong": [
+    [
+     "Build the final product, then launch it, then ask customers what they think",
+     "That skips validation."
+    ],
+    [
+     "Launch, then validate",
+     "Validation comes first."
+    ],
+    [
+     "Patent, then validate",
+     "Not the order."
+    ]
+   ],
+   "exp": "Validation (test, feedback, iterate) → solution development → MVP."
+  },
+  {
+   "q": "Why does design thinking start by testing ideas with customers?",
+   "right": "To avoid building something customers don't want",
+   "wrong": [
+    [
+     "To make sure the product is as expensive as possible before it reaches stores",
+     "Not the goal."
+    ],
+    [
+     "To get a patent faster",
+     "Unrelated."
+    ],
+    [
+     "To skip feedback later",
+     "Feedback continues."
+    ]
+   ],
+   "exp": "Testing first saves time and money."
+  }
+ ],
+ "Validation": [
+  {
+   "q": "Before buying equipment, Jordan surveys 200 students about a repair plan. Which step is this?",
+   "right": "Validation",
+   "wrong": [
+    [
+     "Launch, since Jordan is now selling repair plans to students on campus",
+     "He hasn't launched."
+    ],
+    [
+     "Production",
+     "No production yet."
+    ],
+    [
+     "Outsourcing",
+     "Unrelated."
+    ]
+   ],
+   "exp": "Testing an idea with customers before committing resources is validation."
+  },
+  {
+   "q": "Maya runs a mobile grooming van before renting a storefront. What does this show?",
+   "right": "Validating the model before a big commitment",
+   "wrong": [
+    [
+     "Creating a barrier to entry so that other groomers can't compete with her",
+     "Not the purpose."
+    ],
+    [
+     "Maximizing capacity",
+     "Not the point."
+    ],
+    [
+     "Increasing market share",
+     "Not the main goal."
+    ]
+   ],
+   "exp": "She tests demand before a large financial commitment."
+  }
+ ],
+ "Iteration": [
+  {
+   "q": "Lena redesigns the straps and enlarges a compartment after families test her backpack. What is this?",
+   "right": "Iteration",
+   "wrong": [
+    [
+     "Mass production, because she is preparing to manufacture hundreds of backpacks",
+     "This step is improving the design."
+    ],
+    [
+     "Collusion",
+     "Unrelated."
+    ],
+    [
+     "Outsourcing",
+     "Unrelated."
+    ]
+   ],
+   "exp": "Repeated improvements from feedback are iteration."
+  },
+  {
+   "q": "Why do businesses iterate on products?",
+   "right": "Each round of feedback improves the product",
+   "wrong": [
+    [
+     "Iteration guarantees that the product will never fail once it is launched",
+     "Nothing guarantees that."
+    ],
+    [
+     "To avoid customers",
+     "It relies on them."
+    ],
+    [
+     "To raise prices",
+     "Not its purpose."
+    ]
+   ],
+   "exp": "Iteration means improving repeatedly based on testing and feedback."
+  }
+ ],
+ "MVP hierarchy": [
+  {
+   "q": "An MVP looks great but often crashes. Which requirement has it failed?",
+   "right": "Reliable",
+   "wrong": [
+    [
+     "Engaging, because users get bored when the app keeps crashing on them",
+     "The issue is consistency."
+    ],
+    [
+     "Functional",
+     "It works when it runs."
+    ],
+    [
+     "Usable",
+     "Not the main issue."
+    ]
+   ],
+   "exp": "Your guide's order: functional, reliable, usable, engaging."
+  },
+  {
+   "q": "Which must an MVP achieve FIRST?",
+   "right": "Functional: it works and solves the core problem",
+   "wrong": [
+    [
+     "Engaging: it has unique value that keeps users coming back again and again",
+     "That's last."
+    ],
+    [
+     "Usable",
+     "Third."
+    ],
+    [
+     "Reliable",
+     "Second."
+    ]
+   ],
+   "exp": "Functional comes first."
+  }
+ ],
+ "Keep it simple": [
+  {
+   "q": "Why might a founder test a rough, unpolished prototype?",
+   "right": "Rough versions get more honest feedback",
+   "wrong": [
+    [
+     "Rough prototypes are always cheaper to sell in stores than finished products",
+     "It's about feedback."
+    ],
+    [
+     "Customers prefer ugly products",
+     "Not the point."
+    ],
+    [
+     "It avoids testing",
+     "It is testing."
+    ]
+   ],
+   "exp": "Keep it simple: unpolished prototypes draw honest feedback."
+  },
+  {
+   "q": "Which action fits the \"keep it simple\" principle?",
+   "right": "Testing a cardboard model before building the real thing",
+   "wrong": [
+    [
+     "Spending a year perfecting every detail before letting anyone see the product",
+     "That's the opposite."
+    ],
+    [
+     "Adding every possible feature",
+     "Not simple."
+    ],
+    [
+     "Skipping tests",
+     "Not the principle."
+    ]
+   ],
+   "exp": "Simple prototypes give quick, honest feedback."
+  }
+ ],
+ "Embrace friction": [
+  {
+   "q": "Why does your study guide say to embrace friction early?",
+   "right": "Early failures cost less than failures at scale",
+   "wrong": [
+    [
+     "Friction always means the idea should be abandoned immediately and forgotten",
+     "It's a chance to learn."
+    ],
+    [
+     "Friction creates barriers to entry",
+     "Unrelated."
+    ],
+    [
+     "Customers like problems",
+     "No."
+    ]
+   ],
+   "exp": "Early failures save time and money later."
+  },
+  {
+   "q": "A prototype fails a test in week one. Under \"embrace friction,\" how should the team see it?",
+   "right": "A cheap lesson to fix before scaling",
+   "wrong": [
+    [
+     "Proof that the business can never succeed and should close right away",
+     "Too extreme."
+    ],
+    [
+     "A reason to stop testing",
+     "Keep testing."
+    ],
+    [
+     "A legal problem",
+     "Unrelated."
+    ]
+   ],
+   "exp": "Learn from early failures."
+  }
+ ],
+ "User-centricity": [
+  {
+   "q": "A founder adds features he likes but users never asked for. Which principle is he ignoring?",
+   "right": "User-centricity",
+   "wrong": [
+    [
+     "Embrace friction, because he is making the product harder for users to learn",
+     "The issue is ignoring user needs."
+    ],
+    [
+     "Keep it simple",
+     "Related, but the core issue is users."
+    ],
+    [
+     "Vertical integration",
+     "Unrelated."
+    ]
+   ],
+   "exp": "Center on users' actual needs."
+  },
+  {
+   "q": "Which action best shows user-centricity?",
+   "right": "Redesigning based on what users say they need",
+   "wrong": [
+    [
+     "Choosing features based on what the company's engineers find most interesting",
+     "Not centered on users."
+    ],
+    [
+     "Raising prices",
+     "Unrelated."
+    ],
+    [
+     "Copying a rival's design",
+     "Not user-centered."
+    ]
+   ],
+   "exp": "User-centricity designs around real user needs."
+  }
+ ],
+ "Core values": [
+  {
+   "q": "A tech firm turns down a profitable project because it would collect user data aggressively, against its belief in privacy. What guided the decision?",
+   "right": "Core values",
+   "wrong": [
+    [
+     "Core competencies, because the firm is very good at protecting users' private data",
+     "The decision rests on a belief, not a skill."
+    ],
+    [
+     "Market share goals",
+     "It gave up profit."
+    ],
+    [
+     "Legal mandates",
+     "No law is mentioned."
+    ]
+   ],
+   "exp": "Beliefs like privacy are core values."
+  },
+  {
+   "q": "A company refuses to build a back door into its phones for law enforcement. This most reflects:",
+   "right": "A core value of privacy",
+   "wrong": [
+    [
+     "A core competency in low-cost manufacturing that lets it sell phones cheaply",
+     "Unrelated."
+    ],
+    [
+     "A legal requirement",
+     "It's refusing a request."
+    ],
+    [
+     "A barrier to entry",
+     "Unrelated."
+    ]
+   ],
+   "exp": "Core values guide strategic decisions (your slides: Apple and privacy)."
+  }
+ ],
+ "Company culture": [
+  {
+   "q": "New employees quickly learn that everyone helps customers beyond what's required. What does this describe?",
+   "right": "Company culture",
+   "wrong": [
+    [
+     "A code of conduct, since the company has written rules for helping customers",
+     "Nothing is written; it's shared behavior."
+    ],
+    [
+     "Outsourcing",
+     "Unrelated."
+    ],
+    [
+     "A mission statement",
+     "That's a written statement."
+    ]
+   ],
+   "exp": "Shared values and behaviors are company culture."
+  },
+  {
+   "q": "Why do businesses share their core values with employees?",
+   "right": "To build a culture where everyone works toward the same goals",
+   "wrong": [
+    [
+     "To meet a legal requirement that all businesses must publish their values",
+     "Not required."
+    ],
+    [
+     "To set prices",
+     "Unrelated."
+    ],
+    [
+     "To avoid hiring",
+     "Unrelated."
+    ]
+   ],
+   "exp": "Shared values align employees and shape culture."
+  }
+ ],
+ "Core competencies": [
+  {
+   "q": "Schools buy Spark Robotics' kits mainly for its lesson plans and live teacher support, not the hardware. What is its core competency?",
+   "right": "Teacher support and instructional materials",
+   "wrong": [
+    [
+     "Producing robotics kits at a lower cost than any other company in the market",
+     "Schools pass up cheaper kits."
+    ],
+    [
+     "The widest product selection",
+     "Not mentioned."
+    ],
+    [
+     "More advanced hardware",
+     "Not why schools buy."
+    ]
+   ],
+   "exp": "Core competencies are the capabilities that let a firm outperform rivals."
+  },
+  {
+   "q": "Spark Robotics wants to expand to high schools. Which question matters most?",
+   "right": "Will its teacher support create value there too?",
+   "wrong": [
+    [
+     "Can the company lower its manufacturing costs without lowering the quality of its kits?",
+     "That's not its core competency."
+    ],
+    [
+     "Will high schools buy more kits?",
+     "Secondary."
+    ],
+    [
+     "Would cheaper kits raise share?",
+     "Not its strength."
+    ]
+   ],
+   "exp": "Businesses weigh their core competencies when choosing opportunities."
+  }
+ ],
+ "Vision statement": [
+  {
+   "q": "\"To become the most trusted provider of healthy school meals in the state.\" What is this?",
+   "right": "A vision statement",
+   "wrong": [
+    [
+     "A mission statement, because it says what the company does for its customers",
+     "It states an aspiration: where it wants to go."
+    ],
+    [
+     "A value proposition",
+     "It's not about why to choose a product."
+    ],
+    [
+     "A tagline",
+     "Not a brand phrase."
+    ]
+   ],
+   "exp": "A vision statement describes where the business aspires to go."
+  },
+  {
+   "q": "Which proposal best supports a vision \"to become the most trusted provider of healthy school meals in the state\"?",
+   "right": "Independent nutrition certification and gradual expansion",
+   "wrong": [
+    [
+     "Cutting prices and using standardized menus to win contracts in as many districts as possible",
+     "Trust and health matter more than speed and price here."
+    ],
+    [
+     "Expanding fast while keeping current standards",
+     "Speed doesn't build trust."
+    ],
+    [
+     "Staying in one district only",
+     "The vision is statewide."
+    ]
+   ],
+   "exp": "Choose the option that builds trust and reaches the state."
+  }
+ ],
+ "Mission statement": [
+  {
+   "q": "\"We prepare affordable, nutritious meals that help students learn and thrive every day.\" What is this?",
+   "right": "A mission statement",
+   "wrong": [
+    [
+     "A vision statement, because it describes the company's hopes for its students' futures",
+     "It says what the company does and how."
+    ],
+    [
+     "A core competency",
+     "Not a skill."
+    ],
+    [
+     "A slogan",
+     "Not for a campaign."
+    ]
+   ],
+   "exp": "A mission statement says what a business does and how."
+  },
+  {
+   "q": "A prosthetics maker's site says: \"using recycled materials and 3D printing to provide affordable devices to underserved communities.\" What is this?",
+   "right": "A mission statement",
+   "wrong": [
+    [
+     "A vision statement, since it describes the future the company hopes to create",
+     "It explains what it does and how."
+    ],
+    [
+     "A core value",
+     "It's a statement of activity."
+    ],
+    [
+     "A trademark",
+     "Not a protected mark."
+    ]
+   ],
+   "exp": "What and how: mission."
+  }
+ ],
+ "For-profit business": [
+  {
+   "q": "Which organization is a for-profit business?",
+   "right": "Walmart",
+   "wrong": [
+    [
+     "The American Red Cross, which provides disaster relief around the world",
+     "Nonprofit."
+    ],
+    [
+     "Habitat for Humanity",
+     "Nonprofit."
+    ],
+    [
+     "Doctors Without Borders",
+     "Nonprofit."
+    ]
+   ],
+   "exp": "For-profits aim to earn profit for owners."
+  },
+  {
+   "q": "How can a for-profit business increase its profit?",
+   "right": "Raise revenue or cut costs",
+   "wrong": [
+    [
+     "Reinvest every dollar of surplus back into its programs, as the law requires",
+     "That's a nonprofit rule."
+    ],
+    [
+     "Rely on donations",
+     "Nonprofits do."
+    ],
+    [
+     "Avoid competition",
+     "Not a method."
+    ]
+   ],
+   "exp": "Profit = revenue − costs."
+  }
+ ],
+ "Social enterprise": [
+  {
+   "q": "TOMS gives part of its profits to social causes while selling shoes for profit. What kind of organization is it?",
+   "right": "A social enterprise",
+   "wrong": [
+    [
+     "A nonprofit, because it gives money to charities that work on social issues",
+     "It still earns profit."
+    ],
+    [
+     "A cooperative",
+     "Not in your sources."
+    ],
+    [
+     "A monopoly",
+     "Unrelated."
+    ]
+   ],
+   "exp": "Profit plus social or environmental goals: social enterprise."
+  },
+  {
+   "q": "A prosthetics company charges a \"fair price\" that covers costs and modest growth instead of the highest price possible. This reflects:",
+   "right": "Its core values meeting the market price",
+   "wrong": [
+    [
+     "A desire for a monopoly combined with buyers who want the lowest possible price",
+     "Not supported."
+    ],
+    [
+     "A nonprofit legal requirement",
+     "It's a social enterprise."
+    ],
+    [
+     "A PESTEL factor",
+     "It's internal."
+    ]
+   ],
+   "exp": "A social enterprise's beliefs shape how it prices."
+  }
+ ],
+ "Nonprofit organization": [
+  {
+   "q": "What is a key difference between a nonprofit and a traditional business?",
+   "right": "Nonprofits must reinvest surplus funds",
+   "wrong": [
+    [
+     "Nonprofits are not allowed to have mission statements or vision statements",
+     "They do have them."
+    ],
+    [
+     "Traditional businesses ignore core competencies",
+     "Not true."
+    ],
+    [
+     "Traditional businesses serve the public good only",
+     "Reversed."
+    ]
+   ],
+   "exp": "By law, a nonprofit's surplus goes back into the organization."
+  },
+  {
+   "q": "Where does a nonprofit usually get much of its money?",
+   "right": "Donations, grants and fundraising",
+   "wrong": [
+    [
+     "Selling shares of stock to investors who expect to receive part of the profits",
+     "Nonprofits don't have shareholders."
+    ],
+    [
+     "Only customer purchases",
+     "Usually not the main source."
+    ],
+    [
+     "Tariffs",
+     "Unrelated."
+    ]
+   ],
+   "exp": "Nonprofits rely on donations, grants and fundraising."
+  }
+ ],
+ "Unethical behavior": [
+  {
+   "q": "A founder wants to advertise a filter as \"clinically proven\" with no testing done. Why is this the biggest ethical concern?",
+   "right": "It makes claims with no reliable evidence",
+   "wrong": [
+    [
+     "Applying for a patent before production starts is a form of unfair competition",
+     "Patents are legal and normal."
+    ],
+    [
+     "Surveying customers first",
+     "Normal research."
+    ],
+    [
+     "Revising the prototype",
+     "Normal iteration."
+    ]
+   ],
+   "exp": "Unsupported claims are deceptive, a form of unethical behavior."
+  },
+  {
+   "q": "Which is an example of unethical behavior from your study guide?",
+   "right": "Concealing data from regulators",
+   "wrong": [
+    [
+     "Hiring an outside accounting firm to prepare the company's tax documents each year",
+     "Outsourcing is legal."
+    ],
+    [
+     "Raising prices when demand rises",
+     "Not unethical by itself."
+    ],
+    [
+     "Launching an MVP",
+     "Normal practice."
+    ]
+   ],
+   "exp": "Falsifying, misusing property, concealing data and fraud."
+  }
+ ],
+ "Incentive structures": [
+  {
+   "q": "A company pays big bonuses for hitting sales targets no matter how. Some reps start lying to customers. What is the root cause?",
+   "right": "A poorly designed incentive structure",
+   "wrong": [
+    [
+     "A strong code of conduct that employees must follow at all times",
+     "That would discourage lying."
+    ],
+    [
+     "Too much ethics training",
+     "That's not the cause."
+    ],
+    [
+     "A PESTEL factor",
+     "It's internal."
+    ]
+   ],
+   "exp": "Poor incentives can push employees toward unethical choices."
+  },
+  {
+   "q": "Which change would best fix incentives that reward results \"at any cost\"?",
+   "right": "Reward both results and honest methods",
+   "wrong": [
+    [
+     "Raise the bonus for hitting targets so employees are even more motivated to sell",
+     "That worsens the pressure."
+    ],
+    [
+     "Remove all goals",
+     "Too extreme."
+    ],
+    [
+     "Outsource sales",
+     "Doesn't fix incentives."
+    ]
+   ],
+   "exp": "Incentives should not push people toward unethical choices."
+  }
+ ],
+ "Ethical dilemma": [
+  {
+   "q": "A thermostat has a minor Wi-Fi bug; fixing it delays launch four months and costs $8 million. Executives weigh customers, shareholders and reputation. What is this?",
+   "right": "An ethical dilemma involving competing responsibilities",
+   "wrong": [
+    [
+     "A conflict between two market segments that want different thermostat features",
+     "Not about segments."
+    ],
+    [
+     "A differentiation decision",
+     "Not the core issue."
+    ],
+    [
+     "A feedback-based design choice",
+     "Not the core issue."
+    ]
+   ],
+   "exp": "Competing responsibilities with no clearly right option."
+  },
+  {
+   "q": "What makes a situation an ethical dilemma rather than a simple wrong?",
+   "right": "No option is clearly right or wrong",
+   "wrong": [
+    [
+     "Breaking a law that clearly protects customers from unsafe products",
+     "That's a clear wrong."
+    ],
+    [
+     "Earning a profit",
+     "Not a dilemma."
+    ],
+    [
+     "Following the code of conduct",
+     "Not a dilemma."
+    ]
+   ],
+   "exp": "Dilemmas involve competing responsibilities."
+  }
+ ],
+ "Code of conduct": [
+  {
+   "q": "A company publishes written rules for how employees handle gifts from suppliers. What is this?",
+   "right": "A code of conduct",
+   "wrong": [
+    [
+     "A mission statement that explains what the company does and how it does it",
+     "Not about behavior rules."
+    ],
+    [
+     "A business hypothesis",
+     "Unrelated."
+    ],
+    [
+     "A trademark",
+     "Unrelated."
+    ]
+   ],
+   "exp": "Written standards employees must follow."
+  },
+  {
+   "q": "A code of conduct mainly helps by:",
+   "right": "Making expected behavior clear in writing",
+   "wrong": [
+    [
+     "Guaranteeing that no employee will ever make an unethical choice at work",
+     "Too strong."
+    ],
+    [
+     "Raising profits immediately",
+     "Not its purpose."
+    ],
+    [
+     "Replacing leadership",
+     "Leaders still matter."
+    ]
+   ],
+   "exp": "It sets clear written standards."
+  }
+ ],
+ "Ethics training": [
+  {
+   "q": "A bank holds yearly workshops where staff practice handling fraud situations. What is this?",
+   "right": "Ethics training",
+   "wrong": [
+    [
+     "Accountability, since employees who commit fraud will be fired by the bank",
+     "That's consequences, not training."
+    ],
+    [
+     "Outsourcing",
+     "Unrelated."
+    ],
+    [
+     "A code of conduct",
+     "That's written rules."
+    ]
+   ],
+   "exp": "Ongoing programs that build ethical skills."
+  },
+  {
+   "q": "Why is ethics training ongoing rather than one-time?",
+   "right": "New situations and employees keep coming",
+   "wrong": [
+    [
+     "The law requires companies to retrain every employee every single week",
+     "Not stated."
+    ],
+    [
+     "Training raises prices",
+     "Unrelated."
+    ],
+    [
+     "It replaces accountability",
+     "Both matter."
+    ]
+   ],
+   "exp": "Ongoing programs keep ethics current."
+  }
+ ],
+ "Accountability": [
+  {
+   "q": "A manager who falsified reports loses a promotion and must repay bonuses. What does this show?",
+   "right": "Accountability",
+   "wrong": [
+    [
+     "A strong incentive structure that rewards managers for reporting results quickly",
+     "This is a consequence."
+    ],
+    [
+     "Leadership modeling",
+     "Not modeling."
+    ],
+    [
+     "Outsourcing",
+     "Unrelated."
+    ]
+   ],
+   "exp": "Internal repercussions for wrongdoing are accountability."
+  },
+  {
+   "q": "Which situation shows weak accountability?",
+   "right": "Rule-breakers face no consequences",
+   "wrong": [
+    [
+     "Employees who break the code of conduct are disciplined by their managers",
+     "That's strong accountability."
+    ],
+    [
+     "Leaders follow the rules",
+     "Leadership."
+    ],
+    [
+     "Staff are trained",
+     "Training."
+    ]
+   ],
+   "exp": "Without consequences, rules lose force."
+  }
+ ],
+ "Ethical leadership": [
+  {
+   "q": "A CEO publicly refuses an expensive gift from a supplier, following the same rule as staff. What does this show?",
+   "right": "Leadership modeling ethics",
+   "wrong": [
+    [
+     "Outsourcing the company's decisions to the supplier's leadership team",
+     "Unrelated."
+    ],
+    [
+     "A PESTEL factor",
+     "Internal."
+    ],
+    [
+     "Accountability only",
+     "It's mainly modeling."
+    ]
+   ],
+   "exp": "Executives model the behavior they expect."
+  },
+  {
+   "q": "Why does ethical leadership matter so much?",
+   "right": "Employees follow what leaders actually do",
+   "wrong": [
+    [
+     "Leaders are the only people in a company who can behave unethically",
+     "Anyone can."
+    ],
+    [
+     "It replaces the code of conduct",
+     "Both matter."
+    ],
+    [
+     "It sets prices",
+     "Unrelated."
+    ]
+   ],
+   "exp": "Leaders set the example."
+  }
+ ],
+ "Internal stakeholders": [
+  {
+   "q": "Which group is an internal stakeholder?",
+   "right": "Employees",
+   "wrong": [
+    [
+     "Customers who buy the company's products at stores across the country",
+     "External."
+    ],
+    [
+     "Suppliers",
+     "External."
+    ],
+    [
+     "The local community",
+     "External."
+    ]
+   ],
+   "exp": "Internal stakeholders work inside the business."
+  },
+  {
+   "q": "Factory workers would be affected by a plan to automate production. As stakeholders they are:",
+   "right": "Internal",
+   "wrong": [
+    [
+     "External, because they would lose their jobs and leave the company afterward",
+     "They are inside the business now."
+    ],
+    [
+     "Not stakeholders",
+     "They are affected."
+    ],
+    [
+     "Shareholders",
+     "Not necessarily."
+    ]
+   ],
+   "exp": "Employees are internal stakeholders."
+  }
+ ],
+ "External stakeholders": [
+  {
+   "q": "A thermostat launches without disclosing a bug. Which stakeholder is most directly affected first?",
+   "right": "Customers using the thermostats",
+   "wrong": [
+    [
+     "Shareholders who expect higher profits from the company this quarter",
+     "Not first."
+    ],
+    [
+     "Retailers",
+     "Less directly."
+    ],
+    [
+     "Manufacturing employees",
+     "Less directly."
+    ]
+   ],
+   "exp": "Customers, external stakeholders, feel it first."
+  },
+  {
+   "q": "Which group is an external stakeholder?",
+   "right": "Suppliers",
+   "wrong": [
+    [
+     "Managers who oversee the company's day-to-day operations and its employees",
+     "Internal."
+    ],
+    [
+     "Employees",
+     "Internal."
+    ],
+    [
+     "Executives",
+     "Internal."
+    ]
+   ],
+   "exp": "Customers, community, investors and suppliers are external."
+  }
+ ],
+ "Net benefit framework": [
+  {
+   "q": "A device maker can't tell if delaying a launch is right or wrong. Which approach best helps decide?",
+   "right": "Greatest total benefit, least total harm",
+   "wrong": [
+    [
+     "Pick whatever produces the biggest short-term return for the investors",
+     "Ignores other stakeholders."
+    ],
+    [
+     "Go with most managers' vote",
+     "Popularity isn't a framework."
+    ],
+    [
+     "Change the launch date least",
+     "Not ethical reasoning."
+    ]
+   ],
+   "exp": "Net benefit weighs all stakeholders."
+  },
+  {
+   "q": "A company launches while clearly telling hospitals about a software issue and sending a fix soon. Which conclusion is most reasonable?",
+   "right": "It balances interests while increasing transparency",
+   "wrong": [
+    [
+     "It removes every possible ethical concern because hospitals got advance notice",
+     "Too strong."
+    ],
+    [
+     "It guarantees future sales",
+     "No guarantee."
+    ],
+    [
+     "It shows profit beats safety",
+     "Not what it shows."
+    ]
+   ],
+   "exp": "A balanced choice across stakeholders, with transparency."
+  }
+ ],
+ "Strategic alignment framework": [
+  {
+   "q": "A company known for \"radical honesty\" chooses to publicly disclose a product flaw. Which framework fits best?",
+   "right": "Strategic alignment",
+   "wrong": [
+    [
+     "Net benefit, because disclosure always produces the most good for everyone",
+     "The reason given is fit with values."
+    ],
+    [
+     "Reputation only",
+     "The stated reason is its values."
+    ],
+    [
+     "Limit pricing",
+     "Unrelated."
+    ]
+   ],
+   "exp": "Choosing what fits stated values is strategic alignment."
+  },
+  {
+   "q": "Which question applies the strategic alignment framework?",
+   "right": "Does this match our stated values?",
+   "wrong": [
+    [
+     "Which option produces the greatest total benefit for every group affected?",
+     "That's net benefit."
+    ],
+    [
+     "How will the public see us?",
+     "Reputation."
+    ],
+    [
+     "What's cheapest?",
+     "Not a framework."
+    ]
+   ],
+   "exp": "Strategic alignment checks fit with values and mission."
+  }
+ ],
+ "Reputation framework": [
+  {
+   "q": "A firm recalls a product early because news coverage could destroy trust in the brand. Which framework is it using?",
+   "right": "Reputation",
+   "wrong": [
+    [
+     "Strategic alignment, since the recall fits the company's mission statement",
+     "The stated reason is public trust."
+    ],
+    [
+     "Net benefit",
+     "The reason given is trust."
+    ],
+    [
+     "Accountability",
+     "Not a decision framework here."
+    ]
+   ],
+   "exp": "Protecting public standing is the reputation framework."
+  },
+  {
+   "q": "Why might the reputation framework favor honesty even when it's costly?",
+   "right": "Lost trust can cost more over time",
+   "wrong": [
+    [
+     "Honest companies are always exempt from lawsuits and government fines",
+     "Not true."
+    ],
+    [
+     "Reputation never affects sales",
+     "It does."
+    ],
+    [
+     "It's required by tariffs",
+     "Unrelated."
+    ]
+   ],
+   "exp": "Public trust supports long-term success."
+  }
+ ],
+ "Liability": [
+  {
+   "q": "Which question is about liability?",
+   "right": "Who must pay if the business can't pay its debts?",
+   "wrong": [
+    [
+     "Which department in the company is responsible for hiring new employees?",
+     "That's HR."
+    ],
+    [
+     "What is the mission?",
+     "Not liability."
+    ],
+    [
+     "Who is the target customer?",
+     "Not liability."
+    ]
+   ],
+   "exp": "Liability is legal responsibility for a business's debts and losses."
+  },
+  {
+   "q": "Why do growing businesses often change their structure?",
+   "right": "To reduce risk or raise money",
+   "wrong": [
+    [
+     "To avoid having to pay any taxes to the government ever again",
+     "Not a reason given."
+    ],
+    [
+     "To lower prices",
+     "Not the reason."
+    ],
+    [
+     "To stop hiring",
+     "Not the reason."
+    ]
+   ],
+   "exp": "Structure affects control, liability and access to funding."
+  }
+ ],
+ "Unlimited liability": [
+  {
+   "q": "A sole proprietor's bakery fails owing $50,000. What can creditors pursue?",
+   "right": "The owner's personal savings and property",
+   "wrong": [
+    [
+     "Only the bakery's equipment, since the owner's own property is legally protected",
+     "That's limited liability."
+    ],
+    [
+     "Nothing",
+     "Debts must be paid."
+    ],
+    [
+     "Only the shareholders",
+     "There are none."
+    ]
+   ],
+   "exp": "With unlimited liability, personal assets can pay business debts."
+  },
+  {
+   "q": "Which structures usually have unlimited liability?",
+   "right": "Sole proprietorships and partnerships",
+   "wrong": [
+    [
+     "LLCs and corporations, because their owners are responsible for every decision",
+     "They have limited liability."
+    ],
+    [
+     "Only corporations",
+     "Limited."
+    ],
+    [
+     "Only LLCs",
+     "Limited."
+    ]
+   ],
+   "exp": "Owners of these structures are usually personally responsible."
+  }
+ ],
+ "Limited liability": [
+  {
+   "q": "An LLC owner invested $20,000 and the business fails owing $100,000. What can she lose?",
+   "right": "Her $20,000 investment",
+   "wrong": [
+    [
+     "Her house, car and savings, since she owns the business that owes the money",
+     "Limited liability protects personal assets."
+    ],
+    [
+     "$100,000",
+     "Not beyond her investment."
+    ],
+    [
+     "Nothing at all",
+     "She loses her investment."
+    ]
+   ],
+   "exp": "Limited liability: owners lose only what they invested."
+  },
+  {
+   "q": "Kai and Nora's partnership is growing. Which reason best justifies switching to an LLC?",
+   "right": "To protect their personal assets",
+   "wrong": [
+    [
+     "To hire more marketing employees for the new advertising campaign this year",
+     "Any structure can hire."
+    ],
+    [
+     "To raise their prices",
+     "Unrelated."
+    ],
+    [
+     "To outsource payroll",
+     "Unrelated."
+    ]
+   ],
+   "exp": "An LLC gives limited liability."
+  }
+ ],
+ "Sole proprietorship": [
+  {
+   "q": "Olivia starts a home invitation business with low costs and wants full control. Which factor most likely led her to choose a sole proprietorship?",
+   "right": "Low startup costs and being the only owner",
+   "wrong": [
+    [
+     "Expecting to need outside investment to support rapid growth next year",
+     "That points to other structures."
+    ],
+    [
+     "Wanting less personal liability",
+     "Sole proprietors have unlimited liability."
+    ],
+    [
+     "Planning to hire many employees",
+     "Not the deciding factor."
+    ]
+   ],
+   "exp": "Sole proprietorships fit one owner with low startup costs."
+  },
+  {
+   "q": "A year later Olivia signs large contracts with penalties for late delivery. Why might she reconsider her structure?",
+   "right": "Her personal financial risk has grown",
+   "wrong": [
+    [
+     "Her invitation product line has expanded to include more paper designs",
+     "Not the key reason."
+    ],
+    [
+     "She has more customers",
+     "Not by itself."
+    ],
+    [
+     "Her profits keep rising",
+     "Not by itself."
+    ]
+   ],
+   "exp": "Bigger risks make limited liability more attractive."
+  }
+ ],
+ "Partnership": [
+  {
+   "q": "Kai buys beans and roasts; Nora handles café clients and the website. They share profits. What is their structure?",
+   "right": "A partnership",
+   "wrong": [
+    [
+     "A corporation, because they divide the company's work into separate departments",
+     "No shareholders or board."
+    ],
+    [
+     "A sole proprietorship",
+     "Two owners."
+    ],
+    [
+     "A nonprofit",
+     "They earn profit."
+    ]
+   ],
+   "exp": "Two or more owners sharing control and profits."
+  },
+  {
+   "q": "Why are partnerships often harder to end than sole proprietorships?",
+   "right": "Ending one needs the partners' agreement",
+   "wrong": [
+    [
+     "The government must approve every partnership's closing in a public hearing",
+     "Not stated."
+    ],
+    [
+     "Partners have limited liability",
+     "Usually unlimited."
+    ],
+    [
+     "They have shareholders",
+     "They don't."
+    ]
+   ],
+   "exp": "Dissolving requires agreement among partners."
+  }
+ ],
+ "Limited liability company (LLC)": [
+  {
+   "q": "Which feature is true of an LLC?",
+   "right": "It can attract investors but cannot sell stock",
+   "wrong": [
+    [
+     "It must be run by a board of directors elected by many public shareholders",
+     "That's a corporation."
+    ],
+    [
+     "Owners have unlimited liability",
+     "Limited."
+    ],
+    [
+     "It can have only one owner",
+     "One or more members."
+    ]
+   ],
+   "exp": "LLCs offer limited liability, flexible management and moderate funding."
+  },
+  {
+   "q": "Why do many owners choose an LLC over a corporation?",
+   "right": "Protection without corporate complexity",
+   "wrong": [
+    [
+     "LLCs have the greatest access to funding because they sell shares of stock",
+     "Corporations do."
+    ],
+    [
+     "LLCs avoid all taxes",
+     "Not stated."
+    ],
+    [
+     "LLCs have unlimited liability",
+     "Limited."
+    ]
+   ],
+   "exp": "Limited liability with flexible, simpler management."
+  }
+ ],
+ "Corporation": [
+  {
+   "q": "Sara turns her delivery business into a corporation to buy a fleet of electric vans. What did she gain?",
+   "right": "Greater access to funding",
+   "wrong": [
+    [
+     "Total control over every daily decision in each of the company's departments",
+     "She gives up control."
+    ],
+    [
+     "No need for a board",
+     "Corporations have boards."
+    ],
+    [
+     "Personal liability for the fleet",
+     "Limited liability."
+    ]
+   ],
+   "exp": "Corporations can raise capital by selling stock."
+  },
+  {
+   "q": "What trade-off would Olivia face if she organized as a corporation?",
+   "right": "More funding, but giving up sole control",
+   "wrong": [
+    [
+     "Lower startup costs, but losing the personal protection she has right now",
+     "Reversed."
+    ],
+    [
+     "Complete control, but full personal liability",
+     "That's a sole proprietorship."
+    ],
+    [
+     "No employees, but slower growth",
+     "Unrelated."
+    ]
+   ],
+   "exp": "Owners cede control to shareholders and a board."
+  }
+ ],
+ "C-corporation": [
+  {
+   "q": "Which feature belongs to a C-corporation?",
+   "right": "Double taxation",
+   "wrong": [
+    [
+     "Pass-through taxation, with profits taxed only once on the owners' returns",
+     "That's an S-corp."
+    ],
+    [
+     "At most 100 shareholders",
+     "S-corp."
+    ],
+    [
+     "Unlimited liability",
+     "Corporations are limited."
+    ]
+   ],
+   "exp": "Your study guide: C-corps face double taxation."
+  },
+  {
+   "q": "A company wants to raise as much capital as possible from many investors. Which structure fits best?",
+   "right": "C-corporation",
+   "wrong": [
+    [
+     "Sole proprietorship, since one owner can make funding decisions more quickly",
+     "Least access to funding."
+    ],
+    [
+     "Partnership",
+     "Limited funding."
+    ],
+    [
+     "S-corporation",
+     "Limited to 100 shareholders."
+    ]
+   ],
+   "exp": "C-corporations have the greatest capital access."
+  }
+ ],
+ "S-corporation": [
+  {
+   "q": "Which is true of an S-corporation?",
+   "right": "Pass-through taxation, 100 or fewer shareholders",
+   "wrong": [
+    [
+     "Unlimited shareholders and double taxation on every dollar the company earns",
+     "That's a C-corp."
+    ],
+    [
+     "Unlimited liability",
+     "Limited."
+    ],
+    [
+     "Owned by one person only",
+     "Up to 100."
+    ]
+   ],
+   "exp": "S-corps pass profits through and cap shareholders at 100."
+  },
+  {
+   "q": "A company expects to grow to 300 shareholders. Why wouldn't an S-corporation work?",
+   "right": "S-corps are limited to 100 shareholders",
+   "wrong": [
+    [
+     "S-corps can't have limited liability for any of their shareholders at all",
+     "They do."
+    ],
+    [
+     "S-corps must be nonprofits",
+     "No."
+    ],
+    [
+     "S-corps can't make profits",
+     "They can."
+    ]
+   ],
+   "exp": "S-corporations have at most 100 shareholders."
+  }
+ ],
+ "Board of directors": [
+  {
+   "q": "After reviewing an expansion proposal, the board approves it. What role is the board playing?",
+   "right": "Overseeing major decisions for shareholders",
+   "wrong": [
+    [
+     "Managing daily operations and setting the tutoring schedules for each location",
+     "That's management."
+    ],
+    [
+     "Running ad campaigns",
+     "Marketing."
+    ],
+    [
+     "Hiring tutors",
+     "HR."
+    ]
+   ],
+   "exp": "The board oversees major strategic decisions on behalf of shareholders."
+  },
+  {
+   "q": "Who elects a corporation's board of directors?",
+   "right": "The shareholders",
+   "wrong": [
+    [
+     "The CEO, who chooses the board members to help run the company each day",
+     "The board oversees the CEO."
+    ],
+    [
+     "The employees",
+     "Not usually."
+    ],
+    [
+     "The government",
+     "No."
+    ]
+   ],
+   "exp": "Shareholders elect the board."
+  }
+ ],
+ "Executives": [
+  {
+   "q": "A company must decide whether it can afford a $2 million expansion. Who is most responsible?",
+   "right": "The CFO",
+   "wrong": [
+    [
+     "The CEO, since the CEO makes every decision in the company personally",
+     "Finance questions go to the CFO."
+    ],
+    [
+     "The VP of Marketing",
+     "Not finances."
+    ],
+    [
+     "The HR director",
+     "Not finances."
+    ]
+   ],
+   "exp": "The Chief Financial Officer oversees financial decisions."
+  },
+  {
+   "q": "In a corporation, to whom do executives like the CEO report?",
+   "right": "The board of directors",
+   "wrong": [
+    [
+     "The department managers, who supervise the executives on behalf of employees",
+     "Reversed."
+    ],
+    [
+     "Customers",
+     "Not formally."
+    ],
+    [
+     "Suppliers",
+     "No."
+    ]
+   ],
+   "exp": "Executives report to the board and shareholders."
+  }
+ ],
+ "Outsourcing": [
+  {
+   "q": "A coffee roaster hires an outside firm to prepare its financial statements so the owners can focus on growth. Why?",
+   "right": "To let specialists handle accounting",
+   "wrong": [
+    [
+     "To gain control of every stage of its supply chain from farm to café",
+     "That's vertical integration."
+    ],
+    [
+     "To target new customers",
+     "Unrelated."
+    ],
+    [
+     "To differentiate the coffee",
+     "Unrelated."
+    ]
+   ],
+   "exp": "Outsourcing taps specialized skills and frees owners to focus."
+  },
+  {
+   "q": "A board suggests paying a tech company to store the firm's data instead of running its own servers. What is this?",
+   "right": "Outsourcing",
+   "wrong": [
+    [
+     "Vertical integration, because the company is adding a new stage to its business",
+     "It's handing a task to another firm."
+    ],
+    [
+     "Becoming an LLC",
+     "Unrelated."
+    ],
+    [
+     "Merging departments",
+     "Unrelated."
+    ]
+   ],
+   "exp": "Paying another firm for a function is outsourcing."
+  }
+ ],
+ "Sales and marketing": [
+  {
+   "q": "As a coffee business grows, which task would most likely go to Nora, who handles clients and advertising?",
+   "right": "Analyzing survey data to find a new target market",
+   "wrong": [
+    [
+     "Forecasting the company's cash flow for the next quarter of the year",
+     "That's finance."
+    ],
+    [
+     "Scheduling roaster maintenance",
+     "Operations."
+    ],
+    [
+     "Designing benefit packages",
+     "HR."
+    ]
+   ],
+   "exp": "Finding customers is sales and marketing."
+  },
+  {
+   "q": "After sales decline, a company weighs more advertising versus a redesign. Your slides assign this to:",
+   "right": "Sales and marketing",
+   "wrong": [
+    [
+     "Accounting, because the department records all of the company's sales figures",
+     "Recording isn't deciding strategy."
+    ],
+    [
+     "HR",
+     "Not people."
+    ],
+    [
+     "Operations",
+     "Not production."
+    ]
+   ],
+   "exp": "Your slides list this decision under sales and marketing."
+  }
+ ],
+ "Research and development (R&D)": [
+  {
+   "q": "Competitors keep releasing bottles with new features. Which reason best justifies giving R&D more money?",
+   "right": "Rivals keep introducing new features",
+   "wrong": [
+    [
+     "Production delays have raised the company's shipping and transportation costs",
+     "That points to operations."
+    ],
+    [
+     "Retailers get late shipments",
+     "Operations."
+    ],
+    [
+     "Machines need more maintenance",
+     "Operations."
+    ]
+   ],
+   "exp": "R&D designs new products to stay competitive."
+  },
+  {
+   "q": "A firm designs and tests an improved version of an existing product. Which department?",
+   "right": "R&D",
+   "wrong": [
+    [
+     "Operations, since the improved product will eventually be produced in the factory",
+     "Designing and testing is R&D."
+    ],
+    [
+     "Accounting",
+     "Records."
+    ],
+    [
+     "HR",
+     "People."
+    ]
+   ],
+   "exp": "R&D improves goods, services and processes."
+  }
+ ],
+ "Operations": [
+  {
+   "q": "A bottle company invests in R&D but not operations, and retailers cut orders because deliveries stay late. What does this show?",
+   "right": "Operations was underestimated",
+   "wrong": [
+    [
+     "Customer surveys found demand for additional bottle features, so R&D was right",
+     "Late deliveries point to operations."
+    ],
+    [
+     "Engineers built another prototype",
+     "R&D success."
+    ],
+    [
+     "Rivals copied the insulation",
+     "Competition."
+    ]
+   ],
+   "exp": "Operations handles on-time production and delivery."
+  },
+  {
+   "q": "A company schedules workers and manages production of goods. Which department?",
+   "right": "Operations",
+   "wrong": [
+    [
+     "Human resources, because the department manages the company's workers",
+     "Scheduling production is operations."
+    ],
+    [
+     "Finance",
+     "Money."
+    ],
+    [
+     "Marketing",
+     "Customers."
+    ]
+   ],
+   "exp": "Operations manages production and delivery."
+  }
+ ],
+ "Accounting": [
+  {
+   "q": "A company records revenues and expenses and prepares financial statements. Which department?",
+   "right": "Accounting",
+   "wrong": [
+    [
+     "Finance, because the department deals with the company's money every day",
+     "Finance plans; accounting records."
+    ],
+    [
+     "Operations",
+     "Production."
+    ],
+    [
+     "R&D",
+     "Products."
+    ]
+   ],
+   "exp": "Accounting records transactions and prepares statements."
+  },
+  {
+   "q": "How do accounting and finance differ?",
+   "right": "Accounting records; finance plans and allocates",
+   "wrong": [
+    [
+     "Accounting decides whether to borrow money; finance records all the transactions",
+     "Reversed."
+    ],
+    [
+     "They are the same",
+     "Different jobs."
+    ],
+    [
+     "Finance hires people",
+     "That's HR."
+    ]
+   ],
+   "exp": "Accounting tracks; finance budgets, invests and borrows."
+  }
+ ],
+ "Finance": [
+  {
+   "q": "A department analyzes electricity versus fuel costs and secures a multimillion-dollar loan for new vans. Which is it?",
+   "right": "Finance",
+   "wrong": [
+    [
+     "Operations, since the vans will be used every day to make the deliveries",
+     "Securing loans is finance."
+    ],
+    [
+     "Accounting",
+     "Records, not loans."
+    ],
+    [
+     "Marketing",
+     "Customers."
+    ]
+   ],
+   "exp": "Finance manages funds, borrowing and investment."
+  },
+  {
+   "q": "A company evaluates whether to borrow money or invest in new equipment. Which department?",
+   "right": "Finance",
+   "wrong": [
+    [
+     "R&D, since new equipment helps the company design better products in the future",
+     "Funding decisions are finance."
+    ],
+    [
+     "HR",
+     "People."
+    ],
+    [
+     "Sales",
+     "Customers."
+    ]
+   ],
+   "exp": "Finance plans future financial needs."
+  }
+ ],
+ "Human resources (HR)": [
+  {
+   "q": "A tutoring company must hire 75 online tutors before school starts. Which department leads?",
+   "right": "Human resources",
+   "wrong": [
+    [
+     "Operations, because the tutors will deliver the company's main service to students",
+     "Hiring is HR."
+    ],
+    [
+     "Finance",
+     "Money."
+    ],
+    [
+     "Marketing",
+     "Customers."
+    ]
+   ],
+   "exp": "HR recruits, hires and trains employees."
+  },
+  {
+   "q": "A company builds a long-term plan to recruit, train and retain skilled workers. Which department?",
+   "right": "HR",
+   "wrong": [
+    [
+     "Operations, since the workers will run the company's production lines",
+     "Workforce planning is HR."
+    ],
+    [
+     "Accounting",
+     "Records."
+    ],
+    [
+     "R&D",
+     "Products."
+    ]
+   ],
+   "exp": "HR manages the workforce."
+  }
+ ],
+ "Artisan production": [
+  {
+   "q": "Candles are poured, decorated and inspected by hand, and customers wait three weeks. Which process is this?",
+   "right": "Artisan production",
+   "wrong": [
+    [
+     "Mass production, since the company makes many candles for customers every month",
+     "Hand work with long waits is artisan."
+    ],
+    [
+     "Outsourcing",
+     "Unrelated."
+    ],
+    [
+     "Vertical integration",
+     "Unrelated."
+    ]
+   ],
+   "exp": "Skilled hand labor, small quantities, unique items."
+  },
+  {
+   "q": "Before automating, what should a handmade-candle maker consider most?",
+   "right": "Whether customers value handmade quality enough",
+   "wrong": [
+    [
+     "Whether competitors will lower their prices after the company automates production",
+     "Secondary."
+    ],
+    [
+     "Whether wax suppliers will cut prices",
+     "Secondary."
+    ],
+    [
+     "Whether ad spending can fall",
+     "Unrelated."
+    ]
+   ],
+   "exp": "Its differentiation may depend on being handmade."
+  }
+ ],
+ "Mass production": [
+  {
+   "q": "A candle maker buys equipment that makes thousands of identical candles a week. Most likely outcome?",
+   "right": "More capacity but less differentiation",
+   "wrong": [
+    [
+     "Customers will automatically see the candles as being higher quality than before",
+     "Not automatic."
+    ],
+    [
+     "Less inventory",
+     "More."
+    ],
+    [
+     "No more competition",
+     "Too strong."
+    ]
+   ],
+   "exp": "Mass production raises output but may weaken a handmade identity."
+  },
+  {
+   "q": "Why is mass production more than \"making cheap stuff\"?",
+   "right": "It's a strategic choice that lowers cost per unit",
+   "wrong": [
+    [
+     "It always produces the highest-quality goods available anywhere in the market",
+     "Not always."
+    ],
+    [
+     "It removes the need for a supply chain",
+     "It still needs one."
+    ],
+    [
+     "It is required by law",
+     "No."
+    ]
+   ],
+   "exp": "Mass production spreads costs and can create a barrier to entry."
+  }
+ ],
+ "Supply chain": [
+  {
+   "q": "Strawberries are harvested, stored cold, shipped to a distributor, then to grocery chains. What is the farm's role?",
+   "right": "It creates the product before intermediaries move it",
+   "wrong": [
+    [
+     "Its main job is transporting the strawberries to the grocery stores",
+     "Distributors transport."
+    ],
+    [
+     "It is the intermediary",
+     "It's the producer."
+    ],
+    [
+     "It buys from other farms",
+     "Not stated."
+    ]
+   ],
+   "exp": "The farm is the origin; distributors and retailers follow."
+  },
+  {
+   "q": "Floods delay trucks carrying strawberries from warehouses. Who most likely runs out first?",
+   "right": "Grocery stores",
+   "wrong": [
+    [
+     "The farm, because it will have to stop picking strawberries right away",
+     "The farm keeps harvesting."
+    ],
+    [
+     "The distributor",
+     "Not the shelves."
+    ],
+    [
+     "Consumers",
+     "They feel it via stores."
+    ]
+   ],
+   "exp": "A break mid-chain empties retail shelves first."
+  }
+ ],
+ "Raw materials": [
+  {
+   "q": "Which is a raw material?",
+   "right": "Timber",
+   "wrong": [
+    [
+     "A finished dining table that is ready to be shipped to a furniture store",
+     "A finished good."
+    ],
+    [
+     "A retailer",
+     "A business."
+    ],
+    [
+     "A warehouse",
+     "A facility."
+    ]
+   ],
+   "exp": "Raw materials are basic natural resources."
+  },
+  {
+   "q": "A drought cuts the cotton harvest. Which part of a T-shirt maker's supply chain is hit first?",
+   "right": "Raw materials",
+   "wrong": [
+    [
+     "The retailer, which sells T-shirts to customers in stores and online",
+     "Later in the chain."
+    ],
+    [
+     "The wholesaler",
+     "Later."
+    ],
+    [
+     "The customer",
+     "Last."
+    ]
+   ],
+   "exp": "Cotton is a raw material at the start of the chain."
+  }
+ ],
+ "Suppliers": [
+  {
+   "q": "Ford buys steel, engines and tires from firms in several countries. Those firms are:",
+   "right": "Suppliers",
+   "wrong": [
+    [
+     "Retailers, because they sell their products to another company for money",
+     "Retailers sell to consumers."
+    ],
+    [
+     "Distributors",
+     "They move finished goods."
+    ],
+    [
+     "Wholesalers",
+     "They resell in bulk."
+    ]
+   ],
+   "exp": "Suppliers provide raw materials or components."
+  },
+  {
+   "q": "What do businesses weigh when choosing suppliers?",
+   "right": "Cost, quality, efficiency, convenience, reliability",
+   "wrong": [
+    [
+     "Only the lowest price, because nothing else affects the final product",
+     "More factors matter."
+    ],
+    [
+     "Only location",
+     "More factors."
+    ],
+    [
+     "Only brand",
+     "More factors."
+    ]
+   ],
+   "exp": "Your slides list cost, quality, efficiency, convenience and reliability."
+  }
+ ],
+ "Manufacturers": [
+  {
+   "q": "Which stage turns parts into a finished car?",
+   "right": "Manufacturers",
+   "wrong": [
+    [
+     "Distributors, which carry the parts between different countries around the world",
+     "They move goods."
+    ],
+    [
+     "Retailers",
+     "They sell."
+    ],
+    [
+     "Suppliers",
+     "They provide parts."
+    ]
+   ],
+   "exp": "Manufacturers transform inputs into finished goods."
+  },
+  {
+   "q": "Quality control mostly takes place at which stage?",
+   "right": "Manufacturing",
+   "wrong": [
+    [
+     "Retail, where store employees check products before customers buy them",
+     "Mostly during production."
+    ],
+    [
+     "Raw materials",
+     "Before production."
+    ],
+    [
+     "Logistics",
+     "Moving goods."
+    ]
+   ],
+   "exp": "Manufacturing involves machinery, labor, assembly and quality control."
+  }
+ ],
+ "Distributors": [
+  {
+   "q": "A company carries finished goods from factories to regional hubs. It is a:",
+   "right": "Distributor",
+   "wrong": [
+    [
+     "Manufacturer, since it handles products that came from the company's factories",
+     "It moves, doesn't make."
+    ],
+    [
+     "Retailer",
+     "Doesn't sell to consumers."
+    ],
+    [
+     "Supplier",
+     "Doesn't provide inputs."
+    ]
+   ],
+   "exp": "Distributors transport finished goods."
+  },
+  {
+   "q": "A national distributor combines shipments from many farms and delivers to grocery chains. Why use one?",
+   "right": "It moves goods from many producers efficiently",
+   "wrong": [
+    [
+     "It grows the strawberries more cheaply than any individual farm could",
+     "It doesn't grow anything."
+    ],
+    [
+     "It sets the retail price",
+     "Not its role."
+    ],
+    [
+     "It owns the farms",
+     "Not stated."
+    ]
+   ],
+   "exp": "Distributors consolidate and transport goods."
+  }
+ ],
+ "Wholesaler": [
+  {
+   "q": "A business buys snacks in bulk from manufacturers and resells them to corner stores. It is a:",
+   "right": "Wholesaler",
+   "wrong": [
+    [
+     "Retailer, because it sells the snacks to other businesses for a profit",
+     "Retailers sell to consumers."
+    ],
+    [
+     "Manufacturer",
+     "It doesn't make them."
+    ],
+    [
+     "Supplier of raw materials",
+     "Snacks are finished."
+    ]
+   ],
+   "exp": "Wholesalers buy in bulk and resell to retailers."
+  },
+  {
+   "q": "Why might a small store buy from a wholesaler instead of the manufacturer?",
+   "right": "It can buy smaller amounts from one source",
+   "wrong": [
+    [
+     "Wholesalers always sell products at a lower price than manufacturers charge",
+     "Not always."
+    ],
+    [
+     "It's required by law",
+     "No."
+    ],
+    [
+     "Manufacturers don't sell",
+     "They do."
+    ]
+   ],
+   "exp": "Wholesalers break bulk for retailers."
+  }
+ ],
+ "Retailers": [
+  {
+   "q": "Which is the final link in the supply chain?",
+   "right": "Retailers",
+   "wrong": [
+    [
+     "Wholesalers, since they sell products to the stores that customers visit",
+     "Retailers come after them."
+    ],
+    [
+     "Distributors",
+     "Earlier."
+    ],
+    [
+     "Suppliers",
+     "First."
+    ]
+   ],
+   "exp": "Retailers sell to consumers."
+  },
+  {
+   "q": "Besides selling, retailers focus on:",
+   "right": "Merchandising, inventory and customer service",
+   "wrong": [
+    [
+     "Mining raw materials and turning them into the parts that factories need",
+     "That's earlier in the chain."
+    ],
+    [
+     "Setting tariffs",
+     "Government."
+    ],
+    [
+     "Manufacturing",
+     "Earlier."
+    ]
+   ],
+   "exp": "Your slides list merchandising, inventory and customer service."
+  }
+ ],
+ "Logistics": [
+  {
+   "q": "A company plans how goods and information move from its factory to customers. What is this?",
+   "right": "Logistics",
+   "wrong": [
+    [
+     "Merchandising, since it decides how the products will look on the store shelves",
+     "That's display."
+    ],
+    [
+     "R&D",
+     "Product design."
+    ],
+    [
+     "Collusion",
+     "Unrelated."
+    ]
+   ],
+   "exp": "Logistics plans and manages movement of goods and information."
+  },
+  {
+   "q": "How can efficient logistics create a low-price advantage?",
+   "right": "It cuts the cost of moving goods",
+   "wrong": [
+    [
+     "It allows the company to raise prices because the products arrive faster",
+     "The point is lower costs."
+    ],
+    [
+     "It removes competitors",
+     "Not directly."
+    ],
+    [
+     "It replaces suppliers",
+     "No."
+    ]
+   ],
+   "exp": "Low-price supply chains use cheaper resources, mass production and efficient logistics."
+  }
+ ],
+ "Merchandising": [
+  {
+   "q": "A store moves a new snack to eye level with a bright sign and a sale price. What is this?",
+   "right": "Merchandising",
+   "wrong": [
+    [
+     "Logistics, because the store is moving products to a different shelf location",
+     "This is display and promotion."
+    ],
+    [
+     "Inventory",
+     "Not stock levels."
+    ],
+    [
+     "Customer service",
+     "Not helping customers."
+    ]
+   ],
+   "exp": "Merchandising is how products are displayed, arranged, priced and promoted."
+  },
+  {
+   "q": "Why do big brands pay for eye-level shelf space?",
+   "right": "Display strongly affects sales",
+   "wrong": [
+    [
+     "Eye-level products are legally protected from all competition in the store",
+     "Not true."
+    ],
+    [
+     "It lowers production costs",
+     "Unrelated."
+    ],
+    [
+     "It's a tariff",
+     "No."
+    ]
+   ],
+   "exp": "Merchandising affects what customers notice and buy."
+  }
+ ],
+ "Inventory": [
+  {
+   "q": "A store keeps 200 bikes on hand to sell. What is this stock called?",
+   "right": "Inventory",
+   "wrong": [
+    [
+     "Merchandising, since the bikes are arranged on display for customers to see",
+     "Stock on hand is inventory."
+    ],
+    [
+     "A surplus",
+     "Not necessarily."
+    ],
+    [
+     "Logistics",
+     "Moving goods."
+    ]
+   ],
+   "exp": "Inventory is the stock a business keeps to sell."
+  },
+  {
+   "q": "Why must retailers manage inventory carefully?",
+   "right": "To avoid shortages and excess stock",
+   "wrong": [
+    [
+     "Because carrying more inventory always increases a store's profits",
+     "Excess stock costs money."
+    ],
+    [
+     "Because inventory is taxed daily",
+     "Not stated."
+    ],
+    [
+     "To avoid customers",
+     "No."
+    ]
+   ],
+   "exp": "Too little causes stockouts; too much ties up money."
+  }
+ ],
+ "Stockout": [
+  {
+   "q": "Demand for candles keeps exceeding what the company can make. Which problem is most likely?",
+   "right": "Inventory stockouts",
+   "wrong": [
+    [
+     "Increased product differentiation that sets the candles apart from competitors",
+     "Not a problem."
+    ],
+    [
+     "Lower demand",
+     "Demand is high."
+    ],
+    [
+     "Lower quality from competition",
+     "Not supported."
+    ]
+   ],
+   "exp": "When demand exceeds supply, inventory runs out."
+  },
+  {
+   "q": "What is the usual result of a stockout?",
+   "right": "Lost sales and unhappy customers",
+   "wrong": [
+    [
+     "Higher profits, since the store doesn't have to pay to store any products",
+     "Lost sales hurt profit."
+    ],
+    [
+     "A surplus",
+     "The opposite."
+    ],
+    [
+     "Lower demand forever",
+     "Not necessarily."
+    ]
+   ],
+   "exp": "Stockouts mean orders can't be filled."
+  }
+ ],
+ "Low-price leadership": [
+  {
+   "q": "A company uses mass production, economies of scale and process optimization. Which strategy?",
+   "right": "Low-price leadership",
+   "wrong": [
+    [
+     "High-quality differentiation, since its efficient processes produce better products",
+     "That uses premium materials."
+    ],
+    [
+     "Artisan production",
+     "The opposite."
+    ],
+    [
+     "Penetration pricing",
+     "A pricing tactic, not a supply chain strategy."
+    ]
+   ],
+   "exp": "Mass production and efficiency support low prices."
+  },
+  {
+   "q": "Which company best fits low-price leadership?",
+   "right": "A discount store with huge volume and lean operations",
+   "wrong": [
+    [
+     "A watchmaker using rare metals and hand-assembly for each piece it sells",
+     "Differentiation."
+    ],
+    [
+     "A custom jeweler",
+     "Artisan."
+    ],
+    [
+     "A boutique bakery",
+     "Small scale."
+    ]
+   ],
+   "exp": "Scale and efficiency drive low prices."
+  }
+ ],
+ "High-quality differentiation": [
+  {
+   "q": "A laptop maker sources premium liquid-cooling parts to have the fastest machines. Which strategy?",
+   "right": "High-quality differentiation",
+   "wrong": [
+    [
+     "Low-price leadership, since faster machines help the company sell more laptops",
+     "It's about premium quality."
+    ],
+    [
+     "Limit pricing",
+     "Unrelated."
+    ],
+    [
+     "Outsourcing",
+     "It's still about quality."
+    ]
+   ],
+   "exp": "Premium resources and precision support differentiation."
+  },
+  {
+   "q": "Which supply chain choice fits high-quality differentiation?",
+   "right": "Paying more for durable premium materials",
+   "wrong": [
+    [
+     "Switching to the cheapest available materials to cut the price of each product",
+     "That's low-price leadership."
+    ],
+    [
+     "Removing inspections",
+     "Hurts quality."
+    ],
+    [
+     "Mass-producing identical units",
+     "Low-price."
+    ]
+   ],
+   "exp": "Premium resources, precision and durability."
+  }
+ ],
+ "Supply chain risks": [
+  {
+   "q": "A laptop maker's shipping costs from South Korea rise due to new rules on cargo ships. This is:",
+   "right": "A supply chain risk",
+   "wrong": [
+    [
+     "A strength of its mass-production process, which lowers the cost of each laptop",
+     "It's a risk, not a strength."
+    ],
+    [
+     "Its corporate structure",
+     "Unrelated."
+    ],
+    [
+     "Its operations expertise",
+     "Unrelated."
+    ]
+   ],
+   "exp": "External changes that raise costs or delay delivery are supply chain risks."
+  },
+  {
+   "q": "Which is most likely to delay deliveries and threaten a firm's advantage?",
+   "right": "Political instability where materials are sourced",
+   "wrong": [
+    [
+     "Rising household incomes in the local market where the company sells products",
+     "That raises demand."
+    ],
+    [
+     "A new vision statement",
+     "Internal."
+    ],
+    [
+     "Choosing an LLC structure",
+     "Internal."
+    ]
+   ],
+   "exp": "Political instability is a supply chain risk."
+  }
+ ],
+ "Scaling operations": [
+  {
+   "q": "A laptop maker moves from hand-assembly to automated lines and its cost per unit falls. What did it do?",
+   "right": "Scaled its operations",
+   "wrong": [
+    [
+     "Moved toward an artisan process in order to offer customers more customization",
+     "The opposite."
+    ],
+    [
+     "Eliminated its finance department",
+     "Unrelated."
+    ],
+    [
+     "Followed a hand-made trend",
+     "The opposite."
+    ]
+   ],
+   "exp": "Scaling expands capacity while improving efficiency."
+  },
+  {
+   "q": "How can scaling create a barrier to entry?",
+   "right": "New firms can't match the low costs",
+   "wrong": [
+    [
+     "It makes the government stop new firms from entering the market legally",
+     "Not a legal barrier."
+    ],
+    [
+     "It raises prices for everyone",
+     "It lowers costs."
+    ],
+    [
+     "It ends competition forever",
+     "Too strong."
+    ]
+   ],
+   "exp": "Newcomers lack the scale to match established costs."
+  }
+ ],
+ "Economies of scale": [
+  {
+   "q": "Why does producing 1 million units often cost less per unit than producing 1,000?",
+   "right": "Fixed costs are spread over more units",
+   "wrong": [
+    [
+     "Workers are paid less per hour when the factory makes a larger number of units",
+     "Not the reason."
+    ],
+    [
+     "Materials are free in bulk",
+     "Not free."
+    ],
+    [
+     "Taxes disappear",
+     "No."
+    ]
+   ],
+   "exp": "Spreading fixed costs lowers cost per unit."
+  },
+  {
+   "q": "A large chain and a single shop sell the same product. Rising ingredient costs hurt the shop more. Why?",
+   "right": "The chain buys in volume and spreads costs",
+   "wrong": [
+    [
+     "The single shop pays a special tax that only small businesses have to pay",
+     "Not stated."
+    ],
+    [
+     "The chain doesn't buy ingredients",
+     "It does."
+    ],
+    [
+     "The shop has more customers",
+     "Not the reason."
+    ]
+   ],
+   "exp": "Scale gives large firms cost advantages."
+  }
+ ],
+ "Exclusive agreements": [
+  {
+   "q": "A laptop maker signs a 3-year deal stopping its cooling supplier from selling to rivals. What does this create?",
+   "right": "A barrier to entry",
+   "wrong": [
+    [
+     "Lower quality, since the supplier will stop improving its cooling systems",
+     "Not supported."
+    ],
+    [
+     "A switch to a service model",
+     "No."
+    ],
+    [
+     "A new corporate structure",
+     "No."
+    ]
+   ],
+   "exp": "Exclusive agreements limit rivals' access to key parts."
+  },
+  {
+   "q": "Why might a new rival struggle when an established firm has exclusive supplier contracts?",
+   "right": "It can't get the parts it needs",
+   "wrong": [
+    [
+     "It lacks problem-solution fit because customers don't want the product",
+     "Not the issue."
+    ],
+    [
+     "It didn't write a mission statement",
+     "Unrelated."
+    ],
+    [
+     "It chose differentiation",
+     "Unrelated."
+    ]
+   ],
+   "exp": "Locked-up suppliers block rivals."
+  }
+ ],
+ "Restrictive distribution": [
+  {
+   "q": "A soda giant pushes stores to keep rival drinks off its coolers. Which barrier is this?",
+   "right": "Restrictive distribution",
+   "wrong": [
+    [
+     "An exclusive agreement with suppliers, since it controls who makes the soda",
+     "This limits retailers, not suppliers."
+    ],
+    [
+     "A patent",
+     "Unrelated."
+    ],
+    [
+     "Limit pricing",
+     "Unrelated."
+    ]
+   ],
+   "exp": "Limiting which retailers carry rivals is restrictive distribution."
+  },
+  {
+   "q": "How does restrictive distribution hurt a new brand?",
+   "right": "It can't reach customers through stores",
+   "wrong": [
+    [
+     "It raises the new brand's production costs by making materials more expensive",
+     "That's a supplier issue."
+    ],
+    [
+     "It gives the brand a patent",
+     "No."
+    ],
+    [
+     "It lowers its prices",
+     "Unrelated."
+    ]
+   ],
+   "exp": "Blocked retail access keeps rivals off shelves."
+  }
+ ],
+ "Globalization": [
+  {
+   "q": "Students check clothing labels and find items made in Vietnam, Bangladesh and Mexico. What does this show?",
+   "right": "Globalization",
+   "wrong": [
+    [
+     "Vertical integration, because one company made every item from start to finish",
+     "Unrelated."
+    ],
+    [
+     "A recession",
+     "Unrelated."
+    ],
+    [
+     "Collusion",
+     "Unrelated."
+    ]
+   ],
+   "exp": "Goods made worldwide reflect global connections."
+  },
+  {
+   "q": "Why does Ford use a global supply chain?",
+   "right": "Different regions make certain parts cheaper or better",
+   "wrong": [
+    [
+     "The law requires automakers to buy every part from a different country",
+     "No such law."
+    ],
+    [
+     "It removes all risk",
+     "It adds risk."
+    ],
+    [
+     "It avoids mass production",
+     "It supports it."
+    ]
+   ],
+   "exp": "Specialization lowers costs and improves access to inputs."
+  }
+ ],
+ "Globalization trade-offs": [
+  {
+   "q": "Which is a disadvantage of globalization?",
+   "right": "Job losses in industries that can't compete with imports",
+   "wrong": [
+    [
+     "A wider variety of goods and services available to consumers at home",
+     "An advantage."
+    ],
+    [
+     "Lower prices",
+     "An advantage."
+    ],
+    [
+     "Growth in some industries",
+     "An advantage."
+    ]
+   ],
+   "exp": "Globalization creates winners and losers."
+  },
+  {
+   "q": "Why can globalization make supply chains fragile?",
+   "right": "Countries depend on each other for inputs",
+   "wrong": [
+    [
+     "Because global trade is illegal in most countries and can be stopped at any time",
+     "Not true."
+    ],
+    [
+     "Because it raises prices",
+     "It usually lowers them."
+    ],
+    [
+     "Because it reduces variety",
+     "It increases variety."
+    ]
+   ],
+   "exp": "Interdependence means one disruption can spread."
+  }
+ ]
+}

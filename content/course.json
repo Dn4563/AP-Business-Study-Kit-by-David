@@ -1,0 +1,28 @@
+{
+  "id": "apbus",
+  "name": "AP Business",
+  "tagline": "One kit per unit. Pick a unit to study; progress in each one is saved in this browser.",
+  "hub": "https://dn4563.github.io/Study-Hub-by-David/",
+  "accent": "#6B3A7A",
+  "accentDark": "#C9A0D6",
+  "examTab": "Mock test",
+  "units": [
+    {
+      "id": "u1",
+      "dir": "unit-01",
+      "label": "Unit 1",
+      "title": "Business, Competition, and New Ideas",
+      "blurb": "What a business is, markets and competitive advantage, PESTEL, where ideas come from, vision, ethics, business structures and supply chains (topics 1.1 to 1.8).",
+      "learnMix": true
+    },
+    {
+      "id": "u2",
+      "dir": "unit-02",
+      "label": "Unit 2",
+      "title": "Marketing",
+      "blurb": "Marketing to customers, consumer behavior, market research, and the 4 Ps: product, price, place and promotion (topics 2.1 to 2.7).",
+      "learnMix": true,
+      "recall": true
+    }
+  ]
+}

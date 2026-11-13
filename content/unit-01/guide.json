@@ -1,0 +1,322 @@
+{
+ "flows": [
+  {
+   "id": "F1",
+   "title": "How a business idea becomes a business",
+   "deck": 4,
+   "steps": [
+    "Observe, interview, survey (find a real problem)",
+    "Validate: test, get feedback, iterate",
+    "Develop the solution",
+    "Build an MVP",
+    "Grow into an MMP and launch"
+   ]
+  },
+  {
+   "id": "F2",
+   "title": "How a shortage fixes itself",
+   "deck": 2,
+   "steps": [
+    "Buyers want more than sellers offer (shortage)",
+    "Buyers compete, so the price rises",
+    "Quantity demanded falls, quantity supplied rises",
+    "The market moves to the equilibrium price"
+   ]
+  },
+  {
+   "id": "F3",
+   "title": "How a surplus fixes itself",
+   "deck": 2,
+   "steps": [
+    "Sellers offer more than buyers want (surplus)",
+    "Sellers compete, so the price falls",
+    "Quantity demanded rises, quantity supplied falls",
+    "The market moves to the equilibrium price"
+   ]
+  },
+  {
+   "id": "F4",
+   "title": "A product supply chain",
+   "deck": 8,
+   "steps": [
+    "Raw materials",
+    "Suppliers",
+    "Manufacturers",
+    "Distributors and wholesalers",
+    "Retailers",
+    "Consumers"
+   ]
+  }
+ ],
+ "tables": [
+  {
+   "title": "The four market structures",
+   "rows": [
+    [
+     "Structure",
+     "Number of firms",
+     "Product",
+     "Control over price",
+     "Barriers to entry",
+     "Examples"
+    ],
+    [
+     "Perfect competition",
+     "Many small firms",
+     "Identical",
+     "None (price takers)",
+     "None or very low",
+     "Wheat, corn, soybeans"
+    ],
+    [
+     "Monopolistic competition",
+     "Many firms",
+     "Differentiated",
+     "Some",
+     "Low",
+     "Restaurants, gyms, hair salons"
+    ],
+    [
+     "Oligopoly",
+     "Few large firms",
+     "Identical or differentiated",
+     "A lot, but firms depend on each other",
+     "High",
+     "Airlines, smartphones, soda"
+    ],
+    [
+     "Monopoly",
+     "One firm",
+     "Unique",
+     "Total",
+     "High",
+     "Local utilities, patented drugs"
+    ]
+   ]
+  },
+  {
+   "title": "Business structures",
+   "rows": [
+    [
+     "Structure",
+     "Owners",
+     "Liability",
+     "Management",
+     "Access to funds"
+    ],
+    [
+     "Sole proprietorship",
+     "One owner",
+     "Unlimited",
+     "Owner decides everything",
+     "Very limited (savings, credit)"
+    ],
+    [
+     "Partnership",
+     "Two or more",
+     "Usually unlimited",
+     "Shared by partners",
+     "Limited to moderate"
+    ],
+    [
+     "LLC",
+     "One or more members",
+     "Limited",
+     "Flexible",
+     "Moderate; investors but no stock"
+    ],
+    [
+     "Corporation",
+     "Shareholders",
+     "Limited",
+     "Executives under a board of directors",
+     "Greatest; sells stock"
+    ]
+   ]
+  },
+  {
+   "title": "PESTEL at a glance",
+   "rows": [
+    [
+     "Factor",
+     "What it covers",
+     "Example"
+    ],
+    [
+     "Political",
+     "Government actions and policies",
+     "Tax credit for solar panels; tariffs"
+    ],
+    [
+     "Economic",
+     "How the economy is doing",
+     "Inflation; interest rates rising from 4% to 7%"
+    ],
+    [
+     "Social",
+     "Trends in society and culture",
+     "More people want high-protein meals"
+    ],
+    [
+     "Technological",
+     "New technology available to everyone",
+     "A new food-delivery platform; automation"
+    ],
+    [
+     "Environmental",
+     "Nature and environmental concerns",
+     "Floods; heat waves; green attitudes"
+    ],
+    [
+     "Legal",
+     "Specific laws a business must follow",
+     "Labeling rules; recycling requirements"
+    ]
+   ]
+  },
+  {
+   "title": "Departments and what they do",
+   "rows": [
+    [
+     "Department",
+     "Job",
+     "Typical task"
+    ],
+    [
+     "Sales and marketing",
+     "Win and keep customers",
+     "Ad campaign; find a new target market"
+    ],
+    [
+     "R&D",
+     "Design and improve products",
+     "Test an improved version"
+    ],
+    [
+     "Operations",
+     "Produce and deliver",
+     "Schedule production; fix late deliveries"
+    ],
+    [
+     "Accounting",
+     "Record the money",
+     "Prepare financial statements"
+    ],
+    [
+     "Finance",
+     "Plan the money",
+     "Decide whether to borrow for a $2M expansion"
+    ],
+    [
+     "Human resources",
+     "People",
+     "Hire 75 tutors; plan training"
+    ]
+   ]
+  },
+  {
+   "title": "Three kinds of organization",
+   "rows": [
+    [
+     "Type",
+     "Goal",
+     "Example"
+    ],
+    [
+     "For-profit",
+     "Profit for owners",
+     "Walmart, Apple"
+    ],
+    [
+     "Social enterprise",
+     "Profit plus social or environmental goals",
+     "Patagonia, TOMS"
+    ],
+    [
+     "Nonprofit",
+     "Public good; surplus reinvested by law",
+     "Red Cross, Habitat for Humanity"
+    ]
+   ]
+  }
+ ],
+ "cheat": [
+  {
+   "title": "Formulas",
+   "kind": "list",
+   "items": [
+    "Profit = revenue − total costs (negative = a loss).",
+    "Value captured per unit = price − cost to make it.",
+    "Market share = a firm's sales ÷ total market sales."
+   ]
+  },
+  {
+   "title": "Pairs people mix up",
+   "kind": "table",
+   "rows": [
+    [
+     "This",
+     "vs. this"
+    ],
+    [
+     "Customer: pays and decides",
+     "Consumer: uses it"
+    ],
+    [
+     "Value creation: benefit to the customer",
+     "Value capture: money the business keeps"
+    ],
+    [
+     "Problem-solution fit: it solves the problem",
+     "Product-market fit: enough demand to be viable"
+    ],
+    [
+     "Core values: what we believe",
+     "Core competencies: what we're best at"
+    ],
+    [
+     "Vision: where and why",
+     "Mission: what and how"
+    ],
+    [
+     "Political: policy choices",
+     "Legal: specific laws"
+    ],
+    [
+     "Shortage: price rises",
+     "Surplus: price falls"
+    ],
+    [
+     "Accounting: records the money",
+     "Finance: plans the money"
+    ],
+    [
+     "Artisan: handmade, unique",
+     "Mass production: many, cheap per unit"
+    ]
+   ]
+  },
+  {
+   "title": "Test-taking reminders",
+   "kind": "list",
+   "items": [
+    "A company's own invention or hire is NOT a PESTEL factor.",
+    "Look for the BEST answer: several choices can sound true; pick the one the scenario supports.",
+    "Watch for answers that are too extreme (\"always,\" \"guarantees,\" \"eliminates all\").",
+    "Liability is the most tested idea in 1.7: unlimited (sole proprietorship, partnership) vs. limited (LLC, corporation)."
+   ]
+  },
+  {
+   "title": "Business Canvas lenses",
+   "kind": "list",
+   "items": [
+    "Customer: who we serve.",
+    "Product: what we sell and its value.",
+    "Market: rivals and alternatives.",
+    "Finance: revenue and costs.",
+    "Operations: making and delivering.",
+    "Organization: people and roles."
+   ]
+  }
+ ]
+}
